@@ -1,12 +1,12 @@
-# Clancy is an elegant portfolio theme for Jekyll
+# Menca personal blogging theme for Jekyll
 
-Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc. This theme will help you professionally introduce yourself to your visitors and showcase your work in a minimalistic style. This super clean and fully optimized theme can be easily customized to suit your needs.
+Menca is a super fast and clean blogging theme for Jekyll. One of the main features of this theme is video post support. You can easily add your favorite video from services like Youtube or Vimeo. This theme is fully compatible with Github Pages and has a light and dark mode for easy reading. If you want to start a creative personal blog and you create video content this theme is perfect for you.
 
 * * *
 
 ### Demo
 
-Check the theme in action [Live Demo](https://clancy.netlify.app/) |
+Check the theme in action [Live Demo](https://menca.netlify.app/) |
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 * * *
@@ -15,11 +15,11 @@ Check the theme in action [Live Demo](https://clancy.netlify.app/) |
 
 - Works with GitHub Pages (host it for free)
 - Dark and light mode user can select themself
+- No jQuery, only vanilla JS
 - 100% responsive Design
 - Clean and Modern Code
 - Optimized for mobile devices
 - Super fast performance ⚡⚡⚡
-- No jQuery, only vanilla JS
 - Social sharing buttons
 - Scroll to top button
 - Syntax highlighting (supports the Jekyll syntax highlighter)
@@ -29,6 +29,7 @@ Check the theme in action [Live Demo](https://clancy.netlify.app/) |
 - Image gallery
 - Tags Page
 - Custom logo support
+- Supports video posts
 - Supports contact form (Formspree)
 - Supports MailChimp newsletter
 - Supports Disqus comments
@@ -57,7 +58,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ### Documentation
 
-Before using the Clancy theme, please read the attached documentation.
+Before using the Menca theme, please read the attached documentation.
 
 * * *
 
