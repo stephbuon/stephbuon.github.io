@@ -10,8 +10,8 @@ description: Clancy is a elegant portfolio theme for Jekyll.
 # Menu Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
+    #- title: 'Home'
+    #  url: '/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'About'
