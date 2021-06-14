@@ -5,11 +5,15 @@ permalink: /about/
 image: '/images/01-2.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I am a doctoral candidate in the applied science department at Southern Methodist University’s Lyle School of Engineering. My research engages with both the technical and analytical sides of the digital humanities, developing methods and tools that support the robust, sensitive, and accurate analysis of language. 
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+This is my projects portfolio. Click [here](https://wordpress.com/view/stephbuon.com) to view my academic profile, which has information about 
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+
+and provides links to my CV and article publications. 
+
+
+
 
 <div class="gallery-box">
   <div class="gallery">
