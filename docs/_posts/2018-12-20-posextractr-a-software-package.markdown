@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Strive not to be a success, but rather to be of value
+title:  'hansardr: A Software Package in R'
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2020-11-10 15:01:35 +0300
 image:  '/images/09.jpg'
