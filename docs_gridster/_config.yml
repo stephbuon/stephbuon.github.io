@@ -1,5 +1,6 @@
 full_rebuild: true
-name: Gridster
+#name: Gridster
+name: Democracy Lab
 description: the material experience for jekyll
 destination: jekyllbuild
 url: #place url
@@ -15,14 +16,14 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
+#tumblr: "#"
+#pinterest: "#"
 instagram: "#"
 twitter: "#"
 facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+#youtube: "#"
+#vimeo: "#"
+#soundcloud: "#"
 
 encoding: utf-8
 defaults:

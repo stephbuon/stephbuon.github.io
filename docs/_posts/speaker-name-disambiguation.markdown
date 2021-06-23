@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hansard Speaker Names Disambiguation
+title:  Speaker Name Disambiguation in the Hansard 19th-Century British Parliamentary Debates
 description: A pipeline for disambiguating speaker names in the 19th-century British Parliamentary debates.
 date:   2020-11-14 15:01:35 +0300
 image:  '/images/02.jpg'
