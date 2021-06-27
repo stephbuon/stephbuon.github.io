@@ -28,9 +28,9 @@ social:
 
 #-------------------------------
 # Hero Settings
-#hero:
-#  hero__title: Hey, I’m Camelia Mendes
-#  hero__description: Designs, talks, and writes about web, ethics, privacy, and #dev. I share design tutorials, free resources and inspiration.
+hero:
+  hero__title: Hey, I’m Camelia Mendes
+  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
 
 
 #-------------------------------
