@@ -12,7 +12,7 @@ color_scheme: dark # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Steph Buongiorno
-  author__bio: I am a doctoral candidate in the applied science department at Southern Methodist University’s Lyle School of Engineering. My research engages with both the technical and analytical sides of the digital humanities, developing methods and tools that support the robust, sensitive, and accurate analysis of language.
+  #author__bio: I am a doctoral candidate in the applied science department at Southern Methodist University’s Lyle School of Engineering. My research engages with both the technical and analytical sides of the digital humanities, developing methods and tools that support the robust, sensitive, and accurate analysis of language.
   #author__avatar: '/images/01-1.jpg'
 
 social:
