@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Course Materials: Text Mining as Historical Method'
+title:  'Course Material: Text Mining as Historical Method'
 description: An overview of materials designed for a class on digital history, with links to the full course. 
 date:   2020-10-31 15:01:35 +0300
 image:  '/images/11.jpg'
