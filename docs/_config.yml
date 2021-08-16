@@ -12,7 +12,7 @@ color_scheme: dark # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Steph Buongiorno
-  author__bio:
+  author__bio: does this work
   #author__avatar: '/images/01-1.jpg'
 
 social:
