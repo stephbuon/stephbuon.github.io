@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  'posextractr: A Software Package in R'
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
+description: description 
 date:   2020-11-10 15:01:35 +0300
-image:  '/images/09.jpg'
-tags:   [NLP, R, Software]
+image:  '/images/test_7.png'
+tags:   [R, Software]
 ---
-Placeholder text 
 
+hello 
