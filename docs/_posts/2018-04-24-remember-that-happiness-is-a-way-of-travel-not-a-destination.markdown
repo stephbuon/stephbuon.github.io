@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Text Mining for Historical Analysis: A Practitioner's Guide'
+title:  'Text Mining for Historical Analysis: A Guide'
 description: This methods book provides a practical introduction to the R programming language for text mining historical records.
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/14.jpg'
