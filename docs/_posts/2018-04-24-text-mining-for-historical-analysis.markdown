@@ -4,7 +4,7 @@ title:  'Text Mining for Historical Analysis: A Guide'
 description: This methods book provides a practical introduction to the R programming language for text mining historical records. More than just a code cookbook, it offers a critical perspective to handling our human history. It is the companion guide to The Dangerous Art of Text Mining by Jo Guldi.
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/14.jpg'
-tags:   [fashion, story, rest]
+tags:   [Hansard, Digital History, Forthcoming]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Luca Bravo](https://unsplash.com/photos/zAjdgNXsMeg) diversity and empowerment.
 
