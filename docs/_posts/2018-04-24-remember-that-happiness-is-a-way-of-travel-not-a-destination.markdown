@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Remember that happiness is a way of travel, not a destination
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
+description: This methods book provides a practical introduction to the R programming language for text mining historical records.
 date:   2020-04-24 15:01:35 +0300
 image:  '/images/14.jpg'
 tags:   [fashion, story, rest]
