@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  'Course Material: Text Mining as Historical Method'
+title:  'Course Materials: Text Mining as Historical Method'
 description: An overview of materials designed for a class on digital history, with links to the full course. 
-date:   2020-10-31 15:01:35 +0300
+date:   2021-08-10 15:01:35 +0300
 image:  '/images/race-over-time-1870_20101024.jpg'
 tags:   [Pedagogy, Digital History, Python, JupyterLab]
 ---
