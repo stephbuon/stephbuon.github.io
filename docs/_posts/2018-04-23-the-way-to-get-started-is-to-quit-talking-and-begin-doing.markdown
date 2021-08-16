@@ -6,3 +6,4 @@ date:   2020-04-23 15:01:35 +0300
 image:  '/images/15.jpg'
 tags:   [fashion, story, rest]
 ---
+placeholder

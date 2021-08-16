@@ -7,7 +7,6 @@ image:  '/images/speaker_disambig.jpg'
 #video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [Digital History, Hansard]
 ---
-
 Enter description. 
 
 View our [source code](https://github.com/stephbuon/hansard-speakers), or --read the article--. 
