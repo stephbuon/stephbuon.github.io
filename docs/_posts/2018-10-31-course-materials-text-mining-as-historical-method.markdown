@@ -14,7 +14,12 @@ I designed and collaborated on a series of Jupyter Notebooks for Jo Gulid's clas
 
 This post provides a sample of the material used by "Text Mining as Historical Method." For full course materials, see the [digital-history](https://github.com/stephbuon/digital-history) repository. 
 
-### Samples by Week
+### Course Overview
+
+Week 1 provides an introduction to using JupyterLab and 
+
+
+ on our mainframe computer. 
 
 Weeks 1-ENTER
 enter text
