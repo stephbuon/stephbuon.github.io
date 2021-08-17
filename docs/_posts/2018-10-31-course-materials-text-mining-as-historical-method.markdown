@@ -6,7 +6,7 @@ date:   2021-08-10 15:01:35 +0300
 image:  '/images/race-over-time-1870_20101024.jpg'
 tags:   [Pedagogy, Digital History, Python, JupyterLab]
 ---
-### Text Mining as Historical Method
+### About this Course
 
 Computer-powered methods are changing the way that we access information about society. New methods help us to detect change over time, to identify influential figures, and to name turning points. What happens when we apply these tools to a million congressional debates or tweets?  
 
@@ -16,7 +16,9 @@ This post provides a sample of the material used by "Text Mining as Historical M
 
 ### Course Overview
 
-Week 1 provides an introduction to using JupyterLab and 
+Week 1 provides an introduction to using JupyterLab and working on Southern Methodist University's mainframe computer. It also (ENTER). 
+
+Week 2 covers some basic programming concepts in Python such as (ENTER)
 
 
  on our mainframe computer. 
