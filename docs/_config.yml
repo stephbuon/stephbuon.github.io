@@ -2,7 +2,7 @@
 # Site Settings
 title: Steph Buongiorno
 logo: # You can add own logo. For example '/images/logo.png'.
-description: placeholder description
+description: Welcome.\nI am a doctoral candidate in the applied science department at Southern Methodist University’s Lyle School of Engineering. My research engages with both the technical and analytical sides of the digital humanities, developing methods and tools that support the robust, sensitive, and accurate analysis of language.\nThis is my portfolio. Here you can view my projects (finished and forthcoming). It includes synopses of published research, demonstrations of my software packages, and samples of pedagogical materials with links to the full course. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
