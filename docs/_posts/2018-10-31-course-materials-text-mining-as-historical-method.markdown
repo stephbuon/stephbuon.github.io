@@ -12,18 +12,25 @@ Computer-powered methods are changing the way that we access information about s
 
 I designed and collaborated on a series of Jupyter Notebooks for Jo Gulid's class, "Text Mining as Historical Method," to explore questions like these. The Notebooks for this class provide an introduction to the cutting-edge methodologies of textual analysis that are transforming the humanities. They are geared towards both computationalists as well as those with a background in the humanities (but not code) and are designed to teach the skills of analyzing texts as data for evidence of change over time. 
 
-This post provides a sample of the material used by "Text Mining as Historical Method." For full course materials, see the [digital-history](https://github.com/stephbuon/digital-history) repository. 
+This post provides an overview of the material used by "Text Mining as Historical Method." For full course materials, including interactive Jupyter Notebooks used by the class, see the [digital-history](https://github.com/stephbuon/digital-history) repository. 
 
 ### Course Overview
 
 Week 1 provides an introduction to using JupyterLab and working on Southern Methodist University's mainframe computer. It also (ENTER). 
 
-Week 2 covers some basic programming concepts in Python such as (ENTER)
+Week 2 covers basic programming concepts in Python such as (ENTER)
 
+Week 3
 
- on our mainframe computer. 
+Week 4
 
-Weeks 1-ENTER
-enter text
+Week 5
 
-Weeks 7-8
+Week 7 (ENTER--is all about). We first learn about spaCy NLP's main features including tokenization, parsing, lemmatization, tagging, and named entity recognition. 
+
+Week 8 
+
+Week 9 
+
+Week 10
+
