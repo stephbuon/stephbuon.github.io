@@ -41,14 +41,8 @@ Finds (enter image)
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
-    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
+    <img src="/images/top-f-adj-noun-counts.png">
+    <img src="/images/top-m-adj-noun-counts.png">
   </div>
   <em>Visualizations of Gendered Grammatical Constructions from the 2008 Subreddits, "Worldnews," "News," and "Politics"/ By Steph Buongiorno <!--<a href="https://unsplash.com/" target="_blank">Unsplash</a>--></em>
 </div>
