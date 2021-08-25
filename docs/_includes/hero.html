@@ -8,7 +8,7 @@
           <div class="hero__left">
             <h1 class="hero__title">{{ site.hero.hero__title }}</h1>
             <p class="hero__description">{{ site.hero.hero__description }}</p>
-            <!--{% if site.mailchimp == "enable" %}
+            {% if site.mailchimp == "enable" %}
             <div class="hero__subscribe">
               <form class="subscribe-form validate"
                 action="{% if site.mailchimp__identifier %}//{{site.mailchimp__identifier}}{% else %}#{% endif %}" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
@@ -18,7 +18,7 @@
                 <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.mailchimp__button__text }}</button>
               </form>
             </div>
-            {% endif %}-->
+            {% endif %}
           </div>
 
           <div class="hero__right">
