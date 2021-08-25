@@ -15,6 +15,11 @@ I designed and collaborated on a series of Jupyter Notebooks for Jo Gulid's clas
 This post provides an overview of the material used by "Text Mining as Historical Method." For full course materials, including interactive Jupyter Notebooks used by the class, see the [digital-history](https://github.com/stephbuon/digital-history) repository. (ENTER DEM LAB REPO STUFF)
 
 (the data sets used: Electronic Data Gathering, Analysis, and Retrieval system, EDGAR. )
+from basic word counts to more 
+in ML 
+distinctiveness 
+application to history 
+
 
 ### Course Overview
 
@@ -27,7 +32,7 @@ This post provides an overview of the material used by "Text Mining as Historica
 **Week 4** 
 
 
-**Week 5**
+**Week 5** demonstrates working with tabular data and date time types. Students break dates into just their years, or their years and months. Students also find a period's decade and group text belonging to each decade. After this overview of working with dates, students render a dot plot that follows the conventions for visualizing time data: time is treated on the x-axis, with years in sequential order. 
 
 **Week 6**
 
@@ -39,5 +44,7 @@ Finds (enter image)
 
 
 **Week 10** uses log likelihood to measure "distinctiveness" in a sample data set of quarterly reports on American corporations from EDGAR. Students process the data using tools from the scikit-learn module of statistics and machine learning, while focusing on count vectorizorization. They produce multiple visualizations for comparing and analyzing the distinct words in the quartery reports. 
+
+**Week 11** 
 
 **Week 12**
