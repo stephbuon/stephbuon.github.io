@@ -35,7 +35,7 @@ The skills practiced in this course begin with basic word counts and visualizati
 
 **Week 8**
 
-**Week 9** puts spaCy to work to answer a larger research question. From a 2008 sample of Subreddits, "Worldnews," "News," and "Politics," which grammatical adjectives and grammatical verbs co-occure with different pronouns? What kinds of actions are associated with male and female pronouns? And, how are different genders described in these Subreddits? 
+**Week 9** uses spaCy to answer a guided research question. From a 2008 sample of Subreddits, "Worldnews," "News," and "Politics," which grammatical adjectives and grammatical verbs co-occure in discourses about different genders? What kinds of actions are associated with male and female pronouns? What adjectives are used to describe men and women?  
 
 Finds (enter image)
 
@@ -48,9 +48,6 @@ Finds (enter image)
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
-
-
-
 
 **Week 10** uses log likelihood to measure "distinctiveness" in a sample data set of quarterly reports on American corporations from EDGAR. Students process the data using tools from the scikit-learn module of statistics and machine learning, while focusing on count vectorizorization. They produce multiple visualizations for comparing and analyzing the distinct words in the quartery reports. 
 
