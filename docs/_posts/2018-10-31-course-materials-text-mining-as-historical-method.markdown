@@ -42,7 +42,6 @@ application to history
 
 Finds (enter image)
 
-
 **Week 10** uses log likelihood to measure "distinctiveness" in a sample data set of quarterly reports on American corporations from EDGAR. Students process the data using tools from the scikit-learn module of statistics and machine learning, while focusing on count vectorizorization. They produce multiple visualizations for comparing and analyzing the distinct words in the quartery reports. 
 
 **Week 11** 
