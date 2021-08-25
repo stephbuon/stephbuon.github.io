@@ -41,12 +41,12 @@ Finds (enter image)
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/cropped-top-m-pronoun-verb-counts">
-    <img src="/images/cropped-top-m-pronoun-verb-counts">
-    <img src="/images/cropped-top-m-pronoun-verb-counts">
-    <img src="/images/cropped-top-m-pronoun-verb-counts">
+    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
+    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
+    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
+    <img src="/images/cropped-top-m-pronoun-verb-counts.png">
   </div>
-  <em>Visualizations of Gendered Grammatical Constructions from the 2008 Subreddits, "Worldnews," "News," and "Politics"/ <a href="By Steph Buongiorno" target="_blank">Unsplash</a></em>
+  <em>Visualizations of Gendered Grammatical Constructions from the 2008 Subreddits, "Worldnews," "News," and "Politics"/ <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 **Week 10** uses log likelihood to measure "distinctiveness" in a sample data set of quarterly reports on American corporations from EDGAR. Students process the data using tools from the scikit-learn module of statistics and machine learning, while focusing on count vectorizorization. They produce multiple visualizations for comparing and analyzing the distinct words in the quartery reports. 
