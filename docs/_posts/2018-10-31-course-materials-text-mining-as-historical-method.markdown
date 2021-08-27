@@ -39,13 +39,6 @@ The skills practiced in this course begin with basic word counts and visualizati
 
 Finds (enter image)
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/top-f-adj-noun-counts.png">
-    <img src="/images/top-m-adj-noun-counts.png">
-  </div>
-  <em>Visualizations of Gendered Grammatical Constructions from the 2008 Subreddits, "Worldnews," "News," and "Politics"/ By Steph Buongiorno <!--<a href="https://unsplash.com/" target="_blank">Unsplash</a>--></em>
-</div>
 
 **Week 10** uses log likelihood to measure "distinctiveness" in a sample data set of quarterly reports on American corporations from EDGAR. Students process the data using tools from the scikit-learn module of statistics and machine learning, while focusing on count vectorizorization. They produce multiple visualizations for comparing and analyzing the distinct words in the quartery reports. 
 
