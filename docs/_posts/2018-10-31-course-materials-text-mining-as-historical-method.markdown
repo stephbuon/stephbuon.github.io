@@ -26,18 +26,16 @@ The skills practiced in this course begin with basic word counts and visualizati
 
 **Week 3** introduces basic concepts in textual analytics and natural language processing, concepts such as stemming, lemmatization, regular expressions, n-grams, and bag-of-words analysis. These methods are used to understand the importance of word co-occurance in textual corpora. 
 
-**Week 4** 
+**Week 4** introduces NLTK's wordnet, a lexical database of English nouns, verbs, adjectives, and adverbs. Through wordnet these parts-of-speech are grouped into sets of cognitive synonyms (synsets) and hyponyms
+
+ and are interlinked within a network of conceptual-semantic and lexical relations. Using wordnet, students analyze 
+
+
 
 
 **Week 5** teaches how to work with tabular data and date time types. After an overview of methods to work with dates and time, students render a dot plot that follows the conventions for visualizing time data within digital history scholarship. 
 
-**Week 6** applies (ENTER) to analyze U.S. congressional debates from the 1980's. Using a controlled vocabulary consiting of keywords about crime, students 
-
-
-extract 
-clean 
-visualize 
-word counts on criminal 
+**Week 6** applies the concepts introduced in week 5 to analyze U.S. congressional debates from the 1980's. Using a controlled vocabulary consisting of keywords about crime, students extract, clean, and wrangle the speech of important congressional speakers. The data is then visualized with a line chart to show how the frequency of these speakers' top words change throughout the decade. 
 
 **Week 8**
 
