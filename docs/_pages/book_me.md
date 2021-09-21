@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Services
-permalink: /services/
+title: Book Me
+permalink: /book_me/
 image: '/images/17.jpg'
 ---
 
