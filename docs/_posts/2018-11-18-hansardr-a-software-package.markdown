@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'hansardr: A Software Package in R'
-description: An R library for easily accessing the SMU version of the Hansard corpus. Built-in functions offer integration of the corpus into the R environment. 
+description: An R library for easily accessing a clean Hansard corpus with disambiguated speakers. 
 date:   2020-11-11 15:01:35 +0300
 image:  '/images/hansardr.png'
 tags:   [Hansard, Digital History, R, Software]
@@ -11,7 +11,7 @@ tags:   [Hansard, Digital History, R, Software]
 
 The `hansardr` package offers the full corpus, debate metadata, and file metadata. See the [`hansardr` GitHub repository](https://github.com/stephbuon/hansardr) for installation instructions.
 
-For supplementary materials meant to support the analysis of the Hansard debates, including tokens and their raw counts, bigrams and their raw counts, special vocabulary, speaker metadata, and topics from LDA topic modeling, see our data set hosted on the Harvard Dataverse: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCYJH8. 
+For supplementary materials meant to support the analysis of the Hansard debates, including tokens and their raw counts, bigrams and their raw counts, special vocabulary, speaker metadata, and topics from LDA topic modeling, see [our data set hosted on the Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCYJH8). 
 
 ### Citation
 
