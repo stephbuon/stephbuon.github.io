@@ -11,9 +11,11 @@ tags:   [Hansard, Digital History, R, Software]
 
 The `hansardr` package offers the full corpus, debate metadata, and file metadata. See the [`hansardr` GitHub repository](https://github.com/stephbuon/hansardr) for installation instructions.
 
-For supplementary materials meant to support the analysis of the Hansard debates, including tokens and their raw counts, bigrams and their raw counts, special vocabulary, speaker metadata, and topics from LDA topic modeling, see our complete data set, the [_SMU 19th-Century Hansard Corpus with Improved Speaker Names_](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCYJH8) on the Harvard Dataverse.
+For supplementary materials meant to support the analysis of the Hansard debates, including tokens and their raw counts, bigrams and their raw counts, special vocabulary, speaker metadata, and topics from LDA topic modeling, see our complete data set, the [_SMU 19th-Century Hansard Corpus with Improved Speaker Names_](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCYJH8), on the Harvard Dataverse.
 
 ### Citation
+
+Buongiorno, Steph, 2021, _hansardr_ Available: https://github.com/stephbuon/hansardr. 
 
 Buongiorno, Steph; Kalescky, Robert; Godat, Eric; Cerpa, Omar Alexander; Guldi, Jo, 2021, "SMU 
   19th-Century Hansard Corpus with Improved Speaker Names", 
