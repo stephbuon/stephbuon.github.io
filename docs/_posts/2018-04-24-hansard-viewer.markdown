@@ -13,3 +13,7 @@ For seven years, our lab, Democracy Lab, has been operating at the juncture of p
 Users of the web application will be able to use an array of data-mining and statistical approaches which can provide new insights into the evolution and nature of political language as it occurs in different time periods and in different contexts. 
 
 For our final app, citizens using our toolset will be able to easily navigate from an overview showing change over time, to a dramatization of how different candidates talk about the same issue, to the in-text mentions of word use that a computer has used to produce the visualizations in question.  
+
+Note: 
+
+Our app is currently under development. We appreciate your patients as we resolve visual glitches and optimize performance. We have a known bug where the individual nations on the nation pairs page were counted too many times. 
