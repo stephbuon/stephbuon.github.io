@@ -7,7 +7,7 @@ image:  '/images/hansardr.png'
 tags:   [Hansard, Digital History, R, Software]
 ---
 
-`hansardr` is any easy way to access the _SMU 19th-Century Hansard Corpus with Improved Speaker Names_ within the R environment. The _SMU 19th-Century Hansard Corpus with Improved Speaker Names_ is a clean corpus of the 19th-century British Parliamentary Debates (1803-1909), also known as Hansard. The corpus identifies debates whose records are missing from UK Parliament’s corpus, and it also offers a field for disambiguated speakers. We believe these improvements will enhance scholarship in digital history, enabling researchers to analyze the Hansard debates, including speaker discourse, in a way that has not been accessible before. 
+`hansardr` is any easy way to access the _SMU 19th-Century Hansard Corpus with Improved Speaker Names_ within the R environment. The _SMU 19th-Century Hansard Corpus with Improved Speaker Names_ is an analysis-ready corpus of the 19th-century British Parliamentary Debates (1803-1909), also known as Hansard. The corpus identifies debates whose records are missing from UK Parliament’s corpus, and it also offers a field for disambiguated speakers. We believe these improvements will enhance scholarship in digital history, enabling researchers to analyze the Hansard debates, including speaker discourse, in a way that has not been accessible before. 
 
 The `hansardr` package offers the full corpus, debate metadata, and file metadata. See the [`hansardr` GitHub repository](https://github.com/stephbuon/hansardr) for installation instructions.
 
