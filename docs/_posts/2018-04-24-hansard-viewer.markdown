@@ -16,4 +16,4 @@ For our final app, citizens using our toolset will be able to easily navigate fr
 
 Note: 
 
-Our app is currently under development. We appreciate your patients as we resolve visual glitches and optimize performance. We have a known bug where the individual nations on the nation pairs page were counted too many times. 
+Our app is currently under development. We appreciate your understanding as we resolve visual glitches and optimize performance. We have a known bug where the individual nations on the nation pairs page were counted too many times. 
