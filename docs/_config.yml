@@ -40,8 +40,9 @@ hero:
     information and social sciences. This is my portfolio. Here you can view my 
     projects (finished and forthcoming). The website has synopses of published 
     research, demonstrations of my software packages, and samples of pedagogical 
-    materials with links to the full course. You can visit my [GitHub repository]
-    (https://github.com/stephbuon) to see more code, and you can downlo
+    materials with links to the full course. 
+    
+    (test)["https://github.com/stephbuon"]
   
     https://github.com/stephbuon 
     https://stephbuon.github.io/resume/buongiorno_resume.pdf
