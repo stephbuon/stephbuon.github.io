@@ -39,11 +39,9 @@ hero:
     and computational tools for data analytics in the humanities and across the 
     information and social sciences. This is my portfolio. It has synopses of
     research, demonstrations of my software packages, and samples of pedagogical 
-    materials with <font color="blue">links</font> to the full course.
+    materials with links to the full course.
     <br>
-    <font color="blue">
-    <a href="https://github.com/stephbuon">Visit my GitHub</a>  
-    </font>  
+    <a href="https://github.com/stephbuon" style="color: red">Visit my GitHub </a>  
     <br>
     Download my
     <font color="blue">
