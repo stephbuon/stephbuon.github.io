@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Download Data'
+title: 'Data Sets'
 permalink: /data/
 #image: '/images/01-2.jpg'
 ---
