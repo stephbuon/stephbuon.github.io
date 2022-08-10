@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'hansardr: A Software Package in R'
-description: An R library for easily accessing a clean Hansard corpus with disambiguated speakers. 
+description: Easily access a cleaned version of the Hansard corpus with improved speaker names in the R environment. 
 date:   2020-11-11 15:01:35 +0300
 image:  '/images/hansardr.png'
 tags:   [Hansard, Digital History, R, Software]
