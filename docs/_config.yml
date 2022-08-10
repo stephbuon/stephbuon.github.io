@@ -25,15 +25,26 @@ social:
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
-
+item1:
+  overview: |
+    overview text
+    more overview text
 #-------------------------------
 # Hero Settings
 hero:
   hero__title: Projects
-  hero__description: 'Welcome. I am a doctoral candidate in the applied science department at Southern Methodist University's Lyle School of Engineering. My research engages with both the technical and analytical sides of the social and information sciences where I develop methods and tools that support the robust, sensitive, and accurate analysis of language. This is my portfolio. Here you can view my projects (finished and forthcoming). It includes synopses of published research, demonstrations of my software packages, and samples of pedagogical materials with links to the full course.
+  hero__description: |
+    Welcome. I am a doctoral candidate in the Applied Science department at  
+    Southern Methodist University's Lyle School of Engineering. I build data sets 
+    and computational tools for data analytics in the humanities and across the 
+    information and social sciences. This is my portfolio. Here you can view my 
+    projects (finished and forthcoming). The website has synopses of published 
+    research, demonstrations of my software packages, and samples of pedagogical 
+    materials with links to the full course. You can visit my [GitHub repository]
+    (https://github.com/stephbuon) to see more code, and you can downlo
   
-https://github.com/stephbuon 
-https://stephbuon.github.io/resume/buongiorno_resume.pdf'
+    https://github.com/stephbuon 
+    https://stephbuon.github.io/resume/buongiorno_resume.pdf
 
 #-------------------------------
 # Newsletter
