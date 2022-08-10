@@ -37,12 +37,12 @@ hero:
     Welcome. I am a doctoral candidate in the Applied Science department at  
     Southern Methodist University's Lyle School of Engineering. I build data sets 
     and computational tools for data analytics in the humanities and across the 
-    information and social sciences. This is my portfolio. Here you can view my 
-    projects (finished and forthcoming). The website has synopses of published 
+    information and social sciences. This is my portfolio. It has synopses of
     research, demonstrations of my software packages, and samples of pedagogical 
-    materials with links to the full course. 
+    materials with links to the full course.
     
-    (test)["https://github.com/stephbuon"]
+    <a href="https://github.com/stephbuon">Visit my GitHub</a>  
+   
   
     https://github.com/stephbuon 
     https://stephbuon.github.io/resume/buongiorno_resume.pdf
