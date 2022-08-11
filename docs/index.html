@@ -3,6 +3,11 @@ layout: default
 image: '/images/01.jpg'
 ---
 
+{% for p in site.animals %}
+{{ p}}
+{{ p.title }}
+{% endfor %}
+
 {% include hero.html %}
 
 <div class="container">
