@@ -7,8 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
-permalink: /posts/:title
-
 #-------------------------------
 # Author Settings
 author:
@@ -106,6 +104,7 @@ google-analytics: UA-237078961-3
 # Build Settings
 markdown: kramdown
 permalink: /:title
+permalink: /posts/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
