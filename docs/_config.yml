@@ -91,10 +91,10 @@ contact:
 # Comment Section (Disqus)
 #disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
-collections:
-  animals:
-    output: true
-    permalink: /my-animal/:name
+#collections:
+#  animals:
+#    output: true
+#    permalink: /my-animal/:name
 
 
 #-------------------------------
