@@ -104,7 +104,6 @@ google-analytics: UA-237078961-3
 # Build Settings
 markdown: kramdown
 permalink: /:title
-permalink: /posts/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
