@@ -16,6 +16,7 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com"}
 #- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 #- {icon: "ion-logo-instagram", link: "https://instagram.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
@@ -40,7 +41,7 @@ hero:
     <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> visit my GitHub </a> or 
     <a href="https://stephbuon.github.io/resume/buongiorno_resume.pdf" style="color: blue; text-decoration:underline"> download my resume</a>. 
     </p>
-    
+
 #-------------------------------
 # Newsletter
 #mailchimp:  # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
