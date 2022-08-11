@@ -16,7 +16,7 @@ image: '/images/01.jpg'
         <div class="row">
           {% for item in (0..site.tags.size) limit:5 %}{% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-          <div>
+          <div class="col col-3 col-d-6 col-m-12">
             <a href="{{ site.baseurl }}/tags#{{ this_word | cgi_escape }}">
               <span>{{ this_word }}</span>
             </a>
