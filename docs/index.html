@@ -5,7 +5,6 @@ image: '/images/01.jpg'
 
 {% include hero.html %}
 
-
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
@@ -38,7 +37,6 @@ image: '/images/01.jpg'
 </section>
 <!-- end tags -->
 
-<p> </p>
 <div class="container">
   <div class="row animate">
     {% if site.posts.size > 0 %}
