@@ -6,7 +6,7 @@ date:   2022-01-01 15:01:35 +0300
 image:  '/images/word_embeddings.png'
 tags:   [Hansard, Digital History, App]
 ---
-Our prototype web app, the [Hansard Viewer](https://shinyviz.smu.edu/shiny/public/hansard-shiny/), explores how the tools to measure lexican change -- and more sophisticated NLP strategies such as measuring grammatical relationships -- can open a window into political discourse that will make what happens in Congress more transparent to everyday citizens. 
+Our prototype web app, the [Hansard Viewer](https://shinyviz.smu.edu/shiny/public/hansard-shiny/), explores how the tools to measure lexican change -- and more sophisticated NLP strategies such as measuring grammatical relationships -- can open a window into political discourse that will make what happens in Congress more transparent to researchers and everyday citizens alike. 
 
 For seven years, our lab, Democracy Lab, has been operating at the juncture of political, historical, and textual analysis of democratic debates, publishing numerous articles, collaborating with the builders of infrastructure to make text mining accessible to the public, and building a preliminary series of public-facing apps. 
 
