@@ -11,4 +11,6 @@ hansardr makes it easy to access the parsed debates from _The Hansard 19th-Centu
 
 This is a clean corpus of the 19th-century British Parliamentary Debates (1803-1909), also known as Hansard. It identifies debates whose records are missing from UK Parliament’s corpus, and it also offers a field for disambiguated speakers. We believe these improvements will enable researchers to analyze the Hansard debates, including speaker discourse, in a way that has not been accessible before.
 
-Visit [hansardr on GitHub](https://github.com/stephbuon/hansardr) for installation and useage instructions. 
+Visit <a href="https://github.com/stephbuon/hansardr" style="color: blue; text-decoration:underline"> hansardr on GitHub </a> for installation and useage instructions. 
+
+
