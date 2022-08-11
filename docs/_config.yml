@@ -90,10 +90,10 @@ contact:
 # Comment Section (Disqus)
 #disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
-#collections:
-#  animals:
-#    output: true
-#    permalink: /my-animal/:name
+collections:
+  animals:
+    output: true
+    permalink: /my-animal/:name
 
 
 #-------------------------------
@@ -109,7 +109,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 6
+paginate: 9
 paginate_path: "/page/:num"
 
 # Pages Path
