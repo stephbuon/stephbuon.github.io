@@ -17,18 +17,14 @@ author:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 #- {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
-item1:
-  overview: |
-    overview text
-    more overview text
 #-------------------------------
 # Hero Settings
 hero:
@@ -92,7 +88,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
+#disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For example demo-menca
 
 
 #-------------------------------
@@ -108,7 +104,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 9
+paginate: 6 #9
 paginate_path: "/page/:num"
 
 # Pages Path
