@@ -6,10 +6,9 @@ image: '/images/01.jpg'
 {% include hero.html %}
 {% include section-tags.html %}
 
-<hr/>
-
 <div class="container">
   <div class="row animate">
+  <hr/>
     {% if site.posts.size > 0 %}
       {% for post in paginator.posts %}
         {% include article.html %}
