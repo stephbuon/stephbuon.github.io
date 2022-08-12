@@ -13,3 +13,4 @@ The growing importance of triples extraction for analyzing large corpora has put
 The present research proposes a method of triples extraction, posextract, which has been designed to meet the increasing need for high-accuracy triples outputs for the analysis of text. We propose a solution aimed at reducing errors related to: a) ungrammatical extractions; b) double counting; and c) the missed detection of triples. 
 
 **Software package coming soon**
+**Article  coming soon**
