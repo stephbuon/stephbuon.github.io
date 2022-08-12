@@ -6,5 +6,8 @@ date:   2022-01-02 15:01:35 +0300
 image:  '/images/old_bailey_collage.jpg'
 tags:   [Pedagogy, Digital Humanities]
 ---
+As the teaching fellow for Foundations and Applications of Humanities Analytics (2022-2023), I design workshops for participant researchers. I foster an inclusive and intellectually rigorous classroom for researchers with diverse backgrounds (from senior faculty to early career graduate students). 
 
+You can view our repository <a href="https://github.com/stephbuon/faha" style="color: blue"> our repository </a> on GitHub for more information.  
 
+These courses are in collaboration with the Santa Fe Institute and supported by National Endowment of the Humanities (NEH) Grant (no. HT-272418-20)
