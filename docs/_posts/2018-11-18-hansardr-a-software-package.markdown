@@ -4,7 +4,7 @@ title:  'hansardr: A Software Package in R'
 description: Easily access a cleaned version of the c19 Hansard corpus with improved speaker names in the R environment. 
 date:   2020-11-11 15:01:35 +0300
 image:  '/images/hansardr.png'
-tags:   [Hansard, Digital History, R]
+tags:   [Hansard, History, R]
 ---
 
 hansardr makes it easy to access the parsed debates from _The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names_ within the R environment.
