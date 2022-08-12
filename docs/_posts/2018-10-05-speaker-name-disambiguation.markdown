@@ -13,4 +13,4 @@ We identify and correct for seven major causes for ambiguous speaker names: 1) s
 
 See our <a href="https://github.com/stephbuon/hansard-speakers" style="color: blue"> repository on GitHub </a> for a copy and to run our pipeline. Read about our process (coming soon).  
 
-This project was supported by National Science Foundation (NSF) Grant (no. 1520103)
+This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 

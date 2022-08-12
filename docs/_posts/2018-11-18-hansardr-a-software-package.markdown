@@ -13,4 +13,4 @@ This is a clean corpus of the 19th-century British Parliamentary Debates (1803-1
 
 Visit <a href="https://github.com/stephbuon/hansardr" style="color: blue"> hansardr on GitHub </a> for installation and useage instructions. 
 
-
+This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 

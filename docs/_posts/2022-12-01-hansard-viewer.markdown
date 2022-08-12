@@ -17,3 +17,5 @@ For our final app, citizens using our toolset will be able to easily navigate fr
 Note: 
 
 Our app is currently under development. We appreciate your understanding as we resolve visual glitches and optimize performance. We have a known bug where the individual nations on the nation pairs page were counted too many times. 
+
+This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 
