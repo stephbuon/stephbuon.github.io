@@ -6,4 +6,4 @@ date:   2020-11-07 15:01:35 +0300
 image:  '/images/posextractor.png'
 tags:   [NLP, Python]
 ---
-Placeholder text
+
