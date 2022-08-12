@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Hansard 19th-Century British Parliamentary Debates: Parsed Debates, N-Gram Counts, Special Vocabulary, and Topics'
-description: Automated scripts and an article describing our process for creating an analysis-ready version of the Hansard corpus, entitled, The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates.
+description: Automated scripts and an article describing our process for creating an analysis-ready version of the 19th-century Hansard corpus and supplementary material. 
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/the_hansard_19th_century_british_parliamentary_debates.png'
 tags:   [Hansard, History, Journal Article]
