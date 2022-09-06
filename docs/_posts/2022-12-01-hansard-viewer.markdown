@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'The Hansard Viewer (Prototype App)'
+title:  'The Hansard Viewer Demo App'
 description: Use an array of data-mining and statistical approaches to gain new insights into the evolution and nature of political language as it occurs in different time periods and in different contexts.  
 date:   2022-01-01 15:01:35 +0300
 image:  '/images/hansard_viewer.png'
