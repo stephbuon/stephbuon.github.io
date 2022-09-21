@@ -10,6 +10,6 @@ Our prototype web app, the <a href="https://shinyviz.smu.edu/shiny/public/congre
 
 For our final app, citizens using our toolset will be able to easily navigate from an overview showing change over time, to a dramatization of how different candidates talk about the same issue, to the in-text mentions of word use that a computer has used to produce the visualizations in question.  
 
-Click <a href="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/" style="color: blue"> here </a> to see a full sized version of the app. 
+Below is a truncated version of the app. Click <a href="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/" style="color: blue"> here </a> to interact with a full sized version. 
 
-<iframe height="100%" width="100%" frameborder="no" src="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/"> </iframe>
+<iframe height="400" width="100%" frameborder="no" src="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/"> </iframe>
