@@ -12,4 +12,4 @@ For our final app, citizens using our toolset will be able to easily navigate fr
 
 Below is a truncated version of the app. Click <a href="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/" style="color: blue"> here </a> to interact with a full sized version. 
 
-<iframe height="400" width="300" frameborder="no" src="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/"> </iframe>
+<iframe height="400" width="100%" frameborder="no" src="https://shinyviz.smu.edu/shiny/public/congress-viewer-demo/"> </iframe>
