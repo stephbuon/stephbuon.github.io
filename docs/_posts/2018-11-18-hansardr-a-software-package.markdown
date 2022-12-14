@@ -6,7 +6,7 @@ date:   2020-11-11 15:01:35 +0300
 image:  '/images/hansardr.png'
 tags:   [Hansard, History, R]
 ---
-hansardr makes it easy to access the parsed debates from "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names" within the R environment.
+hansardr makes it easy to access our improved, analysis-ready data set "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names" within the R environment.
 
 This is a clean corpus of the 19th-century British Parliamentary Debates (1803-1909), also known as Hansard. It identifies debates whose records are missing from UK Parliament’s corpus, and it also offers a field for disambiguated speakers. We believe these improvements will enable researchers to analyze the Hansard debates, including speaker discourse, in a way that has not been accessible before.
 
