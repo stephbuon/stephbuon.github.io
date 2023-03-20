@@ -1,0 +1,10 @@
+---
+layout: post
+title:  'usdoj: An R Library for Accessing U.S. Department of Justice (DOJ) Open Data '
+description: usdoj fetches data from the United States Department of Justice API such as press releases, blog entries, and speeches. Optional parameters allow users to specify the number of results starting from the earliest or latest entries, and whether these results contain keywords. Data is cleaned for analysis and returned in a dataframe.
+date:   2021-08-10 15:01:35 +0300
+image:  '/images/usdoj_logo.png'
+tags:   [R]
+---
+
+<meta http-equiv="Refresh" content="0; url='https://ropengov.github.io/usdoj/'" />
