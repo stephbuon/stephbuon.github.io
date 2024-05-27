@@ -5,7 +5,7 @@ description: A pipeline for disambiguating speaker names in the 19th-century Bri
 date:   2020-11-14 15:01:35 +0300
 image:  '/images/speaker-name-disambiguation.png'
 #video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [History, Hansard]
+tags:   [Hansard]
 ---
 Accurate analyses of legislative debates often rely on information about which individual was associated with which speech–the “speaker” field in the data. Analysis of speakers has been used, for example, to track the emergence of modern party discipline and to make claims about speaker influence. The accuracy of such analyses as these, however, can be thwarted by messy data.
 

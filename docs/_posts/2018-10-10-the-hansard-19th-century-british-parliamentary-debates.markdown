@@ -4,7 +4,7 @@ title: 'The Hansard 19th-Century British Parliamentary Debates: Parsed Debates, 
 description: Automated scripts and an article describing our process for creating an analysis-ready version of the 19th-century Hansard corpus and supplementary material. 
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/the_hansard_19th_century_british_parliamentary_debates.png'
-tags:   [Hansard, History, Journal Article]
+tags:   [Hansard, Journal Article]
 ---
 We present "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics." Our intention is to provide researchers with an analysis-ready version of the 19th-century Hansard debates (and supplementary material) to enhance analyses of the era.
 
