@@ -28,8 +28,9 @@ social:
 
 #-------------------------------
 # Hero Settings
+# I removed the hero title 
 hero:
-  hero__title: Featured Projects
+  hero__title: ""
   hero__description: |
     <br><br>Steph Buongiorno, PhD, is a transdisciplinary researcher who specializes in the development of innovative and holistic problem-solving approaches to large scale social problems. Her work involves combining multiple disciplines to generate new knowledge beyond the boundaries of individual fields.
 
