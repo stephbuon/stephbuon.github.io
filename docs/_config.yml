@@ -32,21 +32,15 @@ hero:
   hero__title: Projects
   hero__description: |
   
-   Steph Buongiorno, PhD, is a postdoctoral research fellow at Southern Methodist University, Guildhall. Buongiorno engages in transdisciplinary, 
-   computational research for the purpose of innovative and holistic problem-solving. Her work involves combining multiple 
-   disciplines to generate new knowledge beyond the boundaries of individual fields. 
+   Steph Buongiorno, PhD, is a transdisciplinary researcher who specializes in the development of innovative and holistic problem-solving approaches to large scale social problems. Her work involves combining multiple disciplines to generate new knowledge beyond the boundaries of individual fields.
+   In her current appointment, Dr. Buongiorno is as a post-doctoral fellow at Guildhall, the video game department at SMU, were she focuses on the development of autonomous agent systems and their applications for urgent problems including human trafficking, K-12 education disparity, and facial recognition bias. Methodologically, Dr. Buongiorno has an emphasis in: A) the development of "self-reflective" meta-prompting techniques to guide agents, intelligently; and B) the use of human computation gaming to develop tools that use "human-in-the-loop" techniques. In this vein, Dr. Buongiorno lead the creation of Dark Shadows, a film noir-style video game that fights human trafficking. 
+   Dr. Buongiorno is also the co-director of Democracy Lab at Emory University, where she directs the development of the Democracy Viewer, a public-facing web app that "democratizes" analytic tools and data sharing through an interactive interface for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
    
-   At Guildhall, Buongiorno focuses on two main areas of research 
-   that aim to address large-scale problems. Her primary area of research uses human 
-   computation gaming to develop tools for fighting human trafficking using human-in-the-loop machine learning techniques. The second area of research 
-   revolves around the development of an autonomous agent system driven by large language models (LLMs)--a system that can be used to support research, 
-   automation, and a multitude of other activities. 
-   <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
-   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
+   Her work has been supported by the National Science Foundation (NSF), National Endowment of the Humanities (NEH), and the National Institute of Justice (NIJ).
 
 
-
-
+#    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
+#   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
 
 #-------------------------------
 # Newsletter
