@@ -3,6 +3,6 @@ layout: post
 title: 'PANGeA'
 description: ENTER
 date:   2020-11-12 15:01:35 +0300
-image:  '/images/ENTER.png'
+image:  '/images/PAN.png'
 tags:   [Agents, Human Computation Gaming, Dark Shadows]
 ---
