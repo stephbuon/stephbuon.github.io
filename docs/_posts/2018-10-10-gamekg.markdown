@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'GAMEKG'
+description: ENTER
+date:   2020-11-12 15:01:35 +0300
+image:  '/images/GAMEKG.jpg'
+tags:   [Human Computation Gaming, Dark Shadows, Knowledge Graphs]
+---
