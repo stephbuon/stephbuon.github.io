@@ -34,6 +34,7 @@ sbuongiorno@smu.edu <br>
   <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
 
+<br>
 
 <h3>Professional Employment</h3>
 <div class="spaced-list">
@@ -44,7 +45,10 @@ sbuongiorno@smu.edu <br>
   </div>
 </div>
 
-<h1>Publications</h1> (peer reviewed = \*)
+<br>
+
+<h1>Publications</h1> 
+(peer reviewed = \*)
 
 <h3>Book Projects</h3>
 
@@ -55,18 +59,21 @@ Under Review. Cambridge University Press.
 
 <h3>Articles</h3>
 
-<small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small>
+<p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. Steph Buongiorno [Corresponding Author] and Corey Clark. 
+<p>* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. Steph Buongiorno [Corresponding Author] and Corey Clark. <br>
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
 
 <h3>Articles (Under Review)</h3>
 <br>
-\* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark.
-In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.   
-<br>
-\* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.
-<br>
+<p>* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. <br>
+<small><i>In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
+
+
+<p>* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. <br>
+<small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
+
+
 \* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
 <br>
 <h3>Article Projects</h3>
