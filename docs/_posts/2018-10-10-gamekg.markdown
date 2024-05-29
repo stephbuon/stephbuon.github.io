@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GAMEKG'
+title: 'GAME-KG'
 description: ENTER
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/GAME-KG.png'
