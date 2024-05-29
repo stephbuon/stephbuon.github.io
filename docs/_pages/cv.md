@@ -45,21 +45,21 @@ sbuongiorno@smu.edu <br>
 <br>
 <h1>Publications</h1> (peer reviewed = \*)
 <br>
-<h2>Book Projects</h2>
+<h3>Book Projects</h3>
 <br>
 \* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
 Under Review. Cambridge University Press. 
 
 \* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
 <br>
-<h2>Articles</h2>
+<h3>Articles</h3>
 <br>
 <small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small>
 <br>
 \* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
 <br>
-<h2>Articles (Under Review)</h2>
+<h3>Articles (Under Review)</h3>
 <br>
 \* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark.
 In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.   
@@ -68,7 +68,7 @@ In this article, I was responsible for all writing, designing the narrative and 
 <br>
 \* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
 <br>
-<h2>Article Projects</h2>
+<h3>Article Projects</h3>
 <br>
 Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. 
 <br>
@@ -78,7 +78,7 @@ Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generat
 <br>
 Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. 
 <br>
-<h2>Digital Projects</h2>
+<h3>Digital Projects</h3>
 <br>
 Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
 <br>
@@ -104,7 +104,7 @@ Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. Description: A code reposi
 <br>
 Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. 
 <br>
-<h2>Instructional and Interactive Materials</h2>
+<h3>Instructional and Interactive Materials</h3>
 <br>
 Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code – shared here as a Github page — formed the basis for all instruction and activity.
 <br>
@@ -112,9 +112,9 @@ Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.�
 <br>
 Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.
 <br>
-<h2>Video Games</h2>
+<h3>Video Games</h3>
 <br>
-<h3>Dark Shadows</h3>
+<h4>Dark Shadows</h3>
 <br>
 Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. Topic: Address the real-world problem of human trafficking while playing a video game. 
 <br>
@@ -129,17 +129,17 @@ I designed NPCs that leverage large language models (LLMs) and a self-reflection
 <h4>Dark Shadows, Scene III</h4> 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
 <br>
-<h2>Data Sets</h2>
+<h3>Data Sets</h3>
 <br>
 Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse 
 <br>
 Steph Buongiorno; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Speaker Metadata", https://doi.org/10.7910/DVN/Z3LTVV, Harvard Dataverse, FORTHCOMING
 <br>
-<h2>Other Contributions</h2>
+<h1>Other Contributions</h1>
 <br>
 30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining. 
 <br>
-<h2>Grant Proposals</h2>
+<h1>Grant Proposals</h1>
 <br>
 “Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.
 <br>
@@ -147,7 +147,7 @@ Steph Buongiorno; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Centur
 <br>
 “SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. 
 <br>
-<h2>Invited Lectures and Presentations</h2>
+<h1>Invited Lectures and Presentations</h1>
 <div class="spaced-list">
   <div>2024</div>
   <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” 
@@ -169,7 +169,7 @@ Southern Methodist University</div>
 </div>
 <br>
 
-<h2>Teaching</h2>
+<h1>Teaching</h1>
 <br>                                                                                
 2024 		HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming 
 Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University
@@ -251,7 +251,7 @@ University of Texas at Arlington (6 sections)
 
 <h1>Previous Employment </h1>
 
-<h2>Other Research Positions</h2>
+<h3>Other Research Positions</h3>
 
 2022-23		Technical Lead, “The Human Trafficking Project,” Department of Computer 
 Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University                          
@@ -265,7 +265,7 @@ Southern Methodist University
 2018-21			Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, 
 and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University
 
-<h2>Employment: Teaching Positions</h2>
+<h3>Employment: Teaching Positions</h3>
 
 2023-24		Democracy Lab Co-Director, Emory University. Topic: Development of an 
 advanced text mining app, data sharing, and data visualization public web app for 
@@ -288,14 +288,14 @@ Topics: Code, bias, and the representation and obfuscation of gender in both cod
 
 2015-2017		Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University
 
-<h2>Employment: Related Positions</h2>
+<h3>Employment: Related Positions</h3>
 
 2023-present		Instructor, Guildhall Academy (high school students), Guildhall, Southern 
 Methodist University
 
 2022-23		Computer Science Senior Design, Southern Methodist University
 
-<h2>Employment: Other</h2>
+<h3>Employment: Other</h3>
 
 2017			Assistant Instructor, Introduction to SCUBA, Southern Methodist University
 
@@ -305,12 +305,12 @@ Methodist University
 
 2012-2014		Assistant Instructor, Introduction to SCUBA, University of Texas at Arlington
 
-<h2>Awards</h2>
+<h3>Awards</h3>
 
 2023			Dean’s Award for Best Poster Presentation in Computer Science, Southern 
 Methodist University
 
-<h2>Other Skills and Certificates</h2>
+<h3>Other Skills and Certificates</h3>
 
 2020			Adv. Side Mount Cave Diver,  International Association of Nitrox and Technical 
 Divers
