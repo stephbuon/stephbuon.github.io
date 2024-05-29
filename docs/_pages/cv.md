@@ -8,7 +8,7 @@ permalink: /cv/
 <div>
 <h1>Steph Buongiorno, PhD</h1>
 </div>
-<br>
+
 <div>
 Guildhall (Department of Video Game Design) <br>
 Southern Methodist University <br>
