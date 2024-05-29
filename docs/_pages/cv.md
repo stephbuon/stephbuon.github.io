@@ -5,24 +5,31 @@ permalink: /cv/
 #image: '/images/01-2.jpg'
 ---
 
+#Steph Buongiorno, PhD
+###Curriculum Vitae
 
-Steph Buongiorno, PhD
-Curriculum Vitae
-
-Department of Video Game Design (Guildhall)					sbuongiorno@smu.edu
+<pre>
+Guildhall (Department of Video Game Design)
 Southern Methodist University 
 Ford Hall 306E
 3100 McFarlin Blvd, Dallas, TX 75205
-Education
+sbuongiorno@smu.edu
+</pre>
 
+#Education
+<pre>
 2023 			PhD, Applied Science, Lyle School of Engineering, Southern Methodist University                                   
-Subject areas: Computer Science, English, and History.
-Dissertation: “Grammatical Triples Extraction for the Distant Reading of Textual Corpora.”  Committee Members: Jo Guldi (Chair), Corey Clark (Co-Chair), David Lin, Mark Fontenot, Miju Ahn, Tim Cassedy.  
+					Subject areas: Computer Science, English, and History.
+					Dissertation: “Grammatical Triples Extraction for the Distant Reading of Textual Corpora.”  Committee Members: Jo Guldi (Chair), Corey Clark (Co-Chair), David Lin, Mark Fontenot, Miju Ahn, Tim Cassedy.  
 2017			MA, English, West Virginia University						                   
-2014 			BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)                                         
-Professional Employment 
-2023-Present		Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, 
-Southern Methodist University
+2014 			BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)         
+</pre>
+
+#Professional Employment 
+
+2023-Present		Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University
+
+
 I co-direct a 10 person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting). 
 
 
@@ -39,7 +46,7 @@ Articles
 
 In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.
 
-\\* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
+\* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
 
 Articles (Under Review)
