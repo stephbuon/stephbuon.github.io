@@ -9,7 +9,7 @@ permalink: /cv/
 <h1>Steph Buongiorno, PhD</h1>
 Curriculum Vitae
 </div>
-
+<br>
 <div>
 Guildhall (Department of Video Game Design) <br>
 Southern Methodist University <br>
@@ -17,7 +17,7 @@ Ford Hall 306E <br>
 3100 McFarlin Blvd, Dallas, TX 75205 <br>
 sbuongiorno@smu.edu <br>
 </div>
-
+<br>
 <style>
   .spaced-list {
     display: grid;
@@ -56,7 +56,7 @@ Under Review. Cambridge University Press.
 
 <h2>Articles</h2>
 
-In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.
+<small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small>
 
 \* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
@@ -124,23 +124,24 @@ Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. 
 
 I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/ 
 
-
 <h4>Dark Shadows, Scene II</h4>
 
 I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=H-3-9zxhUlg 
 
-
-Dark Shadows, Scene III 
+<h4>Dark Shadows, Scene III</h4> 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
-Data Sets
+
+<h2>Data Sets</h2>
 
 Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse 
 
 Steph Buongiorno; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Speaker Metadata", https://doi.org/10.7910/DVN/Z3LTVV, Harvard Dataverse, FORTHCOMING
-Other Contributions
+
+<h2>Other Contributions</h2>
 
 30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining. 
-Grant Proposals
+
+<h2>Grant Proposals</h2>
 
 “Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.
 
@@ -148,8 +149,7 @@ Grant Proposals
 
 “SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. 
 
-
-Invited Lectures and Presentations
+<h2>Invited Lectures and Presentations</h2>
 
 2024		[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” 
 SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters. 
@@ -169,10 +169,8 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
 2018		“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, 
 Southern Methodist University
 
-
-
-Teaching                                                                                         
-
+<h2>Teaching</h2>
+                                                                                         
 2024 		HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming 
 Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University
 
@@ -243,8 +241,7 @@ University of Texas at Arlington (2 sections)
 2012-14 		EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The 
 University of Texas at Arlington (6 sections)
 
-
-Service
+<h1>Service</h1>
 
 2024		Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems
 2024		Peer Reviewer, IEEE Conference on Games, Long Papers
@@ -252,10 +249,9 @@ Service
 2023		Track Co-Chair, SciPy, Computational Social Science and Digital Humanities
 2023		Mentor, PhD student Joel Nyman in history, Academy of Finland 
 
+<h1>Previous Employment </h1>
 
-
-Previous Employment 
-Other Research Positions
+<h2>Other Research Positions</h2>
 
 2022-23		Technical Lead, “The Human Trafficking Project,” Department of Computer 
 Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University                          
@@ -291,7 +287,7 @@ Topics: Code, bias, and the representation and obfuscation of gender in both cod
 
 2015-2017		Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University
 
-Employment: Related Positions
+<h2>Employment: Related Positions</h2>
 
 2023-present		Instructor, Guildhall Academy (high school students), Guildhall, Southern 
 Methodist University
@@ -312,7 +308,7 @@ Awards
 2023			Dean’s Award for Best Poster Presentation in Computer Science, Southern 
 Methodist University
 
-Other Skills and Certificates 
+<h2>Other Skills and Certificates</h2>
 
 2020			Adv. Side Mount Cave Diver,  International Association of Nitrox and Technical 
 Divers
