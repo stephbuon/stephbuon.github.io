@@ -33,19 +33,22 @@ sbuongiorno@smu.edu
   <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
 
+Sure! Here is the revised content:
+
+---
+
 <h3>Professional Employment</h3>
 <div class="spaced-list">
   <div>2023-Present</div>
   <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University</div>
+  <div style="margin-left: 20px;">
+    I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).
+  </div>
 </div>
 
-#Professional Employment 
+---
 
-2023-Present		Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University
-
-
-I co-direct a 10 person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting). 
-
+If you need any further adjustments, feel free to let me know!
 
 Publications
 (peer reviewed = \*)
