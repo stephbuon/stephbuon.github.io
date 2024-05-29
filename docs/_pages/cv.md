@@ -43,8 +43,7 @@ sbuongiorno@smu.edu <br>
   </div>
 </div>
 <br>
-<h1>Publications</h1>
-(peer reviewed = \*)
+<h1>Publications</h1> (peer reviewed = \*)
 <br>
 <h2>Book Projects</h2>
 <br>
@@ -265,7 +264,8 @@ Southern Methodist University
 
 2018-21			Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, 
 and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University
-Employment: Teaching Positions
+
+<h2>Employment: Teaching Positions</h2>
 
 2023-24		Democracy Lab Co-Director, Emory University. Topic: Development of an 
 advanced text mining app, data sharing, and data visualization public web app for 
@@ -295,7 +295,7 @@ Methodist University
 
 2022-23		Computer Science Senior Design, Southern Methodist University
 
-Employment: Other
+<h2>Employment: Other</h2>
 
 2017			Assistant Instructor, Introduction to SCUBA, Southern Methodist University
 
@@ -304,7 +304,8 @@ Employment: Other
 2014			Assistant Instructor, Introduction to SCUBA, Texas Woman’s University
 
 2012-2014		Assistant Instructor, Introduction to SCUBA, University of Texas at Arlington
-Awards
+
+<h2>Awards</h2>
 
 2023			Dean’s Award for Best Poster Presentation in Computer Science, Southern 
 Methodist University
