@@ -8,22 +8,36 @@ permalink: /cv/
 #Steph Buongiorno, PhD
 ###Curriculum Vitae
 
-<pre>
+
 Guildhall (Department of Video Game Design)
 Southern Methodist University 
 Ford Hall 306E
 3100 McFarlin Blvd, Dallas, TX 75205
 sbuongiorno@smu.edu
-</pre>
 
-#Education
-<pre>
-2023 			PhD, Applied Science, Lyle School of Engineering, Southern Methodist University                                   
-					Subject areas: Computer Science, English, and History.
-					Dissertation: “Grammatical Triples Extraction for the Distant Reading of Textual Corpora.”  Committee Members: Jo Guldi (Chair), Corey Clark (Co-Chair), David Lin, Mark Fontenot, Miju Ahn, Tim Cassedy.  
-2017			MA, English, West Virginia University						                   
-2014 			BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)         
-</pre>
+
+<style>
+  .spaced-list {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    gap: 10px;
+  }
+</style>
+
+<div class="spaced-list">
+  <div>2023</div>
+  <div>PhD, Applied Science, Lyle School of Engineering, Southern Methodist University</div>
+  <div>2017</div>
+  <div>MA, English, West Virginia University</div>
+  <div>2014</div>
+  <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
+</div>
+
+<h3>Professional Employment</h3>
+<div class="spaced-list">
+  <div>2023-Present</div>
+  <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University</div>
+</div>
 
 #Professional Employment 
 
