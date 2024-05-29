@@ -5,16 +5,18 @@ permalink: /cv/
 #image: '/images/01-2.jpg'
 ---
 
-#Steph Buongiorno, PhD
-###Curriculum Vitae
+<div>
+<h1>Steph Buongiorno, PhD</h1>
+Curriculum Vitae
+</div>
 
-
-Guildhall (Department of Video Game Design)
-Southern Methodist University 
-Ford Hall 306E
-3100 McFarlin Blvd, Dallas, TX 75205
-sbuongiorno@smu.edu
-
+<div>
+Guildhall (Department of Video Game Design) <br>
+Southern Methodist University <br>
+Ford Hall 306E <br>
+3100 McFarlin Blvd, Dallas, TX 75205 <br>
+sbuongiorno@smu.edu <br>
+</div>
 
 <style>
   .spaced-list {
@@ -33,40 +35,33 @@ sbuongiorno@smu.edu
   <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
 
-Sure! Here is the revised content:
-
----
-
 <h3>Professional Employment</h3>
 <div class="spaced-list">
   <div>2023-Present</div>
-  <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University</div>
-  <div style="margin-left: 20px;">
-    I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).
+  <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.
+  <br>
+  I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting). 
   </div>
 </div>
 
----
-
-If you need any further adjustments, feel free to let me know!
-
-Publications
+<h1>Publications</h1>
 (peer reviewed = \*)
-Book Projects
+
+<h2>Book Projects</h2>
 
 \* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
 Under Review. Cambridge University Press. 
 
 \* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
 
-Articles
+<h2>Articles</h2>
 
 In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.
 
 \* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
 
-Articles (Under Review)
+<h2>Articles (Under Review)</h2>
 
 \* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark.
 In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.   
@@ -74,7 +69,8 @@ In this article, I was responsible for all writing, designing the narrative and 
 \* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.
 
 \* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
-Article Projects
+
+<h2>Article Projects</h2>
 
 Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. 
 
@@ -83,9 +79,10 @@ Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “
 Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. 
 
 Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. 
-Digital Projects
 
-Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a [public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
+<h2>Digital Projects</h2>
+
+Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
 
 Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022. A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics. 
 
@@ -99,16 +96,17 @@ Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022. Desc
 
 \*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. 
 
- Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. 
+Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. 
 
- Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
+Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
 
- Steph Buongiorno. posextractr. GitHub. Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
+Steph Buongiorno. posextractr. GitHub. Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
 
 Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. Description: A code repository for text mining techniques for the Digital Humanities. 
 
- Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. 
-Instructional and Interactive Materials 
+Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. 
+
+<h2>Instructional and Interactive Materials</h2>
 
 Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code – shared here as a Github page — formed the basis for all instruction and activity.
 
