@@ -65,27 +65,26 @@ Under Review. Cambridge University Press.
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
 
 <h3>Articles (Under Review)</h3>
-<br>
+
 <p>* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. <br>
 <small><i>In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
-
 
 <p>* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
 
-\* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
-<br>
+<p>* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi.<br> In this article, I was responsible for ... </i></small></p>
+
 <h3>Article Projects</h3>
-<br>
-Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. 
-<br>
-Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. 
-<br>
-Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. 
-<br>
-Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. 
-<br>
+
+<p> Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. </p>
+
+<p> Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. </p>
+
+<p> Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. </p>
+
+<p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. </p>
+
 <h3>Digital Projects</h3>
 <br>
 Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
