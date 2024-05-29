@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'CV'
+title: ''
 permalink: /cv/
 #image: '/images/01-2.jpg'
 ---
@@ -40,7 +40,7 @@ sbuongiorno@smu.edu <br>
   <div>2023-Present</div>
   <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.
   <br>
-  I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting). 
+  <i>I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).</i>
   </div>
 </div>
 
@@ -113,13 +113,23 @@ Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.�
 Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.” Santa Fe Institute. GitHub.
 
 Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.
-Video Games
-Dark Shadows
+
+<h2>Video Games</h2>
+
+<h3>Dark Shadows</h3>
+
 Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. Topic: Address the real-world problem of human trafficking while playing a video game. 
-Dark Shadows, Scene I
+
+<h4>Dark Shadows, Scene I</h4>
+
 I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/ 
-Dark Shadows, Scene II
+
+
+<h4>Dark Shadows, Scene II</h4>
+
 I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=H-3-9zxhUlg 
+
+
 Dark Shadows, Scene III 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
 Data Sets
