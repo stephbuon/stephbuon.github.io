@@ -27,27 +27,29 @@ I co-direct a 10 person lab while playing a hands-on role in designing intellige
 
 
 Publications
-(peer reviewed = *)
+(peer reviewed = \*)
 Book Projects
 
-* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
+\* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
 Under Review. Cambridge University Press. 
 
-* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
+\* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
 
-Articles (Under Review)
+Articles
 
 In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.
 
-* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark.
-In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.   
-
-* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
+\\* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” Under review at IEEE Conference on Games, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
 
-* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.
+Articles (Under Review)
 
-* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
+\* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark.
+In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.   
+
+\* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.
+
+\* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi
 Article Projects
 
 Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. 
@@ -65,13 +67,13 @@ Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022. A Shi
 
 Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022. Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. 
 
-* Steph Buongiorno. usdoj.  ROpenGov. Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. 
+\* Steph Buongiorno. usdoj.  ROpenGov. Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. 
 
-* Steph Buongiorno. oldbailey. ROpenGov. Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. 
+\* Steph Buongiorno. oldbailey. ROpenGov. Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. 
 
-*  Steph Buongiorno. hansardr. GitHub. Description: An R package for querying a clean version of the 19th-century Hansard Corpus. 
+\*  Steph Buongiorno. hansardr. GitHub. Description: An R package for querying a clean version of the 19th-century Hansard Corpus. 
 
-*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. 
+\*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. 
 
  Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. 
 
