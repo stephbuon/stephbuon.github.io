@@ -38,8 +38,7 @@ sbuongiorno@smu.edu <br>
 <h3>Professional Employment</h3>
 <div class="spaced-list">
   <div>2023-Present</div>
-  <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.
-  <br>
+  <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.<br>
   <small><i>I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).</small></i>
   </div>
 </div>
