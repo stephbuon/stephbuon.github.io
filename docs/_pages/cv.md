@@ -33,29 +33,30 @@ sbuongiorno@smu.edu <br>
   <div>2014</div>
   <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
-<br>
+
+
 <h3>Professional Employment</h3>
 <div class="spaced-list">
   <div>2023-Present</div>
   <div>Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.
   <br>
-  <i>I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).</i>
+  <small><i>I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).<small></i>
   </div>
 </div>
-<br>
+
 <h1>Publications</h1> (peer reviewed = \*)
-<br>
+
 <h3>Book Projects</h3>
-<br>
+
 \* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
 Under Review. Cambridge University Press. 
 
 \* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
-<br>
+
 <h3>Articles</h3>
-<br>
+
 <small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small>
-<br>
+
 \* “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. Steph Buongiorno [Corresponding Author] and Corey Clark. 
 In this article, I was responsible for all writing, conceptualization, and visualizations.  
 <br>
