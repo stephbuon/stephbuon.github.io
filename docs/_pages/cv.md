@@ -246,9 +246,8 @@ Southern Methodist University</div>
   <div>2017</div>
   <div>PRW 2144: SCUBA, Department of Physical Fitness, Southern Methodist University (1 section)</div>
 
-
-2016-17		ENGL 102: Composition and Rhetoric. Department of English, West Virginia University (4 
-sections)
+  <div>2016-17</div>
+  <div>ENGL 102: Composition and Rhetoric. Department of English, West Virginia University (4 sections)</div>
 
 2015-16		ENGL 101: Introduction to Composition and Rhetoric. Department of English (4 sections) 
 
@@ -263,50 +262,70 @@ University of Texas at Arlington (6 sections)
 
 <h1>Service</h1>
 
-2024		Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems
-2024		Peer Reviewer, IEEE Conference on Games, Long Papers
-2024		Peer Reviewer, IEEE Conference on Games, Short Papers
-2023		Track Co-Chair, SciPy, Computational Social Science and Digital Humanities
-2023		Mentor, PhD student Joel Nyman in history, Academy of Finland 
+<div class="spaced-list">
+  <div>2024</div>
+  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
+
+  <div>2024</div>
+  <div>Peer Reviewer, IEEE Conference on Games, Long Papers </div>
+
+  <div>2024</div>
+  <div>Peer Reviewer, IEEE Conference on Games, Short Papers </div>
+
+  <div>2023</div>
+  <div>Track Co-Chair, SciPy, Computational Social Science and Digital Humanities </div>
+
+  <div>2023</div>
+  <div>Mentor, PhD student Joel Nyman in history, Academy of Finland </div>
+</div>
 
 <h1>Previous Employment </h1>
 
 <h3>Other Research Positions</h3>
 
-2022-23		Technical Lead, “The Human Trafficking Project,” Department of Computer 
-Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University                          
+<div class="spaced-list">
+  <div>2024</div>
+  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
 
-2021-22			Research Assistant, “Toward a History of the Associative-Developmental State,” 
-			Department of History, Southern Methodist University
+  <div>2022-23</div>
+  <div>Technical Lead, “The Human Trafficking Project,” Department of Computer Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University</div>
 
-2021-22			Research Assistant, “The History of Modern China,” Department of History, 
-Southern Methodist University
+  <div>2021-22</div>
+  <div>Research Assistant, “Toward a History of the Associative-Developmental State,” Department of History, Southern Methodist University</div>
 
-2018-21			Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, 
-and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University
+  <div>2021-22</div>
+  <div>Research Assistant, “The History of Modern China,” Department of History, Southern Methodist University</div>
+
+  <div>2018-21</div>
+  <div>Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
+</div>
 
 <h3>Employment: Teaching Positions</h3>
 
-2023-24		Democracy Lab Co-Director, Emory University. Topic: Development of an 
-advanced text mining app, data sharing, and data visualization public web app for 
-the digital humanities.
+<div class="spaced-list">
+  <div>2023-24</div>
+  <div>Democracy Lab Co-Director, Emory University. Topic: Development of an advanced text mining app, data sharing, and data visualization public web app for the digital humanities.</div>
 
-2023-24		Level Design Thesis Advisor, Guildhall, Southern Methodist University. Topic: 
-creative narrative writing for a film-noir style detective thriller augmented by 
-generative AI.
+  <div>2023-24</div>
+  <div>Level Design Thesis Advisor, Guildhall, Southern Methodist University. Topic: creative narrative writing for a film-noir style detective thriller augmented by generative AI.</div>
 
-2023 			Support Instructor, Team Game Production I, Guildhall, Southern Methodist 
-University. Topics: Reproducibility and version control. 
+  <div>2023</div>
+  <div>Support Instructor, Team Game Production I, Guildhall, Southern Methodist University. Topics: Reproducibility and version control.</div>
 
-2022-23		Teaching Fellow, Foundations and Applications of Humanities Analytics, National 
-Endowment of the Humanities Grant (no. HT-272418-20),  Santa Fe Institute. Topics:  Digital humanities and cultural analytics. 
+  <div>2022-23</div>
+  <div>Teaching Fellow, Foundations and Applications of Humanities Analytics, National Endowment of the Humanities Grant (no. HT-272418-20),  Santa Fe Institute. Topics:  Digital humanities and cultural analytics. </div>
 
-2021-22			Support Instructor, Topics in Digital History, Southern Methodist University. 
-Topics: Code, bias, and the representation and obfuscation of gender in both coding libraries and textual corpora (e.g. U.S. Congress and Reddit). 
+  <div>2021-22</div>
+  <div>Support Instructor, Topics in Digital History, Southern Methodist University. Topics: Code, bias, and the representation and obfuscation of gender in both coding libraries and textual corpora (e.g. U.S. Congress and Reddit).</div>
 
-2017-18			Graduate Teaching Assistant, Academic Writing, Southern Methodist University 
+  <div>2017-18</div>
+  <div>Graduate Teaching Assistant, Academic Writing, Southern Methodist University</div>
 
-2015-2017		Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University
+  <div>2015-2017</div>
+  <div>Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University</div>
+
+</div>
+
 
 <h3>Employment: Related Positions</h3>
 
