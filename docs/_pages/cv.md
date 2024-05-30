@@ -249,6 +249,8 @@ Southern Methodist University</div>
   <div>2016-17</div>
   <div>ENGL 102: Composition and Rhetoric. Department of English, West Virginia University (4 sections)</div>
 
+</div>
+
 2015-16		ENGL 101: Introduction to Composition and Rhetoric. Department of English (4 sections) 
 
 2014 		EXSA 1249: Advanced Scuba Diving. Department of Exercise and Sport Activity, The 
