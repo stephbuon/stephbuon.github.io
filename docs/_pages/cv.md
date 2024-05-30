@@ -329,10 +329,15 @@ University of Texas at Arlington (6 sections)
 
 <h3>Employment: Related Positions</h3>
 
-2023-present		Instructor, Guildhall Academy (high school students), Guildhall, Southern 
-Methodist University
 
-2022-23		Computer Science Senior Design, Southern Methodist University
+<div class="spaced-list">
+  <div>2023-present</div>
+  <div>Instructor, Guildhall Academy (high school students), Guildhall, Southern Methodist University.</div>
+
+  <div>2022-23</div>
+  <div>Computer Science Senior Design, Southern Methodist University.</div>
+<div>
+
 
 <h3>Employment: Other</h3>
 
