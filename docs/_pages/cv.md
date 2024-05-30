@@ -66,14 +66,13 @@ Under Review. Cambridge University Press.
 
 <h3>Articles (Under Review)</h3>
 
-<p>* “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. <br>
+<p>* Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
 <small><i>In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
-<p>* “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. <br>
+<p>* Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
-
-<p>* “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi.<br> In this article, I was responsible for ... </i></small></p>
+<p>* Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> In this article, I was responsible for ... </i></small></p>
 
 <h3>Article Projects</h3>
 
@@ -86,39 +85,39 @@ Under Review. Cambridge University Press.
 <p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. </p>
 
 <h3>Digital Projects</h3>
-<br>
-Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.
-<br>
-Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022. A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics. 
-<br>
-Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022. Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. 
-<br>
-\* Steph Buongiorno. usdoj.  ROpenGov. Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. 
-<br>
-\* Steph Buongiorno. oldbailey. ROpenGov. Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. 
-<br>
-\*  Steph Buongiorno. hansardr. GitHub. Description: An R package for querying a clean version of the 19th-century Hansard Corpus. 
-<br>
-\*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. 
-<br>
-Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. 
-<br>
-Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
-<br>
-Steph Buongiorno. posextractr. GitHub. Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.
-<br>
-Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. Description: A code repository for text mining techniques for the Digital Humanities. 
-<br>
-Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. 
-<br>
+
+<p>Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024. </p>
+
+<p>Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022. A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics.</p>
+
+<p>Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022. Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. </p>
+
+<p>* Steph Buongiorno. usdoj.  ROpenGov. Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. </p>
+
+<p>* Steph Buongiorno. oldbailey. ROpenGov. Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. </p>
+
+<p>*  Steph Buongiorno. hansardr. GitHub. Description: An R package for querying a clean version of the 19th-century Hansard Corpus. </p>
+
+<p>*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. </p>
+
+<p> Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. </p>
+
+<p>Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text. </p>
+
+<p>Steph Buongiorno. posextractr. GitHub. Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.</p>
+
+<p>Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. Description: A code repository for text mining techniques for the Digital Humanities. </p>
+
+<p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. </p>
+
 <h3>Instructional and Interactive Materials</h3>
-<br>
-Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code – shared here as a Github page — formed the basis for all instruction and activity.
-<br>
-Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.” Santa Fe Institute. GitHub.
-<br>
-Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.
-<br>
+
+<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code – shared here as a Github page — formed the basis for all instruction and activity.</p>
+
+<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.” Santa Fe Institute. GitHub.</p>
+
+<p>Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.</p>
+
 <h3>Video Games</h3>
 <br>
 <h4>Dark Shadows</h3>
@@ -131,7 +130,7 @@ I conceived of Dark Shadows as a film noir-style “document thriller” (inspir
 <br>
 <h4>Dark Shadows, Scene II</h4>
 <br>
-I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=H-3-9zxhUlg 
+I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic 
 <br>
 <h4>Dark Shadows, Scene III</h4> 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
