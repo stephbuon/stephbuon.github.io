@@ -52,107 +52,120 @@ sbuongiorno@smu.edu <br>
 
 <h3>Book Projects</h3>
 
-\* Text Mining for Historical Analysis. Steph Buongiorno [Corresponding Author] and Jo Guldi.
-Under Review. Cambridge University Press. 
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. Text Mining for Historical Analysis. Under Review. Cambridge University Press.</p>
 
-\* Text Mining for Historical Analysis. eBook Edition. Steph Buongiorno [Corresponding Author] and Jo Guldi. Under Review. Cambridge University Press. 
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. Text Mining for Historical Analysis. eBook Edition. Under Review. Cambridge University Press.</p> 
 
 <h3>Articles</h3>
 
 <p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>* Steph Buongiorno [Corresponding Author] and Corey Clark. “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. <br>
+<p>*Steph Buongiorno [Corresponding Author] and Corey Clark. “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. <br>
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
 
 <h3>Articles (Under Review)</h3>
 
-<p>* Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
+<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
 <small><i>In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
-<p>* Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
+<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
-<p>* Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> In this article, I was responsible for ... </i></small></p>
+<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> In this article, I was responsible for ... </i></small></p>
 
 <h3>Article Projects</h3>
 
-<p> Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. </p>
+<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. </p>
 
-<p> Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. </p>
+<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. </p>
 
-<p> Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. </p>
+<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. </p>
 
 <p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. </p>
 
 <h3>Digital Projects</h3>
 
-<p>Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024) I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024. </p>
+<p>Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024). <br>
+<small><i>I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.</i></small></p>
 
-<p>Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022. A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics.</p>
+<p>Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022.<br> 
+<small><i>Description: A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics.</i></small></p>
 
-<p>Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022. Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. </p>
+<p>Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022.<br> 
+<small><i>Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. </i></small></p>
 
-<p>* Steph Buongiorno. usdoj.  ROpenGov. Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. </p>
+<p>*Steph Buongiorno. usdoj.  ROpenGov. <br>
+<small><i> Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. </i></small></p>
 
-<p>* Steph Buongiorno. oldbailey. ROpenGov. Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. </p>
+<p>*Steph Buongiorno. oldbailey. ROpenGov. <br>
+<small><i>Description: An R package for creating a structured version of the Old Bailey criminal trials. Handles broken tags and messy data and returns an analysis-ready dataset. </i></small></p>
 
-<p>*  Steph Buongiorno. hansardr. GitHub. Description: An R package for querying a clean version of the 19th-century Hansard Corpus. </p>
+<p>*Steph Buongiorno. hansardr. GitHub. <br>
+<small><i>Description: An R package for querying a clean version of the 19th-century Hansard Corpus. </i></small></p>
 
-<p>*  Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. </p>
+<p>*Steph Buongiorno and Omar Alexander Cerpa. hansard-speakers. GitHub. <br>
+<small><i>Description: Code for disambiguating speakers in the 19th-century Hansard Corpus using Levenshtein distances and parallel computing. </i></small></p>
 
-<p> Steph Buongiorno. noaa. GitHub. Description: An R package for querying a clean version of NOAA climate and weather data. </p>
+<p>Steph Buongiorno. noaa. GitHub. <br>
+<small><i>Description: An R package for querying a clean version of NOAA climate and weather data. </i></small></p>
 
-<p>Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text. </p>
+<p>Steph Buongiorno and Omar Alexander Cerpa. posextract. GitHub. <br> 
+<small><i>Description: A Python package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text. </i></small></p>
 
-<p>Steph Buongiorno. posextractr. GitHub. Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text.</p>
+<p>Steph Buongiorno. posextractr. GitHub. <br>
+<small><i>Description: An R package for extracting grammatical subject-predicate triples from data. Tailored for the analysis of agency in text. </i></small></p>
 
-<p>Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. Description: A code repository for text mining techniques for the Digital Humanities. </p>
+<p>Steph Buongiorno and Jo Guldi. democracy-lab. GitHub. <br>
+<small><i>Description: A code repository for text mining techniques for the Digital Humanities.</i></small></p>
 
-<p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. Description: Optimized, “white-box” statistical functions for textual analysis. </p>
+<p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. <br>
+<small><i> Description: Optimized, “white-box” statistical functions for textual analysis. </i></small></p>
 
 <h3>Instructional and Interactive Materials</h3>
 
-<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code – shared here as a Github page — formed the basis for all instruction and activity.</p>
+<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. <br>
+<small><i>I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code formed the basis for all instruction and activity.</i></small></p>
 
 <p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.” Santa Fe Institute. GitHub.</p>
 
 <p>Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.</p>
 
 <h3>Video Games</h3>
-<br>
-<h4>Dark Shadows</h3>
-<br>
-Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. Topic: Address the real-world problem of human trafficking while playing a video game. 
-<br>
+
+<h4>Dark Shadows</h4>
+
+<p>Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. 
+<small><i>Descripton: Address the real-world problem of human trafficking while playing a video game.</i></small></p> 
+
 <h4>Dark Shadows, Scene I</h4>
-<br>
-I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/ 
-<br>
+
+<p>I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/</p>
+
 <h4>Dark Shadows, Scene II</h4>
-<br>
-I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic 
-<br>
+
+<p>I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic</p>
+
 <h4>Dark Shadows, Scene III</h4> 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
-<br>
+
 <h3>Data Sets</h3>
-<br>
-Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse 
-<br>
-Steph Buongiorno; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Speaker Metadata", https://doi.org/10.7910/DVN/Z3LTVV, Harvard Dataverse, FORTHCOMING
-<br>
+
+<p>Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse. </p> 
+
+<p>Steph Buongiorno; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Speaker Metadata", https://doi.org/10.7910/DVN/Z3LTVV, Harvard Dataverse, FORTHCOMING</p>
+
 <h1>Other Contributions</h1>
-<br>
+
 30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining. 
-<br>
+
 <h1>Grant Proposals</h1>
-<br>
-“Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.
-<br>
-“Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development.” Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics. 
-<br>
-“SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. 
-<br>
+
+<p>“Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
+
+<p>“Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development.” Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics.</p> 
+
+<p>“SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. </p>
+
 <h1>Invited Lectures and Presentations</h1>
 <div class="spaced-list">
   <div>2024</div>
@@ -173,31 +186,37 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
   <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, 
 Southern Methodist University</div>
 </div>
-<br>
 
 <h1>Teaching</h1>
-<br>                                                                                
-2024 		HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming 
-Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University
-<br>
-2024 		HGME 6377: Thesis III Level Design. Graduate Course. “Unveiling New Realms: Enhancing 
-Procedural Narrative Generation and NPC Personalization using AI.”  Guildhall, Southern 
-Methodist University
-<br>
-2024	 	HGME 6377: Thesis III Production. Graduate Course. “Chinese PC Gamers’ Motivation, 
-Game Preferences, and Publishing Advice for Non-Chinese Game Companies.” Guildhall, Southern Methodist University
-<br>
-2024		CS 5352: Senior Design II. Undergraduate Course. Computer Science, Southern Methodist 
-University. Topic: Taught a year-long digital humanities project with 3 enrolled 
-undergraduates      
-<br>
-2023		Instructor, Guildhall Academy Video Game Design (for high school students), Guildhall, 
-Southern Methodist University
-<br>
-2023		CS 5351: Senior Design I. Undergraduate Course. Computer Science, Southern Methodist 
+<div class="spaced-list">
+  <div>2024</div>
+  <div>HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University.</div>
+
+  <div>2024</div>
+  <div>HGME 6377: Thesis III Level Design. Graduate Course. “Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI.”  Guildhall, Southern Methodist University.</div>
+
+  <div>2024</div>
+  <div>HGME 6377: Thesis III Production. Graduate Course. “Chinese PC Gamers’ Motivation, Game Preferences, and Publishing Advice for Non-Chinese Game Companies.” Guildhall, Southern Methodist University.</div>
+
+
+  <div>2024</div>
+  <div>CS 5352: Senior Design II. Undergraduate Course. Computer Science, Southern Methodist University. Topic: Taught a year-long digital humanities project with 3 enrolled undergraduates. </div>
+
+  <div>2024</div>
+  <div>Instructor, Guildhall Academy Video Game Design (for high school students), Guildhall, 
+Southern Methodist University</div
+
+  <div>2023</div>
+  <div>Instructor, Guildhall Academy Video Game Design (for high school students), Guildhall, 
+Southern Methodist University</div>
+
+<div>2023</div>
+<div>CS 5351: Senior Design I. Undergraduate Course. Computer Science, Southern Methodist 
 University. Topic: Topic: Taught a year-long digital humanities project with 3 enrolled 
-undergraduates 
-<br>
+undergraduates</div>
+</div>
+
+
 2023 		HGME 6276: Thesis II Software Development. Graduate Course. “gaia: A GEN-AI Gaming 
 Framework for creating Dynamic Gameplay Content via Large Language Models.” Guildhall, Southern Methodist University
 <br>
