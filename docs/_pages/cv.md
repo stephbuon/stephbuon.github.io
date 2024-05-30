@@ -71,7 +71,8 @@ sbuongiorno@smu.edu <br>
 <p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> In this article, I was responsible for ... </i></small></p>
+<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> 
+<small><i>In this article, I was responsible for ... </i></small></p>
 
 <h3>Article Projects</h3>
 
@@ -186,6 +187,9 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
   <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
 </div>
 
+<h1>Teaching</h1>
+
+
 
 
 <h1>Service</h1>
@@ -286,12 +290,19 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
 
 <h3>Awards</h3>
 
-2023			Dean’s Award for Best Poster Presentation in Computer Science, Southern 
-Methodist University
+<div class="spaced-list">
+  <div>2023</div>
+  <div>Dean’s Award for Best Poster Presentation in Computer Science, Southern Methodist University.</div>
+<div>
+
 
 <h3>Other Skills and Certificates</h3>
 
-2020			Adv. Side Mount Cave Diver,  International Association of Nitrox and Technical 
-Divers
+<div class="spaced-list">
+  <div>2020</div>
+  <div>Adv. Side Mount Cave Diver,  International Association of Nitrox and Technical Divers.</div>
+  
+  <div>2018</div>
+  <div>Full Cave Diver,  International Association of Nitrox and Technical Divers</div>
+<div>
 
-2018			Full Cave Diver,  International Association of Nitrox and Technical Divers
