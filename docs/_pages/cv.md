@@ -262,3 +262,21 @@ sbuongiorno@smu.edu <br>
   <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
 </div>
 
+<h1>Service</h1>
+
+<div class="spaced-list">
+  <div>2024</div>
+  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
+
+  <div>2024</div>
+  <div>Peer Reviewer, IEEE Conference on Games, Long Papers </div>
+
+  <div>2024</div>
+  <div>Peer Reviewer, IEEE Conference on Games, Short Papers </div>
+
+  <div>2023</div>
+  <div>Track Co-Chair, SciPy, Computational Social Science and Digital Humanities </div>
+
+  <div>2023</div>
+  <div>Mentor, PhD student Joel Nyman in history, Academy of Finland </div>
+</div>
