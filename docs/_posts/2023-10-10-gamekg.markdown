@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GAME-KG'
-description: External knowledge graphs (KGs) can augment large language models (LLMs) while also providing an explainable set of facts that can be inspected by a human. This approach may be particularly valuable in accuracy-critical domains, like human trafficking data analysis. However, creating KGs poses challenges. KGs parsed from documents may include explicit connections (those directly stated in a document) but miss implicit connections (those evident to a human although not directly stated). To address these challenges, this research introduces the GAME-KG framework, a federated approach to modifying explicit and implicit connections using crowdsourced feedback collected through video games. 
+description: External knowledge graphs (KGs) can augment large language models (LLMs) while also providing an explainable set of facts that can be inspected by a human. This is particularly valuable for accuracy-critical domains, like human trafficking data analysis. Creating KGs poses challenges, however. KGs parsed from documents may include explicit connections (those directly stated in a document) but miss implicit connections (those evident to a human although not directly stated). To address these challenges, this research introduces the GAME-KG framework, a federated approach to modifying explicit and implicit connections using crowdsourced feedback collected through video games. 
 date:   2023-10-10 15:01:35 +0300
 image:  '/images/GAME-KG.png'
 tags:   [Human Computation Gaming, Dark Shadows, Knowledge Graphs, Human in the Loop, NLP]
