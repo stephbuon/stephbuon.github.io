@@ -159,7 +159,27 @@ sbuongiorno@smu.edu <br>
 
 30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining. 
 
-<h1>Grant Proposals</h1>
+<h1>Invited Lectures and Presentations</h1>
+
+<div class="spaced-list">
+  <div>2024</div>
+  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>2024</div>
+  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>2024</div>
+  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
+  <div>2022</div>
+  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
+  <div>2022</div>
+  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
+  <div>2022</div>
+  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
+  <div>2018</div>
+  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
+</div>
+
+
+<h1>Teaching</h1>
 
 <p>“Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
 
@@ -243,24 +263,6 @@ sbuongiorno@smu.edu <br>
   <div>EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (6 sections)</div>
 </div>
 
-<h1>Invited Lectures and Presentations</h1>
-
-<div class="spaced-list">
-  <div>2024</div>
-  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
-  <div>2024</div>
-  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
-  <div>2024</div>
-  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
-  <div>2022</div>
-  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
-  <div>2022</div>
-  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
-  <div>2022</div>
-  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
-  <div>2018</div>
-  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
-</div>
 
 <h1>Service</h1>
 
