@@ -4,7 +4,7 @@ title: 'PANGeA'
 description: PANGeA is a method that uses large language models (LLMs) guided by a game designer's criteria to procedurally generate narrative content for turn-based role-playing games (RPGs). This includes non-playable characters (NPCs) that exhibit traits from the Big 5 Personality Model. Notably, PANGeA aligns players' free-form, dynamic interactions with the game's generated narrative using a novel validation system to keep responses in line with the unfolding story. This system is supported by a server with a custom memory system that provides context for generated responses. The server's REST interface allows for integration with any game engine and LLM interface.
 date:   2023-11-12 15:01:35 +0300
 image:  '/images/PAN.jpg'
-tags:   [Agents, Human Computation Gaming, Dark Shadows, NLP]
+tags:   [Intelligent Agents, Human Computation Gaming, Dark Shadows, NLP]
 ---
 
 
