@@ -243,4 +243,22 @@ sbuongiorno@smu.edu <br>
   <div>EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (6 sections)</div>
 </div>
 
+<h1>Invited Lectures and Presentations</h1>
+
+<div class="spaced-list">
+  <div>2024</div>
+  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>2024</div>
+  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>2024</div>
+  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
+  <div>2022</div>
+  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
+  <div>2022</div>
+  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
+  <div>2022</div>
+  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
+  <div>2018</div>
+  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
+</div>
 
