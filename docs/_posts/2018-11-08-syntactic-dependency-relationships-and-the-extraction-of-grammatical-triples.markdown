@@ -4,7 +4,7 @@ title:  Syntactic Dependency Relationships and the Extraction of Grammatical Tri
 description:  This paper describes a method of triples extraction, posextract, which has been designed to meet the increasing need for high-accuracy triples outputs for the analysis of text.
 date:   2020-11-08 15:01:35 +0300
 image:  '/images/land.png'
-tags:   [Digital Humanities]
+tags:   [Digital Humanities, NLP]
 ---
 In recent research, extracted triples have become increasingly important for the analysis of large, textual corpora. By giving insight into the linguistic features of a corpus, extracted triples have supported rich interpretations of some of the most relevant problems of our time. They have been used to track the development of anti-vaccination narratives originating on “Mommy Blogs” (Tangherlini et. al, 2016), descriptions of climate change across online news sources (Alashri et al., 2018), to model scientific literature on COVID-19 (Papadopoulos et. al, 2020), and to trace how Parliamentary discourses on the rise of peoples’ rights have changed over time and may be influencing the politics of our present moment (Guldi, 2022). 
 
