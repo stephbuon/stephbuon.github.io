@@ -181,82 +181,11 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
   <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
   <div>2022</div>
 
-  
 <h1>Teaching</h1>
 
 <div class="spaced-list">
   <div>2024</div>
   <div>HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University.</div>
-
-  <div>2024</div>
-  <div>HGME 6377: Thesis III Level Design. Graduate Course. “Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI.”  Guildhall, Southern Methodist University.</div>
-
-  <div>2024</div>
-  <div>HGME 6377: Thesis III Production. Graduate Course. “Chinese PC Gamers' Motivation, Game Preferences, and Publishing Advice for Non-Chinese Game Companies.” Guildhall, Southern Methodist University.</div>
-
-  <div>2024</div>
-  <div>CS 5352: Senior Design II. Undergraduate Course. Computer Science, Southern Methodist University. Topic: Taught a year-long digital humanities project with 3 enrolled undergraduates. </div>
-
-  <div>2024</div>
-  <div>Instructor, Guildhall Academy Video Game Design (for high school students), Guildhall, Southern Methodist University</div>
-
-  <div>2023</div>
-  <div>Instructor, Guildhall Academy Video Game Design (for high school students), Guildhall, Southern Methodist University</div>
-
-  <div>2023</div>
-  <div>CS 5351: Senior Design I. Undergraduate Course. Computer Science, Southern Methodist University. Topic: Topic: Taught a year-long digital humanities project with 3 enrolled undergraduates</div>
-  
-  <div>2023</div>
-  <div>HGME 6276: Thesis II Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.” Guildhall, Southern Methodist University</div>
-  
-  <div>2023</div>
-  <div>HGME 6276: Thesis II Level Design. Graduate Course. “Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI.” Guildhall, Southern Methodist University</div>
-
-  <div>2023</div>
-  <div>HGME 6592: Team Game Production I. Graduate Course. Topic: Replicability and Version Control. Guildhall, Southern Methodist University</div>
-
-  <div>2023</div>
-  <div>Teaching Fellow, Foundations and Applications of Humanities Analytics, Santa Fe Institute.</div>
-
-  <div>2023</div>
-  <div>HGME 6268: Directed Studies in Creative Narrative Writing for Video Games. Graduate Course. Guildhall, Southern Methodist University.</div>
-
-  <div>2022</div>
-  <div>HGME  6266: Directed Studies in Creative Narrative Writing for Video Games. Graduate Course.  Guildhall, Southern Methodist University.</div>
-
-  <div>2022</div>
-  <div>HIST 3380: Topics in Digital History, Department of History, Southern Methodist University.</div>
-
-  <div>2022</div>
-  <div>Teaching Fellow, Foundations and Applications of Humanities Analytics, Santa Fe Institute.</div>
-
-  <div>2021</div>
-  <div>HIST 3380: Topics in Digital History, Department of History, Southern Methodist University.</div>
-
-  <div>2018</div>
-  <div>WRTR 1312: Introduction to Academic Writing, Department of English, Southern Methodist University (1 section)</div>
-
-  <div>2017</div>
-  <div>WRTR 1311: Foundations of Writing,  Department of English, Southern Methodist University (1 section)</div>
-
-  <div>2017</div>
-  <div>PRW 2144: SCUBA, Department of Physical Fitness, Southern Methodist University (1 section)</div>
-
-  <div>2016-17</div>
-  <div>ENGL 102: Composition and Rhetoric. Department of English, West Virginia University (4 sections)</div>
-
-  <div>2015-16</div>
-  <div>ENGL 101: Introduction to Composition and Rhetoric. Department of English (4 sections)</div>
-
-  <div>2014</div>
-  <div>EXSA 1249: Advanced Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (2 sections)</div>
-
-  <div>2014</div>
-  <div>Scuba Diving. Texas Woman's University. Department of Fitness and Recreation. (1 section) (need to find course number)</div>
-
-  <div>2012-14</div>
-  <div>EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (6 sections)</div>
 </div>
-
 
 
