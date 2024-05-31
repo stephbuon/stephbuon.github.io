@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'GAME-KG'
+description: External knowledge graphs (KGs) can augment large language models (LLMs) while also providing an explainable set of facts that can be inspected by a human. This approach may be particularly valuable in accuracy-critical domains, like human trafficking data analysis. However, creating KGs poses challenges. KGs parsed from documents may include explicit connections (those directly stated in a document) but miss implicit connections (those evident to a human although not directly stated). To address these challenges, this research introduces the GAME-KG framework, a federated approach to modifying explicit and implicit connections using crowdsourced feedback collected through video games. 
+date:   2023-10-10 15:01:35 +0300
+image:  '/images/GAME-KG.png'
+tags:   [Human Computation Gaming, Dark Shadows, Knowledge Graphs, Human in the Loop, NLP]
+---
+
+External knowledge graphs (KGs) can be used to augment large language models (LLMs), while simultaneously providing an explainable knowledge base of facts that can be inspected by a human. This approach may be particularly valuable in domains where explainability is critical, like human trafficking data analysis. However, creating KGs can pose challenges. KGs parsed from documents may comprise explicit connections (those directly stated by a document) but miss implicit connections (those obvious to a human although not directly stated). To address these challenges, this preliminary research introduces the GAME-KG framework, a federated approach to modifying explicit and implicit connections in KGs by using crowdsourced feedback collected through video games. 
+
+
+
+
+Human trafficking is a critical human rights issue. The challenges behind identifying and connecting each person, location, and event described by text-based media (e.g. reports, online posts, transcripts) can hinder our ability to understand this issue. This work presents a methodology that leverages "human computation gaming" to crowdsource annotations and improve a language model's predictions for identifying named entites.
