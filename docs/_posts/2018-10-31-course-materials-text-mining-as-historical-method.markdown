@@ -4,7 +4,7 @@ title:  'Course Materials: Text Mining as Historical Method'
 description: An overview of materials designed for an introductory class by Jo Guldi on applying computation methods for digital history. A link to the full course material is included.
 date:   2021-08-10 15:01:35 +0300
 image:  '/images/race_over_time_guldi.jpg'
-tags:   [Course Materials, Digital Humanities]
+tags:   [Course Materials, Digital Humanities, NLP]
 ---
 ### About this Course
 
