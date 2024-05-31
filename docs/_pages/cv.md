@@ -180,6 +180,8 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
   <div>2022</div>
   <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
   <div>2022</div>
+
+  
 <h1>Teaching</h1>
 
 <div class="spaced-list">
@@ -255,30 +257,6 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
   <div>2012-14</div>
   <div>EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (6 sections)</div>
 </div>
-  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
-  <div>2022</div>
-  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
-  <div>2018</div>
-  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
-</div>
 
-<h1>Service</h1>
-
-<div class="spaced-list">
-  <div>2024</div>
-  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
-
-  <div>2024</div>
-  <div>Peer Reviewer, IEEE Conference on Games, Long Papers </div>
-
-  <div>2024</div>
-  <div>Peer Reviewer, IEEE Conference on Games, Short Papers </div>
-
-  <div>2023</div>
-  <div>Track Co-Chair, SciPy, Computational Social Science and Digital Humanities </div>
-
-  <div>2023</div>
-  <div>Mentor, PhD student Joel Nyman in history, Academy of Finland </div>
-</div>
 
 
