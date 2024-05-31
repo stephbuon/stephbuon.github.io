@@ -184,8 +184,11 @@ Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters
 <h1>Teaching</h1>
 
 <div class="spaced-list">
-  <div>2024</div>
-  <div>HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University.</div>
+  <div>2023</div>
+  <div>PhD, Applied Science, Lyle School of Engineering, Southern Methodist University</div>
+  <div>2017</div>
+  <div>MA, English, West Virginia University</div>
+  <div>2014</div>
+  <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
-
 
