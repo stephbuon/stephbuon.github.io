@@ -159,27 +159,7 @@ sbuongiorno@smu.edu <br>
 
 30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining. 
 
-<h1>Invited Lectures and Presentations</h1>
-
-<div class="spaced-list">
-  <div>2024</div>
-  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
-  <div>2024</div>
-  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
-  <div>2024</div>
-  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
-  <div>2022</div>
-  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
-  <div>2022</div>
-  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
-  <div>2022</div>
-  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
-  <div>2018</div>
-  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
-</div>
-
-
-<h1>Teaching</h1>
+<h1>Grant Proposals</h1>
 
 <p>“Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
 
@@ -188,6 +168,31 @@ sbuongiorno@smu.edu <br>
 <p>“SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. </p>
 
 <h1>Invited Lectures and Presentations</h1>
+
+<div class="spaced-list">
+  <div>2024</div>
+  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+
+  <div>2024</div>
+  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+
+  <div>2024</div>
+  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
+
+  <div>2022</div>
+  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
+
+  <div>2022</div>
+  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
+
+  <div>2022</div>
+  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
+  
+  <div>2018</div>
+  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
+</div>
+
+<h1>Teaching</h1>
 
 <div class="spaced-list">
   <div>2024</div>
@@ -282,3 +287,100 @@ sbuongiorno@smu.edu <br>
   <div>2023</div>
   <div>Mentor, PhD student Joel Nyman in history, Academy of Finland </div>
 </div>
+
+
+<h1>Previous Employment </h1>
+
+<h3>Other Research Positions</h3>
+
+<div class="spaced-list">
+  <div>2024</div>
+  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
+
+  <div>2022-23</div>
+  <div>Technical Lead, “The Human Trafficking Project,” Department of Computer Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University</div>
+
+  <div>2021-22</div>
+  <div>Research Assistant, “Toward a History of the Associative-Developmental State,” Department of History, Southern Methodist University</div>
+
+  <div>2021-22</div>
+  <div>Research Assistant, “The History of Modern China,” Department of History, Southern Methodist University</div>
+
+  <div>2018-21</div>
+  <div>Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
+</div>
+
+<h3>Employment: Teaching Positions</h3>
+
+<div class="spaced-list">
+  <div>2023-24</div>
+  <div>Democracy Lab Co-Director, Emory University. Topic: Development of an advanced text mining app, data sharing, and data visualization public web app for the digital humanities.</div>
+
+  <div>2023-24</div>
+  <div>Level Design Thesis Advisor, Guildhall, Southern Methodist University. Topic: creative narrative writing for a film-noir style detective thriller augmented by generative AI.</div>
+
+  <div>2023</div>
+  <div>Support Instructor, Team Game Production I, Guildhall, Southern Methodist University. Topics: Reproducibility and version control.</div>
+
+  <div>2022-23</div>
+  <div>Teaching Fellow, Foundations and Applications of Humanities Analytics, National Endowment of the Humanities Grant (no. HT-272418-20),  Santa Fe Institute. Topics:  Digital humanities and cultural analytics. </div>
+
+  <div>2021-22</div>
+  <div>Support Instructor, Topics in Digital History, Southern Methodist University. Topics: Code, bias, and the representation and obfuscation of gender in both coding libraries and textual corpora (e.g. U.S. Congress and Reddit).</div>
+
+  <div>2017-18</div>
+  <div>Graduate Teaching Assistant, Academic Writing, Southern Methodist University</div>
+
+  <div>2015-2017</div>
+  <div>Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University</div>
+
+</div>
+
+
+<h3>Employment: Related Positions</h3>
+
+
+<div class="spaced-list">
+  <div>2023-present</div>
+  <div>Instructor, Guildhall Academy (high school students), Guildhall, Southern Methodist University.</div>
+
+  <div>2022-23</div>
+  <div>Computer Science Senior Design, Southern Methodist University.</div>
+<div>
+
+
+<h3>Employment: Other</h3>
+
+
+<div class="spaced-list">
+  <div>2017</div>
+  <div>Assistant Instructor, Introduction to SCUBA, Southern Methodist University.</div>
+
+  <div>2014</div>
+  <div>Assistant Instructor, Introduction to SCUBA, Texas Woman’s University.</div>
+
+  <div>2012-2014</div>
+  <div>Assistant Instructor, Advanced SCUBA, University of Texas at Arlington.</div>
+
+  <div>2012-2014</div>
+  <div>Assistant Instructor, Introduction to SCUBA, University of Texas at Arlington.</div>
+<div>
+
+<h3>Awards</h3>
+
+<div class="spaced-list">
+  <div>2023</div>
+  <div>Dean’s Award for Best Poster Presentation in Computer Science, Southern Methodist University.</div>
+<div>
+
+
+<h3>Other Skills and Certificates</h3>
+
+<div class="spaced-list">
+  <div>2020</div>
+  <div>Adv. Side Mount Cave Diver,  International Association of Nitrox and Technical Divers.</div>
+  
+  <div>2018</div>
+  <div>Full Cave Diver,  International Association of Nitrox and Technical Divers</div>
+<div>
+
