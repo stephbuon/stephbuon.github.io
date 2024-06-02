@@ -4,7 +4,7 @@ title: 'Dark Shadows'
 description: Dark Shadows is a film-noir style detective thriller designed for research. It serves as the test bed for proof-of-concept and prototyped system components, frameworks, and models that contribute to research on generative AI or machine learning. Central to its gameplay are conversational scenarios during which the player can use natural language to advance the game narrative. Dark Shadows features PANGeA's novel validation system, which uses self-prompting to evoke a large language model's (LLM) intellegence to evaluate and respond to user input. Dark Shadows exists across Unity and custom GPT versions. It uses generative AI for narrative and artwork to provide players with engaging gameplay. 
 date:   2022-01-03 15:01:35 +0300
 image:  '/images/detective.png'
-tags:   [Dark Shadows, Human Computation Gaming, Intellegent Agents]
+tags:   [Dark Shadows, Human Computation Gaming, Intelligent Agents]
 ---
 
 Address the real-world problem of human trafficking while playing a video game. 
