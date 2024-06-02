@@ -9,7 +9,7 @@ tags:   [Intelligent Agents, Human Computation Gaming, Dark Shadows, NLP]
 
 Under Review. 
 
-See the pre-print: https://arxiv.org/pdf/2404.19721 
+See the pre-print: [https://arxiv.org/pdf/2404.19721](https://arxiv.org/pdf/2404.19721) 
 
 Video games provide interactive storytelling mechanisms that allow players to engage directly with the environment, transforming them into active participants of the game narrative. While early research on procedural narrative generation primarily focused on creating coherent sequences of events, this approach alone may fail to produce an engaging narrative that dynamically responds to the player's choices in-game. 
 
