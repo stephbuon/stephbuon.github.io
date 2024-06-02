@@ -7,16 +7,17 @@ image:  '/images/detective.png'
 tags:   [Dark Shadows, Human Computation Gaming, Intellegent Agents]
 ---
 
-Dark Shadows: Address the real-world problem of human trafficking while playing a video game. 
+Address the real-world problem of human trafficking while playing a video game. 
 
-by Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark at Southern Methodist University's Guildhall (video game) and Computer Science departments. 
+^By Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark at Southern Methodist University's Guildhall (video game) and Computer Science departments.* 
 
 Iterations:
 
-I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/
+Version 1: Buongiorno conceived of Dark Shadows as a film noir-style “document thriller” (inspired by *Papers, Please!* and *Night Call*). Buongiorno designed and developed underlying "human-in-the-loop" mechanics to collect player feedback to train amachine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. See Dark Shadows, as well as its relation to other dimensions of human trafficking research conducted at SMU, on [CBS News](https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/). 
+
 Dark Shadows, Scene II
 
-I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic
+Buongiorno designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic
 Dark Shadows, Scene III
 
 [Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.
