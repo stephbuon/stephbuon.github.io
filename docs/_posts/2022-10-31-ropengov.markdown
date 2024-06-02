@@ -3,7 +3,7 @@ layout: post
 title:  'usdoj and oldbailey: rOpengov Universe'
 description: Open government data enables citizens to see government activities and decision-making processes, empowering them to participate more fully in the democratic process. Researchers can use open government data for studies and projects, generating insights and contributing to evidence-based policy-making. To this end, this work introduces R packages hosted by the rOpengov Universe that are designed to make analyzing contemporary and historical open government data more accessible. Queried data is returned in a clean and analysis-ready dataframe. 
 date:   2021-08-10 15:01:35 +0300
-image:  '/images/usdoj_logo.png'
+image:  '/images/rOpengov2.png'
 tags:   [Digital Humanities]
 ---
 
