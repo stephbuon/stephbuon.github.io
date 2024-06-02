@@ -7,8 +7,11 @@ image:  '/images/detective.png'
 tags:   [Dark Shadows, Human Computation Gaming, Intellegent Agents]
 ---
 
-Dark Shadows, by Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. Descripton: Address the real-world problem of human trafficking while playing a video game.
-Dark Shadows, Scene I
+Dark Shadows: Address the real-world problem of human trafficking while playing a video game. 
+
+by Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark at Southern Methodist University's Guildhall (video game) and Computer Science departments. 
+
+Iterations:
 
 I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/
 Dark Shadows, Scene II
