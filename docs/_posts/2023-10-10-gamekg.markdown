@@ -7,7 +7,7 @@ image:  '/images/GAME-KG.png'
 tags:   [Human Computation Gaming, Dark Shadows, Knowledge Graphs, Human in the Loop, NLP]
 ---
 
-Featured in IEEE Conference on Games (CoG) 2004.
+Featured in IEEE Conference on Games (CoG) 2024.
 
 See the pre-print: [https://arxiv.org/abs/2404.19729](https://arxiv.org/abs/2404.19729) 
 
