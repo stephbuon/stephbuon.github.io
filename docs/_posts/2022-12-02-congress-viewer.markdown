@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'The Congress Viewer Demo App'
-description: The Congress Viewer, a prototype text mining app, demonstrates the potential of tools designed to measure lexical changes and advanced NLP techniques like parsing and analyzing grammatical relationships. This app can enhance transparency in Congress while also providing new insights into the evolution and nature of political language across various contexts, including different time periods and discourse communities.
+description: The Congress Viewer (years 1900 - 2000), a prototype text mining app, demonstrates the potential of tools designed to measure lexical changes, including advanced NLP techniques like parsing and analyzing grammatical relationships. This app can increase transparency in Congress while also providing new insights into the evolution and nature of political language across various contexts, including different time periods and discourse communities.
 date:   2022-01-01 15:01:35 +0300
 image:  '/images/congress_viewer.png'
 tags:   [Hansard, Apps, Digital Humanities, NLP]
