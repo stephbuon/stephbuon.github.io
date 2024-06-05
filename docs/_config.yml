@@ -33,16 +33,21 @@ hero:
   hero__title: ""
   hero__description: |
     <br><br>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of individual fields.
-
+    
+    <br><br>Her work includes:
     <ul>
       <li>The design of video games that solve social problems, such as access to education and the fight to end human trafficking.</li>
       <li>Pedagogy that bridges disciplines.</li>
       <li>Highly transparent, interactive tools for citizenship.</li>
     </ul>
+
     <strong>Video Games</strong>
     <br>The field of intelligent, interactive systems is one example of a highly interdisciplinary academia that is evolving quickly. Dr. Buongiorno innovates in designing accurate, explainable generative AI systems and uses video games to prototype components. Her work culminates in novel methodologies. Her video game, Dark Shadows, includes the GAME-KG framework for crowdsourcing human feedback to make AI more accurate, a technique applied to research on human trafficking. 
-
-
+    <br><br>
+    <strong>Pedagogy</strong>
+    <br>Dr. Buongiorno's pedagogy critiques narrative and bias across digital media and textual data. Her pedagogy empowers students to think critically and deconstruct language-based systems from discourse communities to code libraries. She does this by integrating methodologies behind text mining and interactive technology to teach cross-disciplinary thinking that confronts cultural, historical, and societal issues. 
+    <br><br>
+    <strong>Tools for Citizenship</strong>
 
     <br><br>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
 
