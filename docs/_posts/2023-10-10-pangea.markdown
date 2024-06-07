@@ -19,3 +19,6 @@ As generative AI gains popularity in the profession of video game design, framew
 
 For its broad application, the PANGeA's server has a REST interface, allowing any game engine to directly integrate with PANGeA. Three key components of the server include: an LLM interface, a custom memory system, and a novel validation system. 
 
+
+
+
