@@ -17,36 +17,6 @@ Ford Hall 306E <br>
 sbuongiorno@smu.edu <br>
 </div>
 
-<button id="downloadBtn">Download CV</button>
-
-    <script>
-        document.getElementById('downloadBtn').addEventListener('click', function() {
-            // Get all the text content from the body
-            var text = document.body.innerText;
-            
-            // Create a Blob with the text content
-            var blob = new Blob([text], { type: 'text/plain' });
-            
-            // Create a link element
-            var link = document.createElement('a');
-            
-            // Set the download attribute with a filename
-            link.download = 'webpage_text.txt';
-            
-            // Create a URL for the Blob and set it as the href attribute
-            link.href = window.URL.createObjectURL(blob);
-            
-            // Append the link to the body
-            document.body.appendChild(link);
-            
-            // Programmatically click the link to trigger the download
-            link.click();
-            
-            // Remove the link from the document
-            document.body.removeChild(link);
-        });
-    </script>
-
 
 
 <br>
