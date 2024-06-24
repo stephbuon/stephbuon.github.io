@@ -52,37 +52,37 @@ sbuongiorno@smu.edu <br>
 
 <h3>Book Projects</h3>
 
-<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. Text Mining for Historical Analysis. Under Review. Cambridge University Press.</p>
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. Under Review. Cambridge University Press.</p>
 
-<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. Text Mining for Historical Analysis. eBook Edition. Under Review. Cambridge University Press.</p> 
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. eBook Edition. Under Review. Cambridge University Press.</p> 
 
 <h3>Articles</h3>
 
 <p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author] and Corey Clark. “A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications.” IEEE Conference on Games, 2024. <br>
+<p>*Steph Buongiorno [Corresponding Author] and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. <br>
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
 
 <h3>Articles (Under Review)</h3>
 
 <p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
-<small><i>In this article, I was responsible for all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
+<small><i>In this article, I was responsible for research design, all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
 <p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
 <p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> 
-<small><i>In this article, I was responsible for ... </i></small></p>
+<small><i>In this article, I was responsible for all writing and partial design of the underlying data collection tool. </i></small></p>
 
 <h3>Article Projects</h3>
 
-<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of July/August. </p>
+<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of August. </p>
 
 <p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. </p>
 
 <p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. </p>
 
-<p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports.  Target Journal: FIND THE NAME OF IT. </p>
+<p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. </p>
 
 <h3>Digital Projects</h3>
 
@@ -296,15 +296,12 @@ sbuongiorno@smu.edu <br>
 </div>
 
 <br>
-
+<br>
 <h1>Previous Employment </h1>
 
-<h3>Other Research Positions</h3>
+<h3>Employment: Research Positions</h3>
 
 <div class="spaced-list">
-  <div>2024</div>
-  <div>Track Co-Chair, SciPy, Social Science, Humanities, Economics, and Human Systems </div>
-
   <div>2022-23</div>
   <div>Technical Lead, “The Human Trafficking Project,” Department of Computer Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University</div>
 
@@ -317,6 +314,8 @@ sbuongiorno@smu.edu <br>
   <div>2018-21</div>
   <div>Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
 </div>
+
+<br>
 
 <h3>Employment: Teaching Positions</h3>
 
@@ -343,7 +342,7 @@ sbuongiorno@smu.edu <br>
   <div>Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University</div>
 </div>
 
-
+<br>
 <h3>Employment: Related Positions</h3>
 
 <div class="spaced-list">
@@ -354,6 +353,7 @@ sbuongiorno@smu.edu <br>
   <div>Computer Science Senior Design, Southern Methodist University.</div>
 </div>
 
+<br>
 
 <h3>Employment: Other</h3>
 
@@ -371,6 +371,7 @@ sbuongiorno@smu.edu <br>
   <div>Assistant Instructor, Introduction to SCUBA, University of Texas at Arlington.</div>
 </div>
 
+<br>
 
 <h3>Awards</h3>
 
