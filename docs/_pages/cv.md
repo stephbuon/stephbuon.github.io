@@ -41,7 +41,7 @@ sbuongiorno@smu.edu <br>
   <div>2023-Present</div>
   <div>
     Postdoctoral Fellow and Lab Co-Director, Guildhall Video Game Department, Southern Methodist University.<br>
-    <small><i>I co-direct a 10-person lab while playing a hands-on role in designing intelligent agents and hierarchical, multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).</i></small>
+    <small><i>I co-direct a 10-person lab while designing intelligent agents and multi-agent systems that autonomously learn new subjects (by parsing plain-language text into knowledge graphs), retrieve information that encodes domain knowledge, and self-validate (using techniques based on self-reflection/self-prompting).</i></small>
   </div>
 </div>
 
@@ -151,7 +151,7 @@ sbuongiorno@smu.edu <br>
 
 <h1>Other Contributions</h1>
 
-<p>30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining.</p>
+<p>30 visualizations in Jo Guldi's <i>The Dangerous Art of Text Mining.</i></p>
 
 <br />
 
