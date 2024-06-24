@@ -135,19 +135,19 @@ sbuongiorno@smu.edu <br>
 
 <h4>Dark Shadows</h4>
 
-<p>Steph Buongiorno, Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. Dark Shadows, Southern Methodist University, Guildhall. 
-<small><i>Descripton: Address the real-world problem of human trafficking while playing a video game.</i></small></p> 
+<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.</p>
 
-<h4>Dark Shadows, Scene I</h4>
+<p>Counter the real-world problem of human trafficking while playing a video game.</p>
+<br>
+<p>I conceived of <i>Dark Shadows</i> as a film noir-style “document thriller” (inspired by <i>Papers, Please!</i> and <i>Night Call</i>). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. <i>Dark Shadows</i> pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</p>
 
-<p>I conceived of Dark Shadows as a film noir-style “document thriller” (inspired by Papers, Please! and Night Call). I designed and developed underlying “human-in-the-loop” mechanics to collect player feedback and train a machine learning model, which can disambiguate speakers, locations, and events in real human trafficking data. I guided graduate students on the design of the gameplay mechanics and narrative. https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/</p>
+<ul>
+    <li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li>
+    <li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li>
+</ul>
 
-<h4>Dark Shadows, Scene II</h4>
+<p>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</p>
 
-<p>I designed NPCs that leverage large language models (LLMs) and a self-reflection-based validation system to enable dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). NPCs express traits from the Big 5 Personality Model in their responses, while the validation system ensures responses stay on narrative track. https://www.youtube.com/watch?v=ys7vTkUZ8ic</p>
-
-<h4>Dark Shadows, Scene III</h4> 
-[Forthcoming] Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery. 
 
 <h3>Data Sets</h3>
 
