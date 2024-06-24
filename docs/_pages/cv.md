@@ -138,8 +138,8 @@ sbuongiorno@smu.edu <br>
 I conceived of Dark Shadows as a film noir-style "document thriller" (inspired by Papers, Please! and Night Call). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Dark Shadows pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
 
 <ul>
-    <small><i><li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li></i></small>
-    <small><i><li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li></i></small>
+    <small><li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li></small>
+    <small><li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li></small>
 </ul>
 
 <p><small><i>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</i></small></p>
