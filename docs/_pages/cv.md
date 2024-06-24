@@ -34,7 +34,7 @@ sbuongiorno@smu.edu <br>
   <div>BA, English & Linguistics, University of Texas at Arlington (Summa Cum Laude)</div>
 </div>
 
-<br>
+<br />
 
 <h3>Professional Employment</h3>
 <div class="spaced-list">
@@ -45,7 +45,7 @@ sbuongiorno@smu.edu <br>
   </div>
 </div>
 
-<br>
+<br />
 
 <h1>Publications</h1> 
 (peer reviewed = \*)
@@ -159,7 +159,7 @@ sbuongiorno@smu.edu <br>
 
 <p>30 visualizations in Jo Guldi’s The Dangerous Art of Text Mining.</p>
 
-<br>
+<br />
 
 <h1>Grant Proposals</h1>
 
@@ -169,7 +169,7 @@ sbuongiorno@smu.edu <br>
 
 <p>“SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. </p>
 
-<br>
+<br />
 
 <h1>Invited Lectures and Presentations</h1>
 
@@ -196,7 +196,7 @@ sbuongiorno@smu.edu <br>
   <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
 </div>
 
-<br>
+<br />
 
 <h1>Teaching</h1>
 
@@ -274,7 +274,7 @@ sbuongiorno@smu.edu <br>
   <div>EXSA 1249: Scuba Diving. Department of Exercise and Sport Activity, The University of Texas at Arlington (6 sections)</div>
 </div>
 
-<br>
+<br />
 
 <h1>Service</h1>
 
@@ -295,8 +295,8 @@ sbuongiorno@smu.edu <br>
   <div>Mentor, PhD student Joel Nyman in history, Academy of Finland </div>
 </div>
 
-<br>
-<br>
+<br />
+
 <h1>Previous Employment </h1>
 
 <h3>Employment: Research Positions</h3>
@@ -315,7 +315,7 @@ sbuongiorno@smu.edu <br>
   <div>Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
 </div>
 
-<br>
+<br />
 
 <h3>Employment: Teaching Positions</h3>
 
