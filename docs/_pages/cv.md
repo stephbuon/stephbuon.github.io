@@ -133,15 +133,16 @@ sbuongiorno@smu.edu <br>
 
 <h3>Video Games</h3>
 
-<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.Counter the real-world problem of human trafficking while playing a video game.<br>
-<small><i>I conceived of Dark Shadows as a film noir-style "document thriller" (inspired by Papers, Please! and Night Call). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Dark Shadows pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
+<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.<br>
+<small><i>Counter the real-world problem of human trafficking while playing a video game. <br> 
+I conceived of Dark Shadows as a film noir-style "document thriller" (inspired by Papers, Please! and Night Call). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Dark Shadows pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
 
 <ul>
-    <li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li>
-    <li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li>
+    <small><i><li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li></i></small>
+    <small><i><li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li></i></small>
 </ul>
 
-<p>Future Work: <i>Dark Shadows</i> will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</p>
+<p><small><i>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</i></small></p>
 
 <h3>Data Sets</h3>
 
