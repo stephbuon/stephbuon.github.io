@@ -65,24 +65,24 @@ sbuongiorno@smu.edu <br>
 
 <h3>Articles (Under Review)</h3>
 
-<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. “PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games.” Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
+<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. "PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games." Under review at AAAI Artificial Intelligence and Interactive Digital Entertainment, a peer-reviewed CS conference. <br>
 <small><i>In this article, I was responsible for research design, all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates.” Under review at Journal of Cultural Analytics. <br>
+<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. "Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates." Under review at Journal of Cultural Analytics. <br>
 <small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. “The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Under review at Journal of Cultural Analytics. <br> 
+<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set." Under review at Journal of Cultural Analytics. <br> 
 <small><i>In this article, I was responsible for all writing and partial design of the underlying data collection tool. </i></small></p>
 
 <h3>Article Projects</h3>
 
-<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. “Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs.” Target Journal: “ACM Transactions on Intelligent Systems and Technology.” Estimated Submission: End of August. </p>
+<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. "Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs." Target Journal: "ACM Transactions on Intelligent Systems and Technology." Estimated Submission: End of August. </p>
 
-<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. “Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences”. Target Journal: “International Journal of Digital Humanities.”  Estimated Submission: End of August. </p>
+<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target Journal: "International Journal of Digital Humanities."  Estimated Submission: End of August. </p>
 
-<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. “Driving Generative Agents with their Personality.”Target Journal: “IEEE Transactions on Games.”  Estimated Submission: End of August. </p>
+<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Driving Generative Agents with their Personality."Target Journal: "IEEE Transactions on Games."  Estimated Submission: End of August. </p>
 
-<p>Steph Buongiorno. “North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021).” Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. </p>
+<p>Steph Buongiorno. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. </p>
 
 <h3>Digital Projects</h3>
 
@@ -120,34 +120,28 @@ sbuongiorno@smu.edu <br>
 <small><i>Description: A code repository for text mining techniques for the Digital Humanities.</i></small></p>
 
 <p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. <br>
-<small><i> Description: Optimized, “white-box” statistical functions for textual analysis. </i></small></p>
+<small><i> Description: Optimized, "white-box" statistical functions for textual analysis. </i></small></p>
 
 <h3>Instructional and Interactive Materials</h3>
 
-<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2023.” Santa Fe Institute. GitHub. <br>
-<small><i>I was the lead instructor for the SFI’s “Humanities Analytics” summer camp two years running. My code formed the basis for all instruction and activity.</i></small></p>
+<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2023." Santa Fe Institute. GitHub. <br>
+<small><i>I was the lead instructor for the SFI’s "Humanities Analytics" summer camp two years running. My code formed the basis for all instruction and activity.</i></small></p>
 
-<p>Steph Buongiorno. “Foundations and Applications of Humanities Analytics 2022.” Santa Fe Institute. GitHub.</p>
+<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2022." Santa Fe Institute. GitHub.</p>
 
-<p>Steph Buongiorno. “Digital History.” Southern Methodist University. GitHub.</p>
+<p>Steph Buongiorno. "Digital History." Southern Methodist University. GitHub.</p>
 
 <h3>Video Games</h3>
 
-<h4>Dark Shadows</h4>
-
-<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.</p>
-
-<p>Counter the real-world problem of human trafficking while playing a video game.</p>
-<br>
-<p>I conceived of <i>Dark Shadows</i> as a film noir-style “document thriller” (inspired by <i>Papers, Please!</i> and <i>Night Call</i>). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. <i>Dark Shadows</i> pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</p>
+<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.Counter the real-world problem of human trafficking while playing a video game.<br>
+<small><i>I conceived of Dark Shadows as a film noir-style "document thriller" (inspired by Papers, Please! and Night Call). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Dark Shadows pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
 
 <ul>
     <li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li>
     <li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li>
 </ul>
 
-<p>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</p>
-
+<p>Future Work: <i>Dark Shadows</i> will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</p>
 
 <h3>Data Sets</h3>
 
@@ -163,11 +157,11 @@ sbuongiorno@smu.edu <br>
 
 <h1>Grant Proposals</h1>
 
-<p>“Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum.” Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the “bigger picture” behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
+<p>"Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum." Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the "bigger picture" behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
 
-<p>“Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development.” Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics.</p> 
+<p>"Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development." Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics.</p> 
 
-<p>“SmartCADD Machine Learning Drug Discovery.” Topic: To support the development of AI for discovering new medical drug compounds. </p>
+<p>"SmartCADD Machine Learning Drug Discovery." Topic: To support the development of AI for discovering new medical drug compounds. </p>
 
 <br />
 
@@ -175,25 +169,25 @@ sbuongiorno@smu.edu <br>
 
 <div class="spaced-list">
   <div>2024</div>
-  <div>[upcoming] “Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>[upcoming] "Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
 
   <div>2024</div>
-  <div>[upcoming] “Generative AI and Agents Integration into Human Trafficking Data and Analysis,” SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>[upcoming] "Generative AI and Agents Integration into Human Trafficking Data and Analysis," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
 
   <div>2024</div>
-  <div>“Rhetorical Tools for Storytelling,” Guildhall, Southern Methodist University</div>
+  <div>"Rhetorical Tools for Storytelling," Guildhall, Southern Methodist University</div>
 
   <div>2022</div>
-  <div>“Text Mining Parliamentary Data,” Department of History, Academy of Finland</div>
+  <div>"Text Mining Parliamentary Data," Department of History, Academy of Finland</div>
 
   <div>2022</div>
-  <div>“Data Storage and Data Processing,” Public Health, UT Southwestern</div>
+  <div>"Data Storage and Data Processing," Public Health, UT Southwestern</div>
 
   <div>2022</div>
-  <div>“Text Mining and Data Analytic Techniques,” Public Health, UT Southwestern</div>
+  <div>"Text Mining and Data Analytic Techniques," Public Health, UT Southwestern</div>
 
   <div>2018</div>
-  <div>“Analyzing Gender and Agency using Grammatical Triples Extraction.” Think-Play-Hack, Southern Methodist University</div>
+  <div>"Analyzing Gender and Agency using Grammatical Triples Extraction." Think-Play-Hack, Southern Methodist University</div>
 </div>
 
 <br />
@@ -202,13 +196,13 @@ sbuongiorno@smu.edu <br>
 
 <div class="spaced-list">
   <div>2024</div>
-  <div>HGME 6377: Thesis III Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.”Guildhall, Southern Methodist University.</div>
+  <div>HGME 6377: Thesis III Software Development. Graduate Course. "gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models."Guildhall, Southern Methodist University.</div>
 
   <div>2024</div>
-  <div>HGME 6377: Thesis III Level Design. Graduate Course. “Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI.”  Guildhall, Southern Methodist University.</div>
+  <div>HGME 6377: Thesis III Level Design. Graduate Course. "Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI."  Guildhall, Southern Methodist University.</div>
 
   <div>2024</div>
-  <div>HGME 6377: Thesis III Production. Graduate Course. “Chinese PC Gamers' Motivation, Game Preferences, and Publishing Advice for Non-Chinese Game Companies.” Guildhall, Southern Methodist University.</div>
+  <div>HGME 6377: Thesis III Production. Graduate Course. "Chinese PC Gamers' Motivation, Game Preferences, and Publishing Advice for Non-Chinese Game Companies." Guildhall, Southern Methodist University.</div>
 
   <div>2024</div>
   <div>CS 5352: Senior Design II. Undergraduate Course. Computer Science, Southern Methodist University. Topic: Taught a year-long digital humanities project with 3 enrolled undergraduates. </div>
@@ -223,10 +217,10 @@ sbuongiorno@smu.edu <br>
   <div>CS 5351: Senior Design I. Undergraduate Course. Computer Science, Southern Methodist University. Topic: Topic: Taught a year-long digital humanities project with 3 enrolled undergraduates</div>
   
   <div>2023</div>
-  <div>HGME 6276: Thesis II Software Development. Graduate Course. “gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models.” Guildhall, Southern Methodist University</div>
+  <div>HGME 6276: Thesis II Software Development. Graduate Course. "gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models." Guildhall, Southern Methodist University</div>
   
   <div>2023</div>
-  <div>HGME 6276: Thesis II Level Design. Graduate Course. “Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI.” Guildhall, Southern Methodist University</div>
+  <div>HGME 6276: Thesis II Level Design. Graduate Course. "Unveiling New Realms: Enhancing Procedural Narrative Generation and NPC Personalization using AI." Guildhall, Southern Methodist University</div>
 
   <div>2023</div>
   <div>HGME 6592: Team Game Production I. Graduate Course. Topic: Replicability and Version Control. Guildhall, Southern Methodist University</div>
@@ -303,16 +297,16 @@ sbuongiorno@smu.edu <br>
 
 <div class="spaced-list">
   <div>2022-23</div>
-  <div>Technical Lead, “The Human Trafficking Project,” Department of Computer Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University</div>
+  <div>Technical Lead, "The Human Trafficking Project," Department of Computer Science,  National Institute of Justice Grant (H.R. 2471), PI Corey Clark, Southern Methodist University</div>
 
   <div>2021-22</div>
-  <div>Research Assistant, “Toward a History of the Associative-Developmental State,” Department of History, Southern Methodist University</div>
+  <div>Research Assistant, "Toward a History of the Associative-Developmental State," Department of History, Southern Methodist University</div>
 
   <div>2021-22</div>
-  <div>Research Assistant, “The History of Modern China,” Department of History, Southern Methodist University</div>
+  <div>Research Assistant, "The History of Modern China," Department of History, Southern Methodist University</div>
 
   <div>2018-21</div>
-  <div>Technical Lead, “Global Urbanization and Housing Affordability: Poverty, Property, and the City,” National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
+  <div>Technical Lead, "Global Urbanization and Housing Affordability: Poverty, Property, and the City," National Science Foundation Grant (no. 1520103), PI Jo Guldi, Department of History, Southern Methodist University</div>
 </div>
 
 <br />
