@@ -37,7 +37,7 @@ hero:
     <strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social problems. 
     She created <i>Dark Shadows</i>, a film noir-style detective video game that advances research on 
     generative AI and natural language processing across multiple fronts. 
-    It introduces a novel validation system that allows small LLMs to perform comparably to large foundational models; 
+    It introduces a novel validation system enabling local large language models (LLMs) to perform comparably to large foundational models; 
     Non-Playable Characters (NPCs) that express Big 5 personality traits; 
     and mechanics to crowdsource human feedback to improve the accuracy of AI.
 
@@ -50,7 +50,6 @@ hero:
     the public to systematically analyze and interpret large volumes of social, political, and cultural data at scale.
 
     <br><br>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
-
 
 
 
