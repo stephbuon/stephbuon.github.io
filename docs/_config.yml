@@ -34,15 +34,13 @@ hero:
   hero__description: |
     <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of individual fields. Her work includes research, tools, and methodologies for building, engaging, and reshaping complex systems using: </p>
 
-    <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social issues. She created <i>Dark Shadows</i>, a film noir-style detective game that acts as a test bed for novel Generative AI frameworks. The game features a novel validation system enabling local large language models to perform on par with foundational models; mechanics for crowdsourcing human feedback to improve AI accuracy; and dynamic, non-playable characters (NPCs) that express Big 5 personality traits. </p>
+    <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social issues. She created <i>Dark Shadows</i>, a film noir-style detective game that acts as a test bed for novel Generative AI frameworks. The game features a novel validation system that enables local large language models to perform similarly to foundational models; mechanics for crowdsourcing human feedback to improve AI accuracy; and dynamic, non-playable characters (NPCs) that express Big 5 personality traits. </p>
    
     <p><strong>Pedagogy that Bridges Disciplines</strong> and empowers students to think critically and deconstruct language-based systems, from discourse to code libraries. She does this by integrating text mining and interactive technology to teach cross-disciplinary thinking that confronts cultural, historical, and societal issues.</p>
    
     <p><strong>Tools for Citizenship</strong> like the <i>Democracy Viewer</i> web application that enables researchers and the public to systematically analyze and interpret large volumes of social, political, and cultural data at scale.</p>
    
     <p>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).</p>
-
-
 
 
 
