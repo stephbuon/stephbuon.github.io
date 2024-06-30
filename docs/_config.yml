@@ -32,7 +32,7 @@ social:
 hero:
   hero__title: ""
   hero__description: |
-    <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of individual fields. Her work includes:</p>
+    <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of individual fields. Her work includes research, tools, and methodologies for engaging and reshaping complex systems such as: </p>
 
     <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> addressing social issues. She created <i>Dark Shadows</i>, a film noir-style detective video game, to advance generative AI and natural language processing research. The game features a novel validation system enabling local large language models to perform on par with foundational models; mechanics for crowdsourcing human feedback to improve AI accuracy; and dynamic, non-playable characters (NPCs) that express Big 5 personality traits. </p>
     
@@ -41,6 +41,7 @@ hero:
     <p><strong>Tools for Citizenship</strong> like the <i>Democracy Viewer</i> web application that enables researchers and the public to systematically analyze and interpret large volumes of social, political, and cultural data at scale.</p>
     
     <p>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).</p>
+
 
 
 
