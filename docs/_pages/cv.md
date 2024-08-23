@@ -64,7 +64,7 @@ sbuongiorno@smu.edu <br>
 <p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. "PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA.  <br>
 <small><i>In this article, I was responsible for research design, all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
-<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA. </p>
+<p>*Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA. </p>
 
 <p>*Steph Buongiorno [Corresponding Author] and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. <br>
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
