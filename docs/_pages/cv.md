@@ -61,10 +61,10 @@ sbuongiorno@smu.edu <br>
 
 <p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. "PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games." Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE). <br>
+<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. "PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA.  <br>
 <small><i>In this article, I was responsible for research design, all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
 
-<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE). </p>
+<p>Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA. </p>
 
 <p>*Steph Buongiorno [Corresponding Author] and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. <br>
 <small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
@@ -388,5 +388,6 @@ I conceived of Dark Shadows as a film noir-style "document thriller" (inspired b
   <div>2018</div>
   <div>Full Cave Diver, International Association of Nitrox and Technical Divers.</div>
 </div>
+
 
 
