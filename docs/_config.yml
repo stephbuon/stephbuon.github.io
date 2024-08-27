@@ -32,16 +32,21 @@ social:
 hero:
   hero__title: ""
   hero__description: |
-    <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of individual fields. She creates research, tools, and methodologies for building, engaging, and reshaping complex systems using: </p>
+    <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate knowledge beyond the boundaries of 
+    individual fields. She creates research, tools, and methodologies for building, engaging, and reshaping complex systems using: </p>
 
-    <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social issues. She created <i>Dark Shadows</i>, a noir-style detective video game in which players fight the real-world problem of human trafficking by interacting with game mechanics wrapped in fictional conceits. <i>Dark Shadows</i> also serves as the testbed for agential and AI frameworks. It features: A novel validation system enabling local large language models to perform comparably to foundational models; mechanics for crowdsourcing human feedback to improve AI accuracy; and dynamic, non-playable characters (NPCs) expressing Big 5 personality traits.  </p>
+    <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social issues. She created <i>Dark Shadows</i>, a noir-style detective video 
+    game in which players fight the real-world problem of human trafficking. Dark Shadows also serves as the testbed for novel AI frameworks and crowdsourcing mechanics wrapped 
+    in fictional conceits.  </p>
    
-    <p><strong>Pedagogy that Bridges Disciplines</strong> that empowers students to deconstruct and analyze the language-based systems that shape our society, from everyday human discourse to the language of generative AI. She achieves this by using interactive technology to teach cross-disciplinary thinking, confronting cultural, historical, and societal issues. </p>
+    <p><strong>Pedagogy that Bridges Disciplines</strong> and empowers students to deconstruct and utilize the language-based systems that impact our society, from everyday 
+    human discourse to the language of multi-agent systems and generative AI. She achieves this by using interactive technology to teach cross-disciplinary thinking, 
+    confronting cultural, historical, and societal issues. </p>
    
-    <p><strong>Tools for Citizenship</strong> like the <i>Democracy Viewer</i> web application that enables researchers and the public to systematically analyze and interpret large volumes of social, political, and cultural data at scale.</p>
+    <p><strong>Tools for Citizenship</strong> like the <i>Democracy Viewer</i> web application that enables researchers and the public to systematically 
+    engage, analyze, and interpret large volumes of social, political, and cultural data at scale.</p>
    
     <p>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).</p>
-
 
 
 
