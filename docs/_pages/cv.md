@@ -59,31 +59,47 @@ sbuongiorno@smu.edu <br>
 
 <h3>Articles</h3>
 
-<p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
+<p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all experimental research design, evaluation, and writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>*Steph Buongiorno [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhaung, and Corey Clark. "PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA.  <br>
-<small><i>In this article, I was responsible for research design, all writing, designing the narrative and validation gameplay systems, drawing all diagrams, and designing the experimental tests.</i></small></p>
+<p>*Buongiorno, Steph [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhuang, and Corey Clark. "PANGeA: Procedural Artificial Narrative Using Generative AI for Turn-Based Video Games." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), 2024, Lexington, KY, USA. <br>
 
-<p>*Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." Proceeedings of Artificial Intelligence and Interactive Digital Entertainment (AAAI AIIDE), 2024, Lexington, KY, USA. </p>
+<p>*Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), 2024, Lexington, KY, USA. <br>
 
-<p>*Steph Buongiorno [Corresponding Author] and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. <br>
-<small><i>In this article, I was responsible for all writing, conceptualization, and visualizations.</i></small></p>
-
-<h3>Articles (Under Review)</h3>
-
-<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. "Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates." Under review at Journal of Cultural Analytics. <br>
-<small><i>In this article, I was responsible for all writing, designing the disambiguation pipeline, and analyzing the results.</i></small></p>
-
-<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set." Under review at Journal of Cultural Analytics. <br> 
-<small><i>In this article, I was responsible for all writing and partial design of the underlying data collection tool. </i></small></p>
+<p>*Buongiorno, Steph [Corresponding Author], and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy-Critical Generative AI Applications." <i>Proceedings of the 2024 IEEE Conference on Games</i>, Milan, Italy, 2024.<br>
 
 <h3>Article Projects</h3>
 
-<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. "Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs." Target Journal: "ACM Transactions on Intelligent Systems and Technology." Estimated Submission: End of August. </p>
+<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. "Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates." Under review at Journal of Cultural Analytics. <br>
 
-<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target Journal: "International Journal of Digital Humanities."  Estimated Submission: End of August. </p>
+<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set." Under review at Journal of Cultural Analytics. <br> 
 
-<p>Steph Buongiorno. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. </p>
+<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. "Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs." </p>
+
+<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target Journal: <i>International Journal of Digital Humanities.</i>  </p>
+
+<p>Steph Buongiorno. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: <i>International Journal of Aquatic Research and Education.</i> </p>
+
+<h3>Video Games</h3>
+
+<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.<br>
+<small><i>Counter the real-world problem of human trafficking while playing a video game. <br> 
+I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (inspired by <i>Papers, Please!</i> and <i>Night Call</i>). Prior to the advent of generative AI, I designed and developed human-in-the-loop mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Now, <i>Dark Shadows</i> pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
+
+<ul>
+    <small><li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li></small>
+    <small><li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li></small>
+</ul>
+
+<p><small><i>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</i></small></p>
+
+<h3>Instructional Materials</h3>
+
+<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2023." Santa Fe Institute. GitHub. <br>
+<small><i>I was the lead instructor for the SFI’s "Humanities Analytics" summer camp two years running. My code formed the basis for all instruction and activity.</i></small></p>
+
+<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2022." Santa Fe Institute. GitHub.</p>
+
+<p>Steph Buongiorno. "Digital History." Southern Methodist University. GitHub.</p>
 
 <h3>Digital Projects</h3>
 
@@ -123,28 +139,6 @@ sbuongiorno@smu.edu <br>
 <p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. <br>
 <small><i> Description: Optimized, "white-box" statistical functions for textual analysis. </i></small></p>
 
-<h3>Instructional and Interactive Materials</h3>
-
-<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2023." Santa Fe Institute. GitHub. <br>
-<small><i>I was the lead instructor for the SFI’s "Humanities Analytics" summer camp two years running. My code formed the basis for all instruction and activity.</i></small></p>
-
-<p>Steph Buongiorno. "Foundations and Applications of Humanities Analytics 2022." Santa Fe Institute. GitHub.</p>
-
-<p>Steph Buongiorno. "Digital History." Southern Methodist University. GitHub.</p>
-
-<h3>Video Games</h3>
-
-<p>Steph Buongiorno, Jake Klinkert, Zixin Zhaung, Tanishq Chawla, and Corey Clark. <i>Dark Shadows</i>, Southern Methodist University, Guildhall.<br>
-<small><i>Counter the real-world problem of human trafficking while playing a video game. <br> 
-I conceived of Dark Shadows as a film noir-style "document thriller" (inspired by Papers, Please! and Night Call). I designed and developed "human-in-the-loop" mechanics to gather player feedback and train a machine learning model capable of disambiguating speakers, locations, and events in real human trafficking data. Dark Shadows pushes the boundaries of generative AI in video games through a novel validation system that enables dynamic, free-form interactions with the player aligned with a procedural game narrative (re: PANGeA). The validation system uses self-reflection to evaluate the text input and generate a response in alignment with expected rules. To enrich players’ experiences, NPCs express traits from the Big 5 Personality Model in their responses.</i></small></p>
-
-<ul>
-    <small><li>See how <i>Dark Shadows</i> fights human trafficking on <a href="https://www.cbsnews.com/texas/news/i-team-video-game-helps-researchers-fight-sex-trafficking/">CBS News</a>.</li></small>
-    <small><li>See <i>Dark Shadows</i> gameplay on <a href="https://www.youtube.com/watch?v=ys7vTkUZ8ic">YouTube</a>.</li></small>
-</ul>
-
-<p><small><i>Future Work: Dark Shadows will include a social engineering scene, where the player must investigate the NPCs’ personalities and use rhetorical devices to gain clues on the mystery.</i></small></p>
-
 <h3>Data Sets</h3>
 
 <p>Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse. </p> 
@@ -155,15 +149,15 @@ I conceived of Dark Shadows as a film noir-style "document thriller" (inspired b
 
 <p>30 visualizations in Jo Guldi's <i>The Dangerous Art of Text Mining.</i></p>
 
-<br />
+<br/>
 
 <h1>Grant Proposals</h1>
 
 <p>"Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum." Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the "bigger picture" behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
 
-<p>"Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development." Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics.</p> 
+<p> "Developing Autonomous Agents to Improve Information Flow on Human trafficking" Topic: To make the response to human trafficking more resilient, we propose a new, complex data ecosystem of open knowledge networks along with information retrieval technology that improves data accessibility. Our research will focus on the state of Texas and confront the problems surrounding the development and use of a distributed, open knowledge network that holds sensitive information that cannot be shared directly. Our aim is to improve information flow between stakeholders (e.g. law enforcement, DHS, travel intermediaries) through a scalable architecture while enabling users to both ingest and retrieve meaningful knowledge artifacts. Key to our research is a novel agent layer that advances the state-of-the-art in privacy-preserving data sharing and analytics (PPDSA) technology by serving the dual purpose of: a. ensuring privacy protection and compliance with data sharing regulation; and b. maintaining integrity by preventing unauthorized data injections and data leaks. In addition, agents will be able to interface directly with the network, making private and secure connections between entities. </p>
 
-<p>"SmartCADD Machine Learning Drug Discovery." Topic: To support the development of AI for discovering new medical drug compounds. </p>
+<p>"Gen-AI Distributed Autonomous Agents and Deployment Infrastructure to Accelerate Research, Discovery and Development." Topic: To support finishing the development and design of intelligent agents and hierarchical, multi-agent systems for deployment in a distributed environment. To be applied to research problems with collaborators in psychology, chemistry, education, and economics.</p> 
 
 <br />
 
@@ -388,6 +382,5 @@ I conceived of Dark Shadows as a film noir-style "document thriller" (inspired b
   <div>2018</div>
   <div>Full Cave Diver, International Association of Nitrox and Technical Divers.</div>
 </div>
-
 
 
