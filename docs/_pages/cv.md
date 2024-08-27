@@ -61,9 +61,9 @@ sbuongiorno@smu.edu <br>
 
 <p><small><i>In my profession it is expected to include co-authors who do not contribute writing. As corresponding author I performed all experimental research design, evaluation, and writing. I directed the student co-authors following my name in conceptualization, design, and development of their respective artifacts (e.g. a video game mechanic, artwork, story narrative) while enabling their own creative agency in our shared project. In this respect, co-authorship is used here to convey transparency and signal their contributions to dimensions of a larger project. When acting as 2nd+ author, I offered an intellectual contribution and produced writing.</i></small></p>
 
-<p>*Buongiorno, Steph [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhuang, and Corey Clark. "PANGeA: Procedural Artificial Narrative Using Generative AI for Turn-Based Video Games." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), 2024, Lexington, KY, USA. <br>
+<p>*Buongiorno, Steph [Corresponding Author], Jake Klinkert, Tanishq Chawla, Zixin Zhuang, and Corey Clark. "PANGeA: Procedural Artificial Narrative Using Generative AI for Turn-Based Video Games." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), Lexington, KY, USA, 2024. <br>
 
-<p>*Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), 2024, Lexington, KY, USA. <br>
+<p>*Jake Klinkert, Steph Buongiorno [Second Author], Corey Clark. "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities." <i>Proceedings of the 2024 AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</i> (AIIDE), Lexington, KY, USA, 2024. <br>
 
 <p>*Buongiorno, Steph [Corresponding Author], and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy-Critical Generative AI Applications." <i>Proceedings of the 2024 IEEE Conference on Games</i>, Milan, Italy, 2024.<br>
 
