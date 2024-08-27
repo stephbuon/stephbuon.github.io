@@ -4,8 +4,9 @@ title:  'Text Mining for Historical Analysis'
 description: Computational methods are changing the way that we access information about history and society. These methods help us to detect change over time, to identify influential figures, and to name turning points. What happens when we apply these tools to the entire Hansard corpus or to a million congressional debates and tweets? This work provides an introduction to the analytic methodologies transforming the humanities and social sciences via a book, under contract at Cambridge University Press, and series of Jupyter Notebooks aimed at exploring questions like these.
 date:   2021-08-10 15:01:35 +0300
 image:  '/images/race_over_time_guldi.jpg'
-tags:   [Course Materials, Digital Humanities, NLP, Congress, Hansard]
+tags:   [Course Materials, Digital Humanities, NLP, Gov Data]
 ---
+
 
 This methods book provides a practical introduction to the R programming language for text mining historical records. And more than just a code cookbook, it offers a critical perspective to handling our human history. It is the companion guide to The Dangerous Art of Text Mining by Jo Guldi.
 
@@ -20,4 +21,3 @@ I designed and collaborated on a series of Jupyter Notebooks for Jo Gulid's clas
 Becuase this class encourages exploring discourses that have shaped our culture throughout time, students have access to a diverse range of data sets for their own research projects. These data sets include: Reddit posts from the Push Shift API from 2008 to 2015; the 19th-century Hansard Parliamentary debates of Great Britain; the Stanford Congressional Records; the Dallas, Texas and Houston, Texas City Council Minutes; literature from Project Gutenberg; metadata from the NovelTM Datasets for English-Language Fiction, 1700-2009; and corporate reports from EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system. 
 
 The skills practiced in this course begin with basic word counts and visualization techniques and extend to the high-level application of machine learning modules to tell digital history, modules such as spaCy, sci-kit learn, and gensim for word embeddings. By the end of the course students are able to perform comparative analyses and observe how langauge chnages over time. 
-

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Foundations and Applications of Humanities Analytics'
-description: Computational methods allow researchers to systematically analyze and interpret large volumes of social, political, and cultural data, uncovering underlying patterns and insights at scale. These course materials, tuaght at the Santa Fe Institute, are designed to equip humanities researchers with computational and quantitative tools. The course aims to foster a supportive community, build practical skills, and diversify the field of humanities analytics by welcoming participants from various backgrounds and stages of their academic careers.
+title:  'Course Materials: Foundations and Applications of Humanities Analytics'
+description: Computational methods allow researchers to systematically analyze and interpret large volumes of social, political, and cultural data, uncovering underlying patterns and insights at scale. These course materials, made for the Santa Fe Institute, are designed to equip humanities researchers with computational and quantitative tools. The course aims to foster a supportive community, build practical skills, and diversify the field of humanities analytics by welcoming participants from various backgrounds and stages of their academic careers.
 date:   2022-01-02 15:01:35 +0300
 image:  '/images/old_bailey_collage.jpg'
 tags:   [Course Materials, Digital Humanities, NLP]
