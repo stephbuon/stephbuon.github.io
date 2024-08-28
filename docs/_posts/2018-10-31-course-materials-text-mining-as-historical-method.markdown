@@ -4,7 +4,7 @@ title:  'Text Mining for Historical Analysis'
 description: Computational methods are changing the way that we access information about history and society. These methods help us to detect change over time, to identify influential figures, and to name turning points. What happens when we apply these tools to the entire Hansard corpus or to a million congressional debates and tweets? This work provides an introduction to the analytic methodologies transforming the humanities and social sciences via a book, under contract at Cambridge University Press, and series of Jupyter Notebooks aimed at exploring questions like these.
 date:   2021-08-10 15:01:35 +0300
 image:  '/images/race_over_time_guldi.jpg'
-tags:   [Course Materials, Digital Humanities, NLP, Gov Data]
+tags:   [Course Materials, Digital Humanities, NLP, Government Data]
 ---
 
 
