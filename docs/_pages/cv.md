@@ -350,16 +350,16 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 
 <div class="spaced-list">
   <div>2017</div>
-  <div>Assistant Instructor, Introduction to SCUBA, Southern Methodist University.</div>
+  <div>Divemaster, Introduction to SCUBA, Southern Methodist University.</div>
 
   <div>2014</div>
-  <div>Assistant Instructor, Introduction to SCUBA, Texas Woman’s University.</div>
+  <div>Divemaster, Introduction to SCUBA, Texas Woman’s University.</div>
 
   <div>2012-2014</div>
-  <div>Assistant Instructor, Advanced SCUBA, University of Texas at Arlington.</div>
+  <div>Divemaster, Advanced SCUBA, University of Texas at Arlington.</div>
 
   <div>2012-2014</div>
-  <div>Assistant Instructor, Introduction to SCUBA, University of Texas at Arlington.</div>
+  <div>Divemaster, Introduction to SCUBA, University of Texas at Arlington.</div>
 </div>
 
 <br />
