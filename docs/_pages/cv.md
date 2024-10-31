@@ -341,11 +341,15 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 <h3>Employment: Teaching Positions</h3>
 
 <div class="spaced-list">
+
+  <div>2024-25</div>
+  <div>Writing Support Instructor, Guildhall, Southern Methodist University. Topic: thesis writing for software developers, producers, artists, and level designers.</div>
+  
   <div>2023-24</div>
   <div>Democracy Lab Co-Director, Emory University. Topic: Development of an advanced text mining app, data sharing, and data visualization public web app for the digital humanities.</div>
 
   <div>2023-24</div>
-  <div>Level Design Thesis Advisor, Guildhall, Southern Methodist University. Topic: creative narrative writing for a film-noir style detective thriller augmented by generative AI.</div>
+  <div>Level Design Thesis Support Instructor, Guildhall, Southern Methodist University. Topic: creative narrative writing for a film-noir style detective thriller augmented by generative AI.</div>
 
   <div>2023</div>
   <div>Support Instructor, Team Game Production I, Guildhall, Southern Methodist University. Topics: Reproducibility and version control.</div>
