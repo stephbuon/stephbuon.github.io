@@ -53,9 +53,9 @@ sbuongiorno@smu.edu <br>
 
 <h3>Book Projects</h3>
 
-<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. Under Review. Cambridge University Press.</p>
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. Under Contract. Cambridge University Press.</p>
 
-<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. eBook Edition. Under Review. Cambridge University Press.</p> 
+<p>*Steph Buongiorno [Corresponding Author] and Jo Guldi. <i>Text Mining for Historical Analysis</i>. eBook Edition. Under Contract. Cambridge University Press.</p> 
 
 <h3>Articles</h3>
 
@@ -67,17 +67,18 @@ sbuongiorno@smu.edu <br>
 
 <p>*Steph Buongiorno [Corresponding Author], and Corey Clark. "A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy-Critical Generative AI Applications." <i>Proceedings of the 2024 IEEE Conference on Games (CoG)</i>, Milan, Italy, 2024.<br>
 
+<h3>Articles Under Review</h3>
+
+<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. “Hansard 2.0: Discovering Lost Records and the Creation of an Analysis Ready Data Set.” Revise and resubmit at <i>Journal of Cultural Analytics</i>.<br>
+
 <h3>Article Projects</h3>
 
-<p>*Steph Buongiorno [Corresponding Author], Alexander Cerpa, Jo Guldi. "Disambiguating Speakers in the Hansard 19th-Century British Parliamentary Debates." Under review at Journal of Cultural Analytics. <br>
+<p>Steph Buongiorno [Corresponding Author] and Corey Clark. "Critical Thinking Agents for Solving the ARC AGI Puzzle." Target publication venues: AAAI, IEEE, or ACM. <br>
 
-<p>*Steph Buongiorno [Corresponding Author], Rob Kalescky, Jo Guldi. "The Hansard 19th-Century British Parliamentary Debates: Discovering Lost Records and the Creation of an Analysis Ready Data Set." Under review at Journal of Cultural Analytics. <br> 
+<p>Steph Buongiorno [Corresponding Author] and Ryan Schaefer. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target publication venues: AAAI, IEEE, or ACM. <br>
 
-<p>Steph Buongiorno [Corresponding Author], Ananya Das Manolyl, Corey Clark. "Hierarchies of Thought: A Development Methodology for Explainable Multi-Agent Planning Systems Driven by Generative AI and Specialized Knowledge Graphs." </p>
+Steph Buongiorno [Corresponding Author]. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. <br>
 
-<p>Steph Buongiorno [Corresponding Author], Aiyou Tan, Ryan Schaefer, Jo Guldi. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target Journal: <i>International Journal of Digital Humanities.</i>  </p>
-
-<p>Steph Buongiorno. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: <i>International Journal of Aquatic Research and Education.</i> </p>
 
 <h3>Video Games</h3>
 
@@ -101,16 +102,18 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 
 <p>Steph Buongiorno. "Digital History." Southern Methodist University. GitHub.</p>
 
-<h3>Digital Projects</h3>
+<h3>Web Apps</h3>
 
-<p>Steph Buongiorno, Ryan Schaefer, Aiyou Tan, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University (forthcoming Summer 2024). <br>
-<small><i>I lead the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.</i></small></p>
+<p>Steph Buongiorno, Ryan Schaefer, Wes Anderson, Chris Miller, and Matt Swigart. Democracy Viewer, Emory University. <br>
+<small><i>I lead students in the development of a public-facing web app for exploring, text mining, and visualizing humanities and social sciences data sets in English, German, Spanish, and French. To be deployed on Amazon Web Service (AWS) in Summer 2024.</i></small></p>
 
 <p>Steph Buongiorno. The Hansard Viewer. Southern Methodist University, 2022.<br> 
 <small><i>Description: A Shiny app for text mining and visualizing the 19th-century British parliamentary debate using data science metrics.</i></small></p>
 
 <p>Steph Buongiorno. The Congress Viewer. Southern Methodist University, 2022.<br> 
 <small><i>Description: A Shiny app for text mining and visualizing the U.S. Congressional Records using data science metrics. </i></small></p>
+
+<h3>Software Packages</h3>
 
 <p>*Steph Buongiorno. usdoj.  ROpenGov. <br>
 <small><i> Description:  An R package for creating a structured version of the U.S. Department of Justice press releases, blogs, and records. </i></small></p>
@@ -139,7 +142,7 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 <p>Steph Buongiorno and Ryan Schaefer. dhmeasures. GitHub. <br>
 <small><i> Description: Optimized, "white-box" statistical functions for textual analysis. </i></small></p>
 
-<h3>Data Sets</h3>
+<h3>Datasets</h3>
 
 <p>Steph Buongiorno; Robert Kalescky; Omar Alexander Cerpa; Jo Guldi, 2022, "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics", https://doi.org/10.7910/DVN/ZCYJH8, Harvard Dataverse. </p> 
 
@@ -153,7 +156,7 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 
 <h1>Grant Proposals</h1>
 
-<p>"Integrating Human Computer Interaction, Machine Learning, Game Design, and Educational Assessment in a STEM+C Curriculum." Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the "bigger picture" behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
+<p>"Inclusive Game-Based Learning with AI Agents: Personalizing Computational Thinking Instruction for Students with Reading Disabilities" Topic: To support the development of personalized, educational agents in Minecraft. We propose the integration of an advanced set of agent abilities across three design types: A) Personalized Educational Agents that autonomously monitor student progression and dynamically generate customized curriculum for addressing individuals' needs based on their existing knowledge, personalities, and interests; B) Bridging Agents that demonstrate the "bigger picture" behind computational thinking by creating connections between STEM topics and interdisciplinary topics, such as the Language Arts; and C) Analyst Agents that translate student progression and learning outcomes to teachers for their easy assessment of student progress.</p>
 
 <p> "Developing Autonomous Agents to Improve Information Flow on Human trafficking" Topic: To make the response to human trafficking more resilient, we propose a new, complex data ecosystem of open knowledge networks along with information retrieval technology that improves data accessibility. Our research will focus on the state of Texas and confront the problems surrounding the development and use of a distributed, open knowledge network that holds sensitive information that cannot be shared directly. Our aim is to improve information flow between stakeholders (e.g. law enforcement, DHS, travel intermediaries) through a scalable architecture while enabling users to both ingest and retrieve meaningful knowledge artifacts. Key to our research is a novel agent layer that advances the state-of-the-art in privacy-preserving data sharing and analytics (PPDSA) technology by serving the dual purpose of: a. ensuring privacy protection and compliance with data sharing regulation; and b. maintaining integrity by preventing unauthorized data injections and data leaks. In addition, agents will be able to interface directly with the network, making private and secure connections between entities. </p>
 
@@ -164,11 +167,18 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 <h1>Invited Lectures and Presentations</h1>
 
 <div class="spaced-list">
-  <div>2024</div>
-  <div>[upcoming] "Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
 
   <div>2024</div>
-  <div>[upcoming] "Generative AI and Agents Integration into Human Trafficking Data and Analysis," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+  <div>"Combating Human Trafficking with Technology," Word Affair Council of DFW, hosting U.S. State Department international visitors from India.</div>
+
+  <div>2024</div>
+  <div>"Introducing the Democracy Viewer Web App," History of Parliament Trust.</div>
+
+  <div>2024</div>
+  <div>"Navigating Privacy, Storage, and Analysis in a Generative AI Enabled World," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
+
+  <div>2024</div>
+  <div>"Generative AI and Agents Integration into Human Trafficking Data and Analysis," SMU Human Trafficking Data Conference, Sponsored by Thomson Reuters.</div>
 
   <div>2024</div>
   <div>"Rhetorical Tools for Storytelling," Guildhall, Southern Methodist University</div>
@@ -182,6 +192,12 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
   <div>2022</div>
   <div>"Text Mining and Data Analytic Techniques," Public Health, UT Southwestern</div>
 
+  <div>2021</div>
+  <div>"Extracting Gendered Constructions with spaCy," History, Southern Methodist University</div>
+
+  <div>2021</div>
+  <div>"Natural Language Processing and Understanding Metadata," History, Southern Methodist University</div>
+
   <div>2018</div>
   <div>"Analyzing Gender and Agency using Grammatical Triples Extraction." Think-Play-Hack, Southern Methodist University</div>
 </div>
@@ -191,6 +207,21 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 <h1>Teaching</h1>
 
 <div class="spaced-list">
+  <div>2025</div>
+  <div>I 304 : Programming for Informatics. Undergraduate Course. School of Information, The University of Texas. </div>
+
+  <div>2024</div>
+  <div>HGME 6276: Thesis II: Level Design. Graduate Course. Writing and research support instruction. Guildhall, Southern Methodist University.</div>
+
+  <div>2024</div>
+  <div>HGME 6276: Thesis II: Art. Graduate Course. Writing and research support instruction. Guildhall, Southern Methodist University.</div>
+
+  <div>2024</div>
+  <div>HGME 6276: Thesis II: Software Development. Graduate Course. Writing and research support instruction. Guildhall, Southern Methodist University.</div>
+
+  <div>2024</div>
+  <div>HGME 6276: Thesis II: Production. Graduate Course. Writing and research support instruction. Guildhall, Southern Methodist University.</div>
+
   <div>2024</div>
   <div>HGME 6377: Thesis III Software Development. Graduate Course. "gaia: A GEN-AI Gaming Framework for creating Dynamic Gameplay Content via Large Language Models."Guildhall, Southern Methodist University.</div>
 
@@ -330,6 +361,19 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 
   <div>2015-2017</div>
   <div>Graduate Teaching Assistant, Composition and Rhetoric, West Virginia University</div>
+
+  <div>2017</div>
+  <div>Divemaster, Introduction to SCUBA, Southern Methodist University.</div>
+
+  <div>2014</div>
+  <div>Divemaster, Introduction to SCUBA, Texas Woman’s University.</div>
+
+  <div>2012-2014</div>
+  <div>Divemaster, Advanced SCUBA, University of Texas at Arlington.</div>
+
+  <div>2012-2014</div>
+  <div>Divemaster, Introduction to SCUBA, University of Texas at Arlington.</div>
+
 </div>
 
 <br />
@@ -342,24 +386,6 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
 
   <div>2022-23</div>
   <div>Computer Science Senior Design, Southern Methodist University.</div>
-</div>
-
-<br />
-
-<h3>Employment: Other</h3>
-
-<div class="spaced-list">
-  <div>2017</div>
-  <div>Divemaster, Introduction to SCUBA, Southern Methodist University.</div>
-
-  <div>2014</div>
-  <div>Divemaster, Introduction to SCUBA, Texas Woman’s University.</div>
-
-  <div>2012-2014</div>
-  <div>Divemaster, Advanced SCUBA, University of Texas at Arlington.</div>
-
-  <div>2012-2014</div>
-  <div>Divemaster, Introduction to SCUBA, University of Texas at Arlington.</div>
 </div>
 
 <br />
@@ -382,5 +408,7 @@ I conceived of <i>Dark Shadows</i> as a film noir-style "document thriller" (ins
   <div>2018</div>
   <div>Full Cave Diver, International Association of Nitrox and Technical Divers.</div>
 </div>
+
+
 
 
