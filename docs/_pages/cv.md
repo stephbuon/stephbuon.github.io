@@ -77,7 +77,7 @@ sbuongiorno@smu.edu <br>
 
 <p>Steph Buongiorno [Corresponding Author] and Ryan Schaefer. "Democratizing Text-Based Data Analytics and Data Sharing Across the Humanities and Social Sciences". Target publication venues: AAAI, IEEE, or ACM. <br>
 
-Steph Buongiorno [Corresponding Author]. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. <br>
+<p>Steph Buongiorno [Corresponding Author]. "North and South American Cave Diving Fatalities and Comorbid Factors (1970-2021)." Collected from the archives of the National Speleological Society accident reports and public news reports. Target Journal: International Journal of Aquatic Research and Education. <br>
 
 
 <h3>Video Games</h3>
