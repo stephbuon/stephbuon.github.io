@@ -23,9 +23,6 @@ social:
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 #- {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
-include:
-  - assets/StephBuongiornoCV.pdf
-
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
@@ -35,20 +32,12 @@ include:
 hero:
   hero__title: ""
   hero__description: |
-    <p>Steph Buongiorno, PhD, designs computational approaches to large-scale social problems by integrating multiple disciplines to generate new knowledge beyond the boundaries of 
-    individual fields. Her research focuses on the development of methodologies for building, engaging, and reshaping complex systems using: </p>
+    <br><br>Steph Buongiorno, PhD, is a researcher in the digital humanities whose work develops innovative computational methods by combining insights from multiple disciplines to produce new forms of knowledge that transcend traditional academic boundaries..<br><br>
 
-    <p><strong>Video Games</strong> and <strong>Multi-Agent Systems</strong> that address social issues. She created <i>Dark Shadows</i>, a noir-style detective video 
-    game where players fight the real-world problem of human trafficking using game mechanics wrapped in fictional conceits. 
-    <i>Dark Shadows</i> serves as the testbed for novel AI frameworks and participatory designs.  </p>
-   
-    <p><strong>Pedagogy that Bridges Disciplines</strong> and empowers students to deconstruct and utilize the language-based systems that impact our society, from 
-    social discourse to programs driven by generative AI. She achieves this by using interactive technology to teach cross-disciplinary thinking. </p>
-   
-    <p><strong>Tools for Citizenship</strong> like the <a href="http://18.226.165.196:3000/">Democracy Viewer</a> web application that enables researchers and the public to systematically 
-    analyze large volumes of social, political, and cultural data at scale.</p>
-   
-    <p>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).</p>
+    <br><br>Her work has been supported by the National Science Foundation (NSF), National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ), and the Department of Education.
+
+
+
 
 
 
