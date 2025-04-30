@@ -3,6 +3,6 @@ layout: post
 title:  'Beyond the Black Box: Toward Transparent AI for Computational Text Analysis in the Digital Humanities'
 description: Placeholder
 date:   2023-10-09 15:01:35 +0300
-image:  '/images/CGI.jpg'
+image:  '/images/CGI.png'
 tags:   [Hansard, Congress, R, Digital Humanities]
 ---
