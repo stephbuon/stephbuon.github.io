@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'Text Mining for Historical Analysis'
+description: Text Mining for Historical Analysis offers a critical intervention into the evolving field of digital history by advancing a robust framework for computational historical thinking—an approach that integrates the interpretive practices of historical inquiry with the procedural rigor of computational methods. Rather than treating code as a tool subordinate to analysis, this book foregrounds the epistemological entanglements between programming, theory, and interpretation, arguing for a co-constitutive relationship between humanistic and computational modes of knowledge production. Through sustained engagement with historical corpora—such as the 19th-century Hansard debates and contemporary U.S. Congressional Records—it demonstrates how textual data can be meaningfully processed and analyzed without reducing language to mere quantification. By situating text mining within broader concerns of historiography, disciplinary boundaries, and methodological accessibility, this work not only equips researchers with practical techniques, but also critically reimagines the terms through which we construct, interpret, and disseminate historical knowledge in the digital age.
+date:   2020-04-24 15:01:35 +0300
+image:  '/images/text_mining_for_historical_analysis.jpg'
+tags:   [Hansard, Congress, R, Digital Humanities]
+---
+
+This book manuscript introduces text mining for historical analysis using the R programming language. The exercises in this book are based on code for Jo Guldi’s _The Dangerous Art of Text Mining_ (2022) that have been rewritten with the purpose of offering an practical point of entry into the practice of digital history for those with no previous acquaintance with the basic methods of programming.
+
+The intended readership of _Text Mining for Historical Analysis_ are historians, analysts, scholars, or students interested in learning about the methods used in digital history. Many of the coding exercises include material and explanation geared towards those who have never programmed before, or who have some programming experience but are new to R and its historical application. The first two chapters offer guided approaches to the programming concepts that are built on throughout this book.
+
+The examples in this book are mostly drawn around one dataset, commonly known as "Hansard," which contains the official record of the debates of Britain's House of Lords and House of Commons, 1806-1899. It is a highly interesting data set because these transcripts cover the transformations of the Industrial Revolution, the abolition of the trans-Atlantic slave trade by the British navy, the struggle for women's rights, and many other debates of general interest to readers of modern history. 
