@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Database escrituras protocolos 1730 a 1733
+title:  Database Escrituras Protocolos 1730 a 1733
 description: 
 date:   2023-09-11 15:01:35 +0300
 image:  '/images/networkanalysis.png'
