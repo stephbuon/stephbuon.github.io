@@ -4,7 +4,7 @@ title: 'GAME-KG'
 description: Knowledge graphs (KGs) can augment large language models (LLMs) while also providing an explainable set of facts that can be inspected by a human. Explainability is valuable for fields that may otherwise avoid LLMs due to hallucinations, such as human trafficking analysis. Creating KGs poses challenges, however. KGs parsed from documents may include explicit connections (those directly stated in a document) but miss implicit connections (those evident to a human, but not directly stated). This research introduces GAME-KG, an approach to modifying explicit and implicit KG connections by crowdsourcing feedback through video games.
 date:   2022-10-10 15:01:35 +0300
 image:  '/images/GAME-KG.png'
-tags:   [Human Computation Gaming, Dark Shadows, Knowledge Graphs, Human in the Loop, NLP, Video Games]
+tags:   [Knowledge Graphs, Human Computation Gaming, NLP, Video Games]
 ---
 
 Steph Buongiorno and Corey Clark. "Leveraging Gaming to Enhance Knowledge Graphs for Explainable Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. 
