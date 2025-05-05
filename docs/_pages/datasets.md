@@ -7,22 +7,24 @@ permalink: /datasets/
 ### Escrituras Protocolos 1640 al 44 y 1650
 
 <dl>
-  <dt style="min-width: 100px; float: left; clear: left;"><strong>Authors:</strong></dt>
-  <dd style="margin-left: 110px;">Adriana Chira, Aisnara Perera Diaz, Maria de los Angeles Merino Fuentes, Steph Buongiorno</dd>
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>Authors:</strong></dt>
+  <dd style="margin-left: 190px;">Adriana Chira, Aisnara Perera Diaz, Maria de los Angeles Merino Fuentes, Steph Buongiorno</dd>
 
-  <dt style="min-width: 100px; float: left; clear: left;"><strong>Year:</strong></dt>
-  <dd style="margin-left: 110px;">2025</dd>
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>Year:</strong></dt>
+  <dd style="margin-left: 190px;">2025</dd>
 
-  <dt style="min-width: 100px; float: left; clear: left;"><strong>Title:</strong></dt>
-  <dd style="margin-left: 110px;">"Escrituras Protocolos 1640 al 44 y 1650"</dd>
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>Title:</strong></dt>
+  <dd style="margin-left: 190px;">"Escrituras Protocolos 1640 al 44 y 1650"</dd>
 
-  <dt style="min-width: 100px; float: left; clear: left;"><strong>Repository:</strong></dt>
-  <dd style="margin-left: 110px;">Harvard Dataverse</dd>
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>Repository:</strong></dt>
+  <dd style="margin-left: 190px;">Harvard Dataverse</dd>
 
-  <dt style="min-width: 100px; float: left; clear: left;"><strong>DOI:</strong></dt>
-  <dd style="margin-left: 110px;"><a href="https://doi.org/10.7910/DVN/AEDRPT">https://doi.org/10.7910/DVN/AEDRPT</a></dd>
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>DOI:</strong></dt>
+  <dd style="margin-left: 190px;"><a href="https://doi.org/10.7910/DVN/AEDRPT">https://doi.org/10.7910/DVN/AEDRPT</a></dd>
+
+  <dt style="min-width: 180px; float: left; clear: left;"><strong>UNF:</strong></dt>
+  <dd style="margin-left: 190px;"><em>Unavailable</em></dd>
 </dl>
-
 
 ## Escrituras Protocolos 1730 to 1733
 
