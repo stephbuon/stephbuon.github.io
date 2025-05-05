@@ -4,7 +4,7 @@ title: 'The 19th-Century British Parliamentary Debates (Hansard Corpus)'
 description: ENTER
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/bb2.jpg'
-tags:   [Government Data]
+tags:   [Government Data, Hansard]
 ---
 We present "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics." Our intention is to provide researchers with an analysis-ready version of the 19th-century Hansard debates (and supplementary material) to enhance analyses of the era.
 
