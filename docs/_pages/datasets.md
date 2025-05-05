@@ -21,9 +21,6 @@ permalink: /datasets/
 
   <dt style="min-width: 180px; float: left; clear: left;"><strong>DOI:</strong></dt>
   <dd style="margin-left: 190px;"><a href="https://doi.org/10.7910/DVN/AEDRPT">https://doi.org/10.7910/DVN/AEDRPT</a></dd>
-
-  <dt style="min-width: 180px; float: left; clear: left;"><strong>UNF:</strong></dt>
-  <dd style="margin-left: 190px;"><em>Unavailable</em></dd>
 </dl>
 
 ## Escrituras Protocolos 1730 to 1733
@@ -43,9 +40,6 @@ permalink: /datasets/
 
   <dt style="min-width: 180px; float: left; clear: left;"><strong>DOI:</strong></dt>
   <dd style="margin-left: 190px;"><a href="https://doi.org/10.7910/DVN/AZCY4B">https://doi.org/10.7910/DVN/AZCY4B</a></dd>
-
-  <dt style="min-width: 180px; float: left; clear: left;"><strong>UNF:</strong></dt>
-  <dd style="margin-left: 190px;">UNF:6:gj/M2efvaPDnYEIsYfLR5A== [fileUNF]</dd>
 </dl>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
