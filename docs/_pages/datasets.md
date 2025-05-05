@@ -4,7 +4,7 @@ title: 'Datasets'
 permalink: /datasets/
 ---
 
-### Escrituras Protocolos 1640 al 44 y 1650
+## Escrituras Protocolos 1640 al 44 y 1650
 
 **Authors:** Adriana Chira, Aisnara Perera Diaz, Maria de los Angeles Merino Fuentes, Steph Buongiorno  
 **Year:** 2025  
@@ -12,7 +12,7 @@ permalink: /datasets/
 **Repository:** Harvard Dataverse  
 **DOI:** https://doi.org/10.7910/DVN/AEDRPT 
 
-### Escrituras Protocolos 1730 to 1733
+## Escrituras Protocolos 1730 to 1733
 
 **Authors:** Adriana Chira, Aisnara Perera Diaz, Maria de los Angeles Merino Fuentes, Steph Buongiorno <br>
 **Year:** 2025 <br>
