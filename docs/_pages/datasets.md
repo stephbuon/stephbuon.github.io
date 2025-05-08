@@ -23,7 +23,7 @@ permalink: /datasets/
   <dd style="margin-left: 190px;"><a href="https://doi.org/10.7910/DVN/AEDRPT">https://doi.org/10.7910/DVN/AEDRPT</a></dd>
 </dl>
 
-## Escrituras Protocolos 1730 to 1733
+## Escrituras Protocolos 1730 al 1733
 
 <dl>
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Authors:</strong></dt>
