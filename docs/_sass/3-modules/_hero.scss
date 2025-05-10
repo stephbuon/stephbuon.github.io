@@ -177,3 +177,20 @@
   }
 }
 */
+
+.hero-link {
+  color: #007acc;
+  text-decoration: underline;
+  transition: transform 0.3s ease;
+}
+
+.hero-link:hover {
+  transform: scale(1.1);
+  animation: bounce 0.5s;
+}
+
+@keyframes bounce {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.2); }
+  100% { transform: scale(1.1); }
+}
