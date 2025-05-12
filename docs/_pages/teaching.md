@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <details open>
-  <summary><strong>New Critical AI Studies in the Digital Humanities</strong></summary>
+  <summary style="font-size: 1.5em;"><strong>New Critical AI Studies in the Digital Humanities</strong></summary>
   <br>
 
   <div style="overflow: auto;">
