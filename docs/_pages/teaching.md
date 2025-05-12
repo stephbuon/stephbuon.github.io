@@ -4,7 +4,7 @@ title: 'Teaching'
 permalink: /teaching/
 ---
 
-<details>
+<details open>
   <summary><strong>New Critical AI Studies in the Digital Humanities</strong></summary>
   <br>
 
