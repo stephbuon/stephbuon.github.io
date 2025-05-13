@@ -31,7 +31,7 @@ permalink: /teaching/
 
   <div style="overflow: auto;">
     
-    <img src="/images/c19hansard.png.png" alt="My Picture" width="300" style="display: block; margin: 0 auto 20px auto;">
+    <img src="/images/c19hansard.png" alt="My Picture" width="300" style="display: block; margin: 0 auto 20px auto;">
 
 
     <p>Computer-powered methods are changing the way that we access information about society. New methods help us to detect change over time, to identify influential figures, and to name turning points. What happens when we apply these tools to a million congressional debates or tweets?</p>
