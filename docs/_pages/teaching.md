@@ -22,3 +22,24 @@ permalink: /teaching/
     <p>When both mechanisms are within a researcher’s grasp (LLMs and knowledge graphs), AI offers a new, critical process through which we can produce knowledge.</p>
   </div>
 </details>
+
+
+
+<details open>
+  <summary style="font-size: 1.5em;"><strong>Text Mining as Humanities Method</strong></summary>
+  <br>
+
+  <div style="overflow: auto;">
+    
+    <img src="/images/c19hansard.png.png" alt="My Picture" width="300" style="display: block; margin: 0 auto 20px auto;">
+
+
+    <p>Computer-powered methods are changing the way that we access information about society. New methods help us to detect change over time, to identify influential figures, and to name turning points. What happens when we apply these tools to a million congressional debates or tweets?</p>
+
+    <p>This course teaches students how to use computational methods to analyze texts, combining digital tools with humanistic inquiry. Students begin by learning foundational skills in Jupyter Notebooks, then build toward techniques like word counting, n-grams, lemmatization, and named entity recognition. Along the way, they explore how to track changes in language over time, measure distinctiveness, and model word meaning through word-context vectors. The course emphasizes interpretation, showing students how to use these methods to uncover patterns, shifts, and relationships in discourse that would be difficult to see through traditional reading alone.</p>
+
+    <p>Because this class encourages exploring discourses that have shaped our culture throughout time, students have access to a diverse range of data sets for their own research projects. These data sets include: Reddit posts from the Push Shift API from 2008 to 2015; the 19th-century Hansard Parliamentary debates of Great Britain; the Stanford Congressional Records; the Dallas, Texas and Houston, Texas City Council Minutes; literature from Project Gutenberg; metadata from the NovelTM Datasets for English-Language Fiction, 1700–2009; and corporate reports from EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system.</p>
+
+  </div>
+</details>
+
