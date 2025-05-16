@@ -12,4 +12,4 @@ Transcripts of notarial records from the Fondo Escribanías in the National Arch
 
 https://doi.org/10.7910/DVN/AZCY4B  
 
-\https://doi.org/10.7910/DVN/AEDRPT
+https://doi.org/10.7910/DVN/AEDRPT
