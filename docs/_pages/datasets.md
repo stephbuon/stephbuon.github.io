@@ -13,9 +13,6 @@ permalink: /datasets/
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Year:</strong></dt>
   <dd style="margin-left: 190px;">2025</dd>
 
-  <dt style="min-width: 180px; float: left; clear: left;"><strong>Title:</strong></dt>
-  <dd style="margin-left: 190px;">"Escrituras Protocolos 1640 al 44 y 1650"</dd>
-
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Repository:</strong></dt>
   <dd style="margin-left: 190px;">Harvard Dataverse</dd>
 
@@ -32,9 +29,6 @@ permalink: /datasets/
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Year:</strong></dt>
   <dd style="margin-left: 190px;">2025</dd>
 
-  <dt style="min-width: 180px; float: left; clear: left;"><strong>Title:</strong></dt>
-  <dd style="margin-left: 190px;">"Escrituras Protocolos 1730 al 1733"</dd>
-
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Repository:</strong></dt>
   <dd style="margin-left: 190px;">Harvard Dataverse</dd>
 
@@ -50,9 +44,6 @@ permalink: /datasets/
 
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Year:</strong></dt>
   <dd style="margin-left: 190px;">2022</dd>
-
-  <dt style="min-width: 180px; float: left; clear: left;"><strong>Title:</strong></dt>
-  <dd style="margin-left: 190px;">"The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics"</dd>
 
   <dt style="min-width: 180px; float: left; clear: left;"><strong>Repository:</strong></dt>
   <dd style="margin-left: 190px;">Harvard Dataverse</dd>
