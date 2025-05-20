@@ -61,47 +61,6 @@ permalink: /datasets/
   </iframe>
 </div>
 
-
-<iframe width="100%" height="220" style="border:1px solid #ccc; border-radius:8px;" srcdoc='
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <style>
-        body {
-          font-family: sans-serif;
-          padding: 16px;
-          background: #f9f9f9;
-        }
-        h2 {
-          margin-top: 0;
-          font-size: 1.25em;
-          color: #2a2a2a;
-        }
-        p {
-          font-size: 0.95em;
-          color: #555;
-        }
-        a {
-          display: inline-block;
-          margin-top: 10px;
-          padding: 8px 12px;
-          background: #0066cc;
-          color: white;
-          text-decoration: none;
-          border-radius: 4px;
-        }
-        a:hover {
-          background: #004999;
-        }
-      </style>
-    </head>
-    <body>
-      <h2>1733 Havana Slave Sales</h2>
-      <p>Notarial records dataset published on Harvard Dataverse. Includes slave sales, buyers, sellers, and credit relationships.</p>
-      <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AZCY4B" target="_blank">
-        View Full Dataset
-      </a>
-    </body>
   </html>
 '></iframe>
 
