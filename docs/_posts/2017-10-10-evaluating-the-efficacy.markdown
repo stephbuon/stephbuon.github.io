@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities'
+title: 'Evaluating the Efficacy of LLMs to Emulate Human Personalities for Video Game Play'
 description: To improve the realism of affective Non-Player Characters (NPCs) in video games, this study investigates whether Large Language Models (LLMs) can emulate human personalities. Using the Big Five framework and over 50,000 responses from the International Personality Item Pool (IPIP), LLMs were prompted with self-assessment items corresponding to various personality profiles. Their outputs were then compared to human baseline responses to evaluate accuracy and consistency. Results showed that while some local models exhibited no alignment with human profiles, certain frontier models achieved high alignment. These findings suggest that LLMs can provide a method for designing NPCs with more realistic, personality-driven behavior.
 date:   2017-10-10 15:01:35 +0300
 image:  '/images/personality.png'
