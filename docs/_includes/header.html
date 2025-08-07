@@ -6,11 +6,11 @@
 
         <div class="logo">
           <a class="logo__link" href="{{ site.baseurl }}/">
-          {% if site.logo %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-          {% else %}
-            {{ site.title }}
-          {% endif %}
+            {% if site.logo %}
+              <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
+            {% else %}
+              {{ site.title }}
+            {% endif %}
           </a>
         </div>
 
@@ -21,34 +21,44 @@
             </div>
             <div class="nav__title">Menu</div>
             <ul class="nav__list list-reset">
-              <li class="nav__item">
+
+              <!-- Dropdown for Research -->
+              <li class="nav__item dropdown">
                 <a href="{{ site.baseurl }}/" class="nav__link">Research</a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ site.baseurl }}/publications/" class="nav__link">Publications</a></li>
+                  <li><a href="{{ site.baseurl }}/datasets/" class="nav__link">Datasets</a></li>
+                  <li><a href="{{ site.baseurl }}/apps/" class="nav__link">Apps</a></li>
+                </ul>
               </li>
+
               {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
                   {% if page.title %}
-                  <li class="nav__item">
-                    <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
-                  </li>
+                    <li class="nav__item">
+                      <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                    </li>
                   {% endif %}
                 {% endunless %}
               {% endfor %}
+
               {% if site.color_scheme == "auto" %}
-              <li class="nav__item nav__item-icon">
-                <div class="toggle-theme">
-                  <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-                  <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
-                </div>
-              </li>
+                <li class="nav__item nav__item-icon">
+                  <div class="toggle-theme">
+                    <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
+                    <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+                  </div>
+                </li>
               {% elsif site.color_scheme == "light" or site.color_scheme == "dark" %}
               {% else %}
-              <li class="nav__item nav__item-icon">
-                <div class="toggle-theme">
-                  <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-                  <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
-                </div>
-              </li>
+                <li class="nav__item nav__item-icon">
+                  <div class="toggle-theme">
+                    <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
+                    <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+                  </div>
+                </li>
               {% endif %}
+
             </ul>
           </div>
         </nav>
@@ -65,3 +75,5 @@
 <!-- end header -->
 
 {% include search.html %}
+
+
