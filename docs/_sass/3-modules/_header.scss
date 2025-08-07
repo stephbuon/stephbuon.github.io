@@ -249,4 +249,38 @@
   .toggle-moon {
     display: none;
   }
+
+}
+
+/* Dropdown menu for Research nav item */
+.nav__item.dropdown {
+  position: relative;
+}
+
+.nav__item .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  padding: 0.5rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  list-style: none;
+  min-width: 200px;
+  z-index: 1000;
+}
+
+.nav__item:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu li a.nav__link {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: var(--heading-font-color);
+  text-decoration: none;
+}
+
+.dropdown-menu li a.nav__link:hover {
+  background-color: var(--background-alt-color);
 }
