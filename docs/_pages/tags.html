@@ -38,6 +38,7 @@ permalink: /tags/
   {% for item in (0..site.tags.size) %}
     {% unless forloop.last %}
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+      {% assign posts_in_tag = site.tags[this_word] %}
 
       <div class="tags__inner">
         <div class="container">
@@ -46,8 +47,8 @@ permalink: /tags/
               <div class="tag__info">
                 <div class="tag__info-box">
                   <div class="tag__counter">
-                    <span>{{ site.tags[this_word].size }}</span>
-                    <small>{% if site.tags[this_word].size < 2 %}Post{% else %}Posts{% endif %}</small>
+                    <span>{{ posts_in_tag.size }}</span>
+                    <small>{% if posts_in_tag.size < 2 %}Post{% else %}Posts{% endif %}</small>
                   </div>
                   <h2 class="tag__name" id="{{ this_word | slugify }}">{{ this_word }}</h2>
                 </div>
@@ -61,7 +62,7 @@ permalink: /tags/
           <div class="row">
             <div class="col col-12">
               <div class="row">
-                {% for post in site.tags[this_word] %}
+                {% for post in posts_in_tag %}
                   {% if post.title != null %}
                     {% include article.html %}
                   {% endif %}
