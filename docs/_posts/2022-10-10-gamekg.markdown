@@ -4,7 +4,7 @@ title: 'GAME-KG'
 description: Knowledge graphs (KGs) can augment large language models (LLMs) while also providing an explainable set of facts that can be inspected by a human. Explainability is valuable for fields that may otherwise avoid LLMs due to hallucinations, such as human trafficking analysis. Creating KGs poses challenges, however. KGs parsed from documents may include explicit connections (those directly stated in a document) but miss implicit connections (those evident to a human, but not directly stated). This research introduces GAME-KG, an approach to modifying explicit and implicit KG connections by crowdsourcing feedback through video games.
 date:   2022-10-10 15:01:35 +0300
 image:  '/images/GAME-KG.png'
-tags:   [Articles, Knowledge Graphs, NLP, Video Games]
+tags:   [Human Trafficking, Knowledge Graphs, NLP, Video Games]
 ---
 
 Steph Buongiorno and Corey Clark. "Leveraging Gaming to Enhance Knowledge Graphs for Explainable Generative AI Applications." Proceedings of IEEE Conference on Games, 2024, Milan, Italy. 
@@ -16,3 +16,4 @@ LLM's application within domains where accuracy is critical--such as human traff
 While using KGs to augment LLM responses has proven beneficial, obtaining KGs that represent the desired domain information poses challenges. KGs can be parsed from documents, but capturing the many entity relationship from within text may not be feasible with automated approaches alone. For instance, a KG parsed from text may include explicit relations between entities (e.g. semantic relations as directly expressed in words), but may not include implicit relations (e.g. relations that may be clear to a human, but not to the computer). In other cases it may be desirable to modify the explicit relationships of a KG, for instance, if the connections between entities are incorrect. 
 
 For these reasons, this research introduces the GAME-KG framework (standing for ``Gaming for Augmenting Metadata and Enhancing Knowledge Graphs"). GAME-KG is a federated approach to modifying KGs that facilitates the collection of explicit and implicit knowledge. It leverages Human Computation Gaming (HCG)--a method of collecting feedback from crowds through video games--to modify and validate KGs. GAME-KG guides the process of parsing a KG to presenting the data to the player and collecting feedback. 
+
