@@ -4,7 +4,7 @@ title:  'The Hansard Viewer Demo App'
 description: Use an array of data-mining and statistical approaches to gain new insights into the evolution and nature of political language as it occurs in different time periods and in different contexts.  
 date:   2022-01-01 15:01:35 +0300
 image:  '/images/politic.png'
-tags:   [Apps, Digital Humanities, NLP, Government Data, Hansard]
+tags:   [Digital Humanities, NLP, Government Data, Hansard]
 ---
 Our prototype web app, the <a href="https://shinyviz.smu.edu/shiny/public/hansard-shiny/" style="color: blue"> Hansard Viewer </a>, explores how the tools to measure lexican change -- and more sophisticated NLP strategies such as parsing and measuring grammatical relationships -- can open a window into political discourse that will make what happens in Parliament more transparent to researchers and everyday citizens alike. 
 
@@ -19,3 +19,4 @@ Note:
 Our app is currently under development. We appreciate your understanding as we resolve visual glitches and optimize performance. We have a known bug where the individual nations on the nation pairs page were counted too many times. 
 
 This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 
+
