@@ -4,7 +4,7 @@ title: 'The 19th-Century British Parliamentary Debates (Hansard Corpus)'
 description: ENTER
 date:   2020-11-12 15:01:35 +0300
 image:  '/images/bb2.jpg'
-tags:   [Government Data, Hansard, Datasets]
+tags:   [Government Data, Hansard]
 ---
 We present "The Hansard 19th-Century British Parliamentary Debates with Improved Speaker Names: Parsed Debates, N-Gram Counts, Special Vocabulary, Collocates, and Topics." Our intention is to provide researchers with an analysis-ready version of the 19th-century Hansard debates (and supplementary material) to enhance analyses of the era.
 
@@ -15,3 +15,4 @@ To discover missing debates we identified systematic issues within Parliament's 
 Automated scripts for producing our corpus can be found on <a href="https://github.com/stephbuon/hansard-corpus" style="color: blue"> our repository </a>. An article 
     
 This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 
+
