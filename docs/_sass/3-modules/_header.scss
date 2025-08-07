@@ -257,7 +257,12 @@
   position: relative;
 }
 
-.nav__item .dropdown-menu {
+.dropdown-arrow {
+  font-size: 10px;
+  margin-left: 4px;
+}
+
+.dropdown-menu {
   display: none;
   position: absolute;
   top: 100%;
@@ -270,7 +275,7 @@
   z-index: 1000;
 }
 
-.nav__item:hover .dropdown-menu {
+.dropdown-menu.show {
   display: block;
 }
 
