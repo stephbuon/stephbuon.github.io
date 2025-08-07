@@ -24,7 +24,9 @@
 
               <!-- Dropdown for Research -->
               <li class="nav__item dropdown">
-                <a href="{{ site.baseurl }}/" class="nav__link">Research</a>
+                <a href="#" class="nav__link dropdown-toggle" onclick="event.preventDefault(); this.classList.toggle('open'); this.nextElementSibling.classList.toggle('show');">
+                  Research <span class="dropdown-arrow">▼</span>
+                </a>
                 <ul class="dropdown-menu">
                   <li><a href="{{ site.baseurl }}/publications/" class="nav__link">Publications</a></li>
                   <li><a href="{{ site.baseurl }}/datasets/" class="nav__link">Datasets</a></li>
@@ -75,5 +77,7 @@
 <!-- end header -->
 
 {% include search.html %}
+
+
 
 
