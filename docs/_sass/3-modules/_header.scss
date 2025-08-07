@@ -255,11 +255,21 @@
 /* Dropdown menu for Research nav item */
 .nav__item.dropdown {
   position: relative;
-}
 
-.dropdown-arrow {
-  font-size: 10px;
-  margin-left: 4px;
+  .dropdown-toggle {
+    cursor: pointer;
+
+    .dropdown-arrow {
+      display: inline-block;
+      margin-left: 6px;
+      font-size: 10px;
+      transition: transform 0.3s ease;
+    }
+
+    &.open .dropdown-arrow {
+      transform: rotate(180deg);
+    }
+  }
 }
 
 .dropdown-menu {
@@ -281,9 +291,10 @@
 
 .dropdown-menu li a.nav__link {
   display: block;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1.5rem; // Increased left padding
   color: var(--heading-font-color);
   text-decoration: none;
+  font-size: 15px;
 }
 
 .dropdown-menu li a.nav__link:hover {
