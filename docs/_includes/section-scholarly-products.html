@@ -1,0 +1,19 @@
+<section class="tags">
+  <div class="tag__head">
+    <div class="container">
+      <div class="row">
+        <div class="col col-12">
+          <h1 class="tag__title">Scholarly Products</h1>
+          <ul class="tag__list list-reset">
+            {% assign scholarly_tags = "Publications,Workshops,Talks,Data Portals,Visualizations" | split: "," %}
+            {% for tag in scholarly_tags %}
+              <li class="tag__item">
+                <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
