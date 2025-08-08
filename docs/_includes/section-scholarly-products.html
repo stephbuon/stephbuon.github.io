@@ -1,3 +1,6 @@
+{% assign scholarly_tags = site.tags | where_exp: "tag", "tag[0] == 'Articles' or tag[0] == 'Books' or tag[0] == 'Conference Proceedings' or tag[0] == 'Talks' or tag[0] == 'Datasets'" %}
+{% assign tag_words = scholarly_tags | map: "first" | sort %}
+
 <section class="tags">
   <div class="tag__head">
     <div class="container">
@@ -5,8 +8,7 @@
         <div class="col col-12">
           <h1 class="tag__title">Scholarly Products</h1>
           <ul class="tag__list list-reset">
-            {% assign scholarly_tags = "Articles,Books,Conference Proceedings,Talks,Datasets, Course Materials" | split: "," %}
-            {% for tag in scholarly_tags %}
+            {% for tag in tag_words %}
               <li class="tag__item">
                 <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
               </li>
