@@ -59,3 +59,14 @@
     pointer-events: none;
   }
 }
+
+
+/* Adjust spacing between Scholarly Products and Featured Topics */
+.scholarly-products {
+  margin-bottom: 1rem;
+}
+
+.scholarly-products + .section-tags {
+  margin-top: 1rem;
+}
+
