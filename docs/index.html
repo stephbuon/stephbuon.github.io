@@ -4,8 +4,13 @@ image: '/images/01.jpg'
 ---
 
 {% include hero.html %}
-{% include section-tags.html %}
+
+{% include section-scholarly-products.html %}  <!-- ✅ New custom tag section -->
+
+{% include section-tags.html %}  <!-- Existing Featured Topics -->
+
 <p> </p>
+
 <div class="container">
   <div class="row animate">
     {% if site.posts.size > 0 %}
