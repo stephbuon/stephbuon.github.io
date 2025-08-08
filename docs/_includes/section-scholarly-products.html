@@ -5,7 +5,7 @@
         <div class="col col-12">
           <h1 class="tag__title">Scholarly Products</h1>
           <ul class="tag__list list-reset">
-            {% assign scholarly_tags = "Publications,Workshops,Talks,Data Portals,Visualizations" | split: "," %}
+            {% assign scholarly_tags = "Articles,Books,Conference Proceedings,Talks,Datasets" | split: "," %}
             {% for tag in scholarly_tags %}
               <li class="tag__item">
                 <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>
