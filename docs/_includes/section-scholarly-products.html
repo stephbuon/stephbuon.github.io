@@ -1,4 +1,4 @@
-{% assign scholarly_tags = site.tags | where_exp: "tag", "tag[0] == 'Articles' or tag[0] == 'Books' or tag[0] == 'Conference Proceedings' or tag[0] == 'Talks' or tag[0] == 'Datasets'" %}
+{% assign scholarly_tags = site.tags | where_exp: "tag", "tag[0] == 'Articles' or tag[0] == 'Books' or tag[0] == 'Conference Proceedings' or tag[0] == 'Talks' or tag[0] == 'Datasets' or tag[0] == 'Course Materials'" %}
 {% assign tag_words = scholarly_tags | map: "first" | sort %}
 
 <section class="tags">
