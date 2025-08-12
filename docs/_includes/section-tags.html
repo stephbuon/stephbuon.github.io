@@ -20,7 +20,7 @@
           {% for item in (0..site.tags.size) limit:17 %} 
             {% unless forloop.last %}
               {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-              <div class="col col-3 col-d-6 col-m-12">
+              <div class="col col-2 col-d-4 col-m-6">
                 <a href="{{ site.baseurl }}/tags#{{ this_word | slugify }}" class="tag-image">
                   <span class="tag-name">{{ this_word }}</span>
                 </a>
@@ -34,5 +34,6 @@
   </div>
 </section>
 <!-- end section-tags -->
+
 
 
