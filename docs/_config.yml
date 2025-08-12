@@ -32,10 +32,7 @@ social:
 hero:
   hero__title: ""
   hero__description: |
-    Steph Buongiorno, PhD, is a researcher and a teacher of data science and high performance computing. At present, Dr. Buongiorno holds a postdoctoral research fellowship at Emory University's Department of Quantitative Theory and Methods.
-    
-    Dr. Buongiorno's transdisciplinary research produces knowledge that extends beyond the limits of any single field, introducing new methods for interpreting texts, data, culture and society.
-
+    Steph Buongiorno, PhD, is a postdoctoral research fellow in Emory University’s Department of Quantitative Theory and Methods, where she researches and teaches data science and high-performance computing. Her transdisciplinary research produces knowledge that extends beyond the limits of any single field, introducing new methods for interpreting texts, data, culture, and society.
     <br><br>She reads poetry, enjoys all sorts of sensory things, and explores quiet, underwater worlds.
 
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
@@ -125,4 +122,5 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
