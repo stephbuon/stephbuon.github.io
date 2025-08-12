@@ -17,3 +17,4 @@ Becuase this class encourages exploring discourses that have shaped our culture 
 
 The skills practiced in this course begin with basic word counts and visualization techniques and extend to the high-level application of machine learning modules to tell digital history, modules such as spaCy, sci-kit learn, and gensim for word embeddings. By the end of the course students are able to perform comparative analyses and observe how langauge chnages over time. 
 
+
