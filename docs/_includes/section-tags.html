@@ -17,10 +17,10 @@
         {% assign tag_words = site_tags | split:',' | sort %}
 
         <div class="row">
-          {% for item in (0..site.tags.size) limit:17 %} 
+          {% for item in (0..site.tags.size) limit:20 %}
             {% unless forloop.last %}
               {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-              <div class="col col-2 col-d-4 col-m-6">
+              <div class="col col-5th col-d-4 col-m-6">
                 <a href="{{ site.baseurl }}/tags#{{ this_word | slugify }}" class="tag-image">
                   <span class="tag-name">{{ this_word }}</span>
                 </a>
@@ -34,6 +34,5 @@
   </div>
 </section>
 <!-- end section-tags -->
-
 
 
