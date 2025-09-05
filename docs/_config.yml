@@ -35,7 +35,7 @@ hero:
     Steph Buongiorno, PhD, is a postdoctoral research fellow in data science and high-performance computing (HPC) at Emory University’s Department of Data and Decision Sciences. 
     She is also the director of <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the 
     <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>. 
-    Her transdisciplinary research produces knowledge that extends beyond the limits of any single field, introducing new methods for interpreting texts, data, culture, and society. 
+    Her transdisciplinary research produces new knowledge that extends beyond the boundaries of any single field by introducing new methods for interpreting texts, data, culture, and society. 
     Her work has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
     <br><br>She reads poetry, enjoys all sorts of sensory things, and explores quiet, underwater worlds.
 
@@ -126,6 +126,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
