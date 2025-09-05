@@ -35,7 +35,7 @@
               </li>
 
               {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' or page.url == '/publications/' or page.url == '/datasets/' or page.url == '/apps/' %}
+                {% unless page.name == 'tags.html' or page.name == '404.html' or page.url == '/publications/' or page.url == '/datasets/' or page.url == '/software/' %}
                   {% if page.title %}
                     <li class="nav__item">
                       <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
@@ -77,6 +77,7 @@
 <!-- end header -->
 
 {% include search.html %}
+
 
 
 
