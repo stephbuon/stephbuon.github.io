@@ -2,7 +2,6 @@
 layout: post
 title: 'The 19th-Century British Hansard Corpus'
 description: ENTER
-date:   2020-11-12 15:01:35 +0300
 image:  '/images/bb2.jpg'
 tags:   [Government Data, Hansard]
 ---
@@ -15,6 +14,7 @@ To discover missing debates we identified systematic issues within Parliament's 
 Automated scripts for producing our corpus can be found on <a href="https://github.com/stephbuon/hansard-corpus" style="color: blue"> our repository </a>. An article 
     
 This work was supported in part by National Science Foundation (NSF) Grant (no. 1520103). 
+
 
 
 
