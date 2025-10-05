@@ -1,0 +1,16 @@
+---
+layout: page
+title: Interactive Graph Gallery
+---
+
+<div class="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;">
+  {% for g in site.data.graphs %}
+    <a href="{{ g.path | relative_url }}" class="card" style="display:block;padding:1rem;border:1px solid #eee;border-radius:12px;text-decoration:none;">
+      <div style="aspect-ratio:16/9;background:#f6f6f6;border-radius:8px;display:flex;align-items:center;justify-content:center;">
+        <span>Preview</span>
+      </div>
+      <h3 style="margin:.6rem 0 0;">{{ g.title }}</h3>
+      <p style="margin:.2rem 0 0;font-size:.9rem;color:#666;">Open interactive</p>
+    </a>
+  {% endfor %}
+</div>
