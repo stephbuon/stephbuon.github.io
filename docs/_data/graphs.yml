@@ -44,5 +44,5 @@
   path: /assets/graphs/nobody_network_graph_chunk_13.html
 - title: 'Topic Model - The Momchilovo Affair and Mr. Nobody Novels'
   path: /assets/graphs/topic_model_interactive_2_novels.html
-- title: 'Topic Model - Whole Corpus'
+- title: 'Topic Model - Whole Corpus of Twenty Nine Novels'
   path: /assets/graphs/topic_model_interactive_whole_corpus.html
