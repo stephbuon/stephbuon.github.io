@@ -5,57 +5,129 @@ description: Explore interactive knowledge graphs and topic models.
 ---
 
 <h1>Interactive Graph Gallery</h1>
-<p>This gallery contains the interactive knowledge graphs and topic models used in the project. Each item opens a standalone HTML visualization hosted in <code>/assets/graphs/</code>.</p>
+<p>
+These visualizations are loaded only when you click <strong>“Load Graph”</strong>.
+This keeps the page lightweight while still giving you access to every interactive network and topic model.
+</p>
+
+<input id="graphSearch" type="text" placeholder="Search graphs..." style="
+  width: 100%;
+  max-width: 400px;
+  padding: 0.6rem 0.8rem;
+  margin: 1.2rem 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+">
 
 <style>
-.gallery-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-.gallery-item {
-  display: block;
-  padding: 1rem;
+.graph-section { margin-bottom: 3rem; }
+.graph-block {
   border: 1px solid #eee;
   border-radius: 12px;
-  text-decoration: none;
-  color: inherit;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
   background: #fff;
+  transition: box-shadow 0.2s ease;
 }
-.gallery-item:hover {
-  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
-  transform: translateY(-3px);
+.graph-block:hover { box-shadow: 0 4px 14px rgba(0,0,0,0.08); }
+.graph-header { display: flex; align-items: center; justify-content: space-between; }
+.graph-title { font-size: 1.1rem; font-weight: 600; margin: 0; }
+.load-btn {
+  padding: 0.4rem 0.8rem; border: none; background: #007acc; color: #fff;
+  border-radius: 6px; cursor: pointer; font-size: 0.9rem; transition: background 0.2s ease;
 }
-.gallery-preview {
-  aspect-ratio: 16/9;
-  background: #f9f9f9;
-  border-radius: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
-.gallery-title {
-  margin: 0.3rem 0 0;
-  font-weight: 600;
-  font-size: 1rem;
-}
-.gallery-subtext {
-  font-size: 0.85rem;
-  color: #777;
+.load-btn:hover { background: #005fa3; }
+.graph-holder {
+  margin-top: 0.8rem; height: 800px; border: 1px solid #ddd; border-radius: 8px;
+  background: #fafafa; display: flex; align-items: center; justify-content: center;
+  color: #888; font-size: 0.9rem;
 }
 </style>
 
-<div class="gallery-grid">
+<!-- Momchilovo -->
+<section class="graph-section">
+  <h2>Momchilovo Graphs</h2>
   {% for g in site.data.graphs %}
-  <a href="{{ g.path | relative_url }}" class="gallery-item" target="_blank">
-    <div class="gallery-preview">Preview</div>
-    <h3 class="gallery-title">{{ g.title }}</h3>
-    <div class="gallery-subtext">Open interactive graph</div>
-  </a>
+    {% if g.title contains "Momchilovo" %}
+    <div class="graph-block" data-title="{{ g.title | downcase }}" data-src="{{ g.path | relative_url }}">
+      <div class="graph-header">
+        <h3 class="graph-title">{{ g.title }}</h3>
+        <button class="load-btn" type="button">Load Graph</button>
+      </div>
+      <div class="graph-holder">Graph not loaded</div>
+    </div>
+    {% endif %}
   {% endfor %}
-</div>
+</section>
+
+<!-- Nobody -->
+<section class="graph-section">
+  <h2>"Nobody" Network Graphs</h2>
+  {% for g in site.data.graphs %}
+    {% if g.title contains "Nobody" %}
+    <div class="graph-block" data-title="{{ g.title | downcase }}" data-src="{{ g.path | relative_url }}">
+      <div class="graph-header">
+        <h3 class="graph-title">{{ g.title }}</h3>
+        <button class="load-btn" type="button">Load Graph</button>
+      </div>
+      <div class="graph-holder">Graph not loaded</div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<!-- Topic Models -->
+<section class="graph-section">
+  <h2>Topic Models</h2>
+  {% for g in site.data.graphs %}
+    {% if g.title contains "Topic" %}
+    <div class="graph-block" data-title="{{ g.title | downcase }}" data-src="{{ g.path | relative_url }}">
+      <div class="graph-header">
+        <h3 class="graph-title">{{ g.title }}</h3>
+        <button class="load-btn" type="button">Load Graph</button>
+      </div>
+      <div class="graph-holder">Graph not loaded</div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>
+
+<script>
+// Search filter
+const searchInput = document.getElementById('graphSearch');
+if (searchInput) {
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.trim().toLowerCase();
+    document.querySelectorAll('.graph-block').forEach(block => {
+      const t = block.getAttribute('data-title') || '';
+      block.style.display = t.includes(q) ? '' : 'none';
+    });
+  });
+}
+
+// Lazy load iframes on button click
+document.addEventListener('click', (e) => {
+  if (!e.target.matches('.load-btn')) return;
+  const block = e.target.closest('.graph-block');
+  const holder = block.querySelector('.graph-holder');
+  const src = block.getAttribute('data-src');
+  if (!src) return;
+
+  // Prevent double loading
+  if (holder.querySelector('iframe')) return;
+
+  const iframe = document.createElement('iframe');
+  iframe.src = src;
+  iframe.loading = 'lazy';
+  iframe.width = '100%';
+  iframe.height = '100%';
+  iframe.style.border = '0';
+
+  holder.innerHTML = '';
+  holder.appendChild(iframe);
+  e.target.textContent = 'Loaded';
+  e.target.disabled = true;
+  e.target.style.background = '#aaa';
+});
+</script>
