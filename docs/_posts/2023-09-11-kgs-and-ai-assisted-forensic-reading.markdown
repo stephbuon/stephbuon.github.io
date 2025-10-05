@@ -7,12 +7,14 @@ tags:   [Russia, Spy Novels, Government Data, Knowledge Graphs, Social Networks]
 ---
 
 <h2 id="interactive-gallery">Interactive Gallery</h2>
-<p>Click “Load Graph” to render a visualization on demand.</p>
+<p>Click "Load Graph" to render a visualization.</p>
 
+<!--
 <input id="graphSearch" type="text" placeholder="Search graphs..." style="
   width: 100%; max-width: 400px; padding: .6rem .8rem; margin: 1rem 0;
   border: 1px solid #ccc; border-radius: 8px; font-size: 1rem;
 ">
+-->
 
 <style>
 .graph-section { margin-bottom: 2.5rem; }
