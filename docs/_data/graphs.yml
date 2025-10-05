@@ -1,48 +1,48 @@
-- title: 'Momchilovo 1'
+- title: 'The Momchilovo Affair Knowledge Graph 1'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_1.html
-- title: 'Momchilovo 2'
+- title: 'The Momchilovo Affair Knowledge Graph 2'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_2.html
-- title: 'Momchilovo 3'
+- title: 'The Momchilovo Affair Knowledge Graph 3'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_3.html
-- title: 'Momchilovo 4'
+- title: 'The Momchilovo Affair Knowledge Graph 4'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_4.html
-- title: 'Momchilovo 5'
+- title: 'The Momchilovo Affair Knowledge Graph 5'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_5.html
-- title: 'Momchilovo 6'
+- title: 'The Momchilovo Affair Knowledge Graph 6'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_6.html
-- title: 'Momchilovo 7'
+- title: 'The Momchilovo Affair Knowledge Graph 7'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_7.html
-- title: 'Momchilovo 8'
+- title: 'The Momchilovo Affair Knowledge Graph 8'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_8.html
-- title: 'Momchilovo 9'
+- title: 'The Momchilovo Affair Knowledge Graph 9'
   path: /assets/graphs/momchilovo_interactive_graph_chunk_9.html
-- title: 'Nobody Network 1'
+- title: 'Mr. Nobody Knowledge Graph 1'
   path: /assets/graphs/nobody_network_graph_chunk_1.html
-- title: 'Nobody Network 2'
+- title: 'Mr. Nobody Knowledge Graph Network 2'
   path: /assets/graphs/nobody_network_graph_chunk_2.html
-- title: 'Nobody Network 3'
+- title: 'Mr. Nobody Knowledge Graph Network 3'
   path: /assets/graphs/nobody_network_graph_chunk_3.html
-- title: 'Nobody Network 4'
+- title: 'Mr. Nobody Knowledge Graph Network 4'
   path: /assets/graphs/nobody_network_graph_chunk_4.html
-- title: 'Nobody Network 5'
+- title: 'Mr. Nobody Knowledge Graph Network 5'
   path: /assets/graphs/nobody_network_graph_chunk_5.html
-- title: 'Nobody Network 6'
+- title: 'Mr. Nobody Knowledge Graph Network 6'
   path: /assets/graphs/nobody_network_graph_chunk_6.html
-- title: 'Nobody Network 7'
+- title: 'Mr. Nobody Knowledge Graph Network 7'
   path: /assets/graphs/nobody_network_graph_chunk_7.html
-- title: 'Nobody Network 8'
+- title: 'Mr. Nobody Knowledge Graph Network 8'
   path: /assets/graphs/nobody_network_graph_chunk_8.html
-- title: 'Nobody Network 9'
+- title: 'Mr. Nobody Knowledge Graph Network 9'
   path: /assets/graphs/nobody_network_graph_chunk_9.html
-- title: 'Nobody Network 10'
+- title: 'Mr. Nobody Knowledge Graph Network 10'
   path: /assets/graphs/nobody_network_graph_chunk_10.html
-- title: 'Nobody Network 11'
+- title: 'Mr. Nobody Knowledge Graph Network 11'
   path: /assets/graphs/nobody_network_graph_chunk_11.html
-- title: 'Nobody Network 12'
+- title: 'Mr. Nobody Knowledge Graph Network 12'
   path: /assets/graphs/nobody_network_graph_chunk_12.html
-- title: 'Nobody Network 13'
+- title: 'Mr. Nobody Knowledge Graph Network 13'
   path: /assets/graphs/nobody_network_graph_chunk_13.html
-- title: 'Topic Model - 2 Novels'
+- title: 'Topic Model - The Momchilovo Affair and Mr. Nobody Novels'
   path: /assets/graphs/topic_model_interactive_2_novels.html
 - title: 'Topic Model - Whole Corpus'
   path: /assets/graphs/topic_model_interactive_whole_corpus.html
