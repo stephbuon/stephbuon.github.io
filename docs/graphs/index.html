@@ -1,16 +1,61 @@
 ---
 layout: page
 title: Interactive Graph Gallery
+description: Explore interactive knowledge graphs and topic models.
 ---
 
-<div class="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;">
+<h1>Interactive Graph Gallery</h1>
+<p>This gallery contains the interactive knowledge graphs and topic models used in the project. Each item opens a standalone HTML visualization hosted in <code>/assets/graphs/</code>.</p>
+
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+.gallery-item {
+  display: block;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  background: #fff;
+}
+.gallery-item:hover {
+  box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  transform: translateY(-3px);
+}
+.gallery-preview {
+  aspect-ratio: 16/9;
+  background: #f9f9f9;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+.gallery-title {
+  margin: 0.3rem 0 0;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.gallery-subtext {
+  font-size: 0.85rem;
+  color: #777;
+}
+</style>
+
+<div class="gallery-grid">
   {% for g in site.data.graphs %}
-    <a href="{{ g.path | relative_url }}" class="card" style="display:block;padding:1rem;border:1px solid #eee;border-radius:12px;text-decoration:none;">
-      <div style="aspect-ratio:16/9;background:#f6f6f6;border-radius:8px;display:flex;align-items:center;justify-content:center;">
-        <span>Preview</span>
-      </div>
-      <h3 style="margin:.6rem 0 0;">{{ g.title }}</h3>
-      <p style="margin:.2rem 0 0;font-size:.9rem;color:#666;">Open interactive</p>
-    </a>
+  <a href="{{ g.path | relative_url }}" class="gallery-item" target="_blank">
+    <div class="gallery-preview">Preview</div>
+    <h3 class="gallery-title">{{ g.title }}</h3>
+    <div class="gallery-subtext">Open interactive graph</div>
+  </a>
   {% endfor %}
 </div>
