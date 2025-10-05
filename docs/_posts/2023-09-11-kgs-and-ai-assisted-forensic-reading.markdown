@@ -36,7 +36,7 @@ tags:   [Russia, Spy Novels, Government Data, Knowledge Graphs, Social Networks]
 
 <!-- Momchilovo -->
 <section class="graph-section">
-  <h3>Momchilovo Graphs</h3>
+  <h3><em>The Momchilovo Affair</em> Network Graphs</h3>
   {% for g in site.data.graphs %}{% if g.title contains "Momchilovo" %}
   <div class="graph-block" data-title="{{ g.title | downcase }}" data-src="{{ g.path | relative_url }}">
     <div class="graph-header">
@@ -50,7 +50,7 @@ tags:   [Russia, Spy Novels, Government Data, Knowledge Graphs, Social Networks]
 
 <!-- Nobody -->
 <section class="graph-section">
-  <h3>"Nobody" Network Graphs</h3>
+  <h3><em>Mr. Nobody</em> Network Graphs</h3>
   {% for g in site.data.graphs %}{% if g.title contains "Nobody" %}
   <div class="graph-block" data-title="{{ g.title | downcase }}" data-src="{{ g.path | relative_url }}">
     <div class="graph-header">
