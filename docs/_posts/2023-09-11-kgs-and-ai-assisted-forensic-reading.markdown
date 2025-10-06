@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Who is the "Working Class" Socialist James Bond? Exploring Propaganda through Knowledge Graphs and AI-Assisted "Forensic Reading" in Bulgarian Spy Fiction'
+title: 'Who is the Working Class, Socialist James Bond? Exploring Propaganda through Knowledge Graphs and AI-Assisted Forensic Reading in Bulgarian Spy Fiction'
 description: The Cold War between the "free world" and the Communist Bloc involved multiple fronts, including intense literary warfare. In the bloc, authors crafted characters that reflected traits and ideals promoted by those regimes. To deepen our understanding of these works and their ideological underpinnings, we employ an original method we call "AI-assisted forensic reading," using advanced natural language processing, knowledge graphs, and artificial intelligence. Our approach uncovers new knowledge in the target literature by illuminating how these authors construct meaning, disseminate propaganda, and mirror idealized traits or real-life events, likely under the influence or direction of intelligence agency leaders.
 image:  '/images/whole-corpus-topic-models.jpg'
 tags:   [Russia, Spy Novels, Government Data, Knowledge Graphs, Social Networks, Ontologies]
