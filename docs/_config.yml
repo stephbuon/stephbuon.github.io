@@ -46,7 +46,7 @@ hero:
     <br><br>
     Tools are epistemic instruments for producing and mediating knowledge and the design of digital infrastructure shapes what kinds of historical questions can be asked and answered, and how universities and communities can collaboratively build systems that support analysis and knowledge creation. 
     <br><br>
-    Using a design-based research approach, my tools have been used to tell global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
+    Using a design-based research approach, my tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
     <br><br>
     I received an interdisciplinary Applied Science PhD from Southern Methodist University’s Lyle School of Engineering in Dallas, Texas in 2023. My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
 
@@ -145,6 +145,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
