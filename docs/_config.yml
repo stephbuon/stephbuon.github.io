@@ -50,7 +50,6 @@ hero:
     <br><br>
     I received an interdisciplinary Applied Science PhD from Southern Methodist University’s Lyle School of Engineering in Dallas, Texas in 2023. My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
 
-
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
 #   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
 
@@ -145,6 +144,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
