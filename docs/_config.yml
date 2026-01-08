@@ -29,14 +29,25 @@ social:
 #-------------------------------
 # Hero Settings
 # I removed the hero title 
+
+#    Steph Buongiorno, PhD, is a postdoctoral research fellow in data science and high-performance computing (HPC) at Emory University’s Department of Data and Decision Sciences. 
+#    She is also the director of <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the 
+#    <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>. 
+#    Her transdisciplinary research produces new knowledge that extends beyond the boundaries of any single field by introducing new methods for interpreting texts, data, culture, and society. 
+#    Her work has been published by Cambridge University Press, AAAI, and IEEE, and supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ). She enjoys poetry, all sorts of sensory things, and quiet underwater worlds.
+
+
 hero:
   hero__title: ""
   hero__description: |
-    Steph Buongiorno, PhD, is a postdoctoral research fellow in data science and high-performance computing (HPC) at Emory University’s Department of Data and Decision Sciences. 
-    She is also the director of <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the 
-    <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>. 
-    Her transdisciplinary research produces new knowledge that extends beyond the boundaries of any single field by introducing new methods for interpreting texts, data, culture, and society. 
-    Her work has been published by Cambridge University Press, AAAI, and IEEE, and supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ). She enjoys poetry, all sorts of sensory things, and quiet underwater worlds.
+
+  I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>. I received an interdisciplinary Applied Science PhD from Southern Methodist University’s Lyle School of Engineering in Dallas, Texas in 2023. My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE).
+
+  I am pioneering the emerging field of "Experimental Computational Humanities" (ECH), a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of knowledge production within the humanities. A tenant of ECH is that to tackle big questions, we need lots of perspectives which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment in ways that are associated with both the arts and the sciences while maintaining an open-minded spirit of possibility. 
+
+  Tools are epistemic instruments for producing and mediating knowledge and the design of digital infrastructure shapes what kinds of historical questions can be asked and answered, and how universities and communities can collaboratively build systems that support analysis and knowledge creation. 
+
+  Using a design-based research approach, my tools have been used to tell global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
 
     <br><br> If my open source software has helped you in some way, consider supporting my work: 
     <a href="https://buymeacoffee.com/stephbuon" target="_blank">
@@ -132,6 +143,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
