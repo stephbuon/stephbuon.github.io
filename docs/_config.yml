@@ -44,11 +44,11 @@ hero:
     <br><br>
     I am pioneering the emerging field of "Experimental Computational Humanities" (ECH), a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of knowledge production within the humanities. A tenant of ECH is that to tackle big questions, we need lots of perspectives which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment in ways that are associated with both the arts and the sciences while maintaining an open-minded spirit of possibility. 
     <br><br>
-    Tools are epistemic instruments for producing and mediating knowledge and the design of digital infrastructure shapes what kinds of historical questions can be asked and answered, and how universities and communities can collaboratively build systems that support analysis and knowledge creation. 
+    Digital history is a field in which design-based research is especially productive. Tools are epistemic instruments for producing and mediating knowledge and the design of digital infrastructure shapes what kinds of historical questions can be asked and answered, and how universities and communities can collaboratively build systems that support analysis and knowledge creation. 
     <br><br>
     Using a design-based research approach, my tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
     <br><br>
-    I received an interdisciplinary Applied Science PhD from Southern Methodist University’s Lyle School of Engineering in Dallas, Texas in 2023. My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
+    My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
 
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
 #   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
@@ -144,6 +144,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
