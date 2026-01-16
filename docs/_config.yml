@@ -41,7 +41,7 @@ hero:
   hero__description: |
     I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>.
     <br><br>
-    I am pioneering the emerging field of "Experimental Computational Humanities" (ECH), a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of producing knowledge. ECH recognizes that answering challenging questions requires lots of perspectives, which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment across both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
+    I am pioneering the emerging field of "Experimental Computational Humanities" (ECH), a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of knowledge production. ECH recognizes that answering challenging questions requires lots of perspectives, which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment across both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
     <br><br>
     Digital history is a field in which design-based research is especially productive. Tools are epistemic instruments for producing and mediating knowledge and the design of digital infrastructure shapes what kinds of historical questions can be asked and answered, and how universities and communities can collaboratively build systems that support analysis and knowledge creation. 
     <br><br>
@@ -142,6 +142,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
