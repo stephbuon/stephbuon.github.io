@@ -43,13 +43,14 @@ hero:
     <br><br>
     I am pioneering the emerging field of "Experimental Computational Humanities" (ECH), a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of knowledge production. ECH recognizes that answering challenging questions requires lots of perspectives, which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment across both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
     <br><br>
-    Design-based humanities research is especially productive in digital history. Because tools function as epistemic instruments, the design of digital infrastructure shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems that support analysis and knowledge creation.
+    Design-based humanities research is especially productive in digital history where we can treat technology as objects of historical inquiry as well as instruments of analysis. Because tools function as epistemic instruments, the design of digital infrastructure shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems that support analysis and knowledge creation.
     <br><br>
     Using a design-based research approach, my tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
     <br><br>
     My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Early American Studies, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ).
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
 #   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
+
 
 
 #    <br><br> If my open source software has helped you in some way, consider supporting my work: 
@@ -142,6 +143,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
