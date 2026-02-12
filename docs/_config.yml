@@ -36,9 +36,7 @@ social:
 #    Her transdisciplinary research produces new knowledge that extends beyond the boundaries of any single field by introducing new methods for interpreting texts, data, culture, and society. 
 #    Her work has been published by Cambridge University Press, AAAI, and IEEE, and supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ). She enjoys poetry, all sorts of sensory things, and quiet underwater worlds.
 
-hero:
-  hero__title: ""
-  hero__description: |
+
 #    I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>.
 #    <br><br>
 #    I have introduced the term "Experimental Computational Humanities" (ECH) to describe my research. ECH is a design-based research paradigm that integrates digital humanities, experimental humanities, and computer science to foreground experimentation and tool-building as modes of knowledge production. ECH recognizes that answering challenging questions requires lots of perspectives, which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment across both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
@@ -51,6 +49,11 @@ hero:
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
 #   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
 
+
+
+hero:
+  hero__title: ""
+  hero__description: |
     I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>.
     <br><br>
     As an interdisciplinary data scientist, I have introduced the term "Experimental Computational History" (ECH) to describe my research. ECH is a design-based research paradigm that foregrounds experimentation and tool-building as modes of knowledge production. Answering challenging questions requires lots of perspectives, which is why researching across traditional academic boundaries to learn from each other is essential, as is a willingness to experiment across both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
@@ -152,6 +155,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
