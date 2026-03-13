@@ -58,7 +58,7 @@ hero:
     <br><br>
     Answering challenging questions requires lots of perspectives. This is why my approach to interdisciplinary data science emphasizes researching across traditional academic boundaries to learn from one another while fostering a willingness to experiment in both the arts and the sciences, guided by an open-minded spirit of possibility and discovery.
     <br><br>
-    I perform design-based history research (Kalani Craig) in a way that treats technology as objects of historical inquiry as well as instruments of analysis, forgrounding experimentation and tool-building as modes of knowledge production. Because tools function as epistemic instruments, the design of digital infrastructure shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems that support analysis and knowledge creation.
+    I perform design-based history research in a way that treats technology as objects of historical inquiry as well as instruments of analysis, forgrounding experimentation and tool-building as modes of knowledge production. Because tools function as epistemic instruments, the design of digital infrastructure shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems that support analysis and knowledge creation.
     <br><br>
     Using a design-based research approach, my tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 355 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness that were previously infeasible. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
     <br><br>
@@ -159,6 +159,7 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
 
 
 
