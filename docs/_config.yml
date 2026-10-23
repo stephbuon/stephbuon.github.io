@@ -49,18 +49,19 @@ social:
 #    <a href="https://github.com/stephbuon" style="color: blue; text-decoration:underline"> Visit GitHub </a>
 #   <a href="https://stephbuon.github.io/cv/buongiorno_cv.pdf" style="color: blue; text-decoration:underline"> Download CV</a>. 
 
-
+# and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>
+# As epistimic instruments
 
 hero:
   hero__title: ""
   hero__description: |
-    I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a> and the development of the <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>.
+    I am a postdoctoral fellow in Emory University's Data and Decision Sciences department, where I direct <a href="https://democracy-lab.github.io/" target="_blank" class="hero-link">Democracy Lab</a>.
     <br><br>
     I have introduced the term "Experimental Computational History" (ECH) to describe my research. ECH is a design-based research paradigm that treats technology as an object of historical inquiry as well as an instrument of analysis, foregrounding experimentation and tool-building as modes of knowledge production.
     <br><br>
-    As epistemic instruments, tool design shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems of knowledge. Guided by this philosophy, ECH encourages research across traditional academic boundaries, recognizing that answering challenging questions requires diverse perspectives, a willingness to experiment in both the arts and sciences, and an open-minded spirit of possibility and discovery.
+    Tool design shapes which historical questions can be asked and answered, as well as how universities and communities collaborate to build systems of knowledge. Guided by this philosophy, ECH encourages research across traditional academic boundaries, recognizing that answering challenging questions requires diverse perspectives, a willingness to experiment in both the arts and sciences, and an open-minded spirit of possibility and discovery.
     <br><br>
-    My tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 361 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness. My other project, Democracy Viewer, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
+    My tools have told global history at unprecedented scale, modeling consensus and dissent across Wikipedia’s 361 languages to advance multi-scale analyses of globality, connectivity, and interrelatedness. My other project, <a href="https://democracyviewer.com/" target="_blank" class="hero-link">Democracy Viewer</a>, is a public-history web application that provides citizens and researchers with accessible text-mining tools to examine how democratic discourse has changed over time.
     <br><br>
     My transdisciplinary scholarship has appeared or is forthcoming with Cambridge University Press, Journal of Digital History, Association for the Advancement of Artificial Intelligence (AAAI), and the Institute of Electrical and Electronics Engineers (IEEE). My research has been supported by the National Science Foundation (NSF), the National Endowment for the Humanities (NEH), and the National Institute of Justice (NIJ). 
 
